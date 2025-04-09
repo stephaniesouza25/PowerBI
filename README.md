@@ -48,9 +48,9 @@ Este repositório tem como finalidade:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui]  
-📧 [seuemail@email.com]  
-📎 LinkedIn: [link]
+Desenvolvido por Stephanie Souza 
+📧 stephanie_souzadf@outlook.com  
+📎 LinkedIn: https://www.linkedin.com/in/stephanie-souza-df/
 
 ---
 
