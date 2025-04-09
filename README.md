@@ -1,2 +1,57 @@
-# PowerBI
-Projetos realizados através do PowerBI
+# 📊 Projetos Power BI
+
+Bem-vindo ao repositório **PowerBi**! Aqui você encontrará todos os projetos desenvolvidos com **Power BI Desktop**, explorando diferentes áreas e cenários de análise de dados.
+
+Este espaço foi criado para compartilhar estudos, cases práticos, desafios de BI e dashboards interativos desenvolvidos com base em dados reais ou simulados.
+
+---
+
+## 📁 Estrutura do Repositório
+
+Cada projeto estará organizado em sua própria pasta contendo:
+
+- Arquivo `.pbix` do Power BI
+- Arquivo(s) de dados utilizados (Excel, CSV, etc.)
+- Imagens/prints dos dashboards
+- `README.md` explicando o contexto do projeto, objetivos, indicadores analisados e principais insights
+
+---
+
+## 🚀 Projetos Disponíveis
+
+| Projeto | Descrição |
+|--------|-----------|
+| [Gestão de Faturamento e Logística](./Gestao_Faturamento_Logistica) | Dashboard completo com análise de faturamento, entregas, motoristas e devoluções. Desenvolvido em parceria com a Empowerdata. |
+| _Em breve..._ | Novos projetos serão adicionados periodicamente! |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Power BI Desktop
+- Power Query (ETL)
+- Linguagem DAX
+- Excel (como fonte de dados)
+- PowerPoint (como base para templates visuais, em alguns projetos)
+
+---
+
+## 💡 Objetivos
+
+Este repositório tem como finalidade:
+
+- Compartilhar conhecimento e práticas em Business Intelligence
+- Criar um portfólio técnico com foco em visualização de dados
+- Demonstrar habilidades em modelagem, ETL e design de dashboards
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por [Seu Nome Aqui]  
+📧 [seuemail@email.com]  
+📎 LinkedIn: [link]
+
+---
+
+> Se você gostou de algum projeto, sinta-se à vontade para dar uma ⭐ ou entrar em contato!
