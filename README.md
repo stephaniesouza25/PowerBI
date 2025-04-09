@@ -21,7 +21,7 @@ Cada projeto estará organizado em sua própria pasta contendo:
 
 | Projeto | Descrição |
 |--------|-----------|
-| [Gestão de Faturamento e Logística](./Gestao_Faturamento_Logistica) | Dashboard completo com análise de faturamento, entregas, motoristas e devoluções. Desenvolvido em parceria com a Empowerdata. |
+| [Gestão de Faturamento e Logística](https://github.com/stephaniesouza25/PowerBI/tree/main/Log%C3%ADstica) | Dashboard completo com análise de faturamento, entregas, motoristas e devoluções. Desenvolvido em parceria com a Empowerdata. |
 | _Em breve..._ | Novos projetos serão adicionados periodicamente! |
 
 ---
