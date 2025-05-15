@@ -48,5 +48,5 @@ Este repositório contém o arquivo de **Power BI** que foi utilizado para reali
 * Conhecimento básico de DAX e visualização de dados no Power BI
 
 ## Dashboard Vendas de Frutas
-![Texto alternativo]()
+![Texto alternativo](https://github.com/stephaniesouza25/PowerBI/blob/main/Vendas_Frutas/Dashboard%20Vendas%20Frutas.png)
 
