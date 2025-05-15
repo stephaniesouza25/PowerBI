@@ -39,3 +39,5 @@ Modelagem de dados no Power BI
 
 * DAX (Data Analysis Expressions)
 
+## Resultado
+![Dashboard de Produção](https://github.com/stephaniesouza25/PowerBI/blob/main/An%C3%A1lise%20de%20Produ%C3%A7%C3%A3o/DashboardProducao.png)
