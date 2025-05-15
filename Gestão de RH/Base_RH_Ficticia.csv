@@ -1,0 +1,1001 @@
+﻿ID;Nome Completo;Gênero;Data de Nascimento;Idade;Estado Civil;Cargo;Departamento;Data de Admissão;Salário (R$);Tipo de Contrato;Escolaridade;Status;Cidade;Estado;Home Office;Avaliação de Desempenho (0-10);Faltas no Ano;Treinamentos Concluídos
+1;Cecília Alves;Outro;1967-07-17;57;Solteiro(a);Analista de RH;Administrativo;2019-04-13;2912.54;PJ;Superior Incompleto;Ativo;Correia do Oeste;DF;Sim;5.9;1;0
+2;Guilherme Vieira;Masculino;1968-07-10;56;Casado(a);Assistente Administrativo;Logística;2016-05-11;2221.41;PJ;Pós-graduação;Ativo;Nogueira;CE;Não;8.1;0;5
+3;Thiago Lopes;Outro;1989-01-20;36;Viúvo(a);Auxiliar de Logística;Marketing;2021-01-11;1608.84;Temporário;Ensino Médio;Ativo;Peixoto da Serra;PE;Sim;3.6;11;8
+4;João Felipe Peixoto;Masculino;1985-04-24;40;Viúvo(a);Estagiário de TI;Recursos Humanos;2011-03-16;1783.87;Estágio;Ensino Médio;Desligado;Peixoto de Santos;GO;Não;5.8;2;1
+5;Sr. Renan Melo;Outro;1992-12-01;32;Casado(a);Coordenador de Marketing;Recursos Humanos;2011-07-18;7493.61;CLT;Pós-graduação;Desligado;Pinto;CE;Não;1.6;11;6
+6;Vitória Cardoso;Outro;1988-06-06;36;Divorciado(a);Desenvolvedor;Logística;2019-03-25;5904.93;PJ;Superior Incompleto;Desligado;Porto;PE;Não;9.9;20;7
+7;Leandro Mendes;Outro;1982-04-04;43;Divorciado(a);Analista de RH;Tecnologia da Informação;2018-01-26;3732.7;Temporário;Pós-graduação;Desligado;Dias Alegre;RJ;Sim;9.1;18;10
+8;Lucas Gabriel Cardoso;Masculino;1993-02-07;32;Viúvo(a);Contador;Administrativo;2003-07-07;4647.13;Temporário;Superior Incompleto;Ativo;da Luz;DF;Não;7.5;13;12
+9;Dr. Yuri Lima;Feminino;1970-09-25;54;Casado(a);Gerente de Projetos;Logística;2003-06-03;9467.58;CLT;Ensino Médio;Ativo;Almeida das Pedras;MG;Não;6.0;12;12
+10;Leandro Pereira;Outro;1995-11-24;29;Viúvo(a);Estagiário de TI;Marketing;2018-09-08;1782.65;CLT;Ensino Médio;Desligado;Araújo de Monteiro;BA;Sim;2.9;5;14
+11;Isis Castro;Masculino;2005-04-28;20;Divorciado(a);Estagiário de TI;Tecnologia da Informação;2005-11-05;1504.61;CLT;Superior Completo;Ativo;Moreira do Amparo;MG;Não;7.6;17;0
+12;Dra. Mariane da Cunha;Outro;1983-04-12;42;Divorciado(a);Analista Financeiro;Recursos Humanos;2022-06-14;3223.74;Temporário;Superior Completo;Ativo;Costa;SP;Sim;8.8;2;2
+13;Eloah da Cruz;Outro;1975-03-06;50;Viúvo(a);Desenvolvedor;Logística;2007-06-18;6297.5;PJ;Pós-graduação;Ativo;Costela do Sul;PR;Não;9.6;17;6
+14;Sr. Theo Gonçalves;Outro;1990-02-06;35;Divorciado(a);Contador;Administrativo;2008-09-30;5124.7;Estágio;Pós-graduação;Ativo;Souza de Ramos;RS;Sim;0.6;0;7
+15;Danilo Duarte;Outro;1968-07-30;56;Casado(a);Analista de RH;Recursos Humanos;2020-03-31;3561.76;CLT;Superior Incompleto;Ativo;da Cruz do Amparo;SP;Não;0.7;7;8
+16;Emanuel Cardoso;Outro;1985-06-14;39;Viúvo(a);Assistente Administrativo;Logística;2013-10-05;1892.62;Estágio;Superior Incompleto;Desligado;Costela do Galho;PE;Sim;0.9;13;11
+17;Amanda Silveira;Feminino;1970-08-09;54;Viúvo(a);Analista Financeiro;Administrativo;2020-06-28;3108.34;CLT;Ensino Médio;Desligado;Gomes;BA;Sim;2.5;6;14
+18;Srta. Giovanna Nogueira;Masculino;1989-02-12;36;Viúvo(a);Gerente de Projetos;Marketing;2021-01-30;9313.14;CLT;Pós-graduação;Ativo;Dias Grande;SP;Sim;9.7;7;5
+19;Dr. Lucca Barros;Feminino;2000-10-15;24;Viúvo(a);Analista Financeiro;Tecnologia da Informação;2016-08-07;4729.3;CLT;Superior Incompleto;Desligado;Monteiro;SP;Não;2.7;14;9
+20;Ana Carolina Duarte;Feminino;1994-03-02;31;Viúvo(a);Gerente de Projetos;Tecnologia da Informação;2008-05-21;8483.54;CLT;Ensino Médio;Desligado;Melo do Amparo;SP;Sim;5.8;16;5
+21;Sr. Noah Souza;Masculino;1982-08-27;42;Solteiro(a);Gerente de Projetos;Recursos Humanos;2016-07-17;9975.18;PJ;Pós-graduação;Ativo;das Neves;GO;Sim;5.8;1;2
+22;Caroline Rodrigues;Feminino;1990-12-16;34;Divorciado(a);Coordenador de Marketing;Tecnologia da Informação;2015-12-03;6844.04;Temporário;Superior Incompleto;Desligado;Pereira;PE;Sim;6.7;9;14
+23;Ana Beatriz Castro;Feminino;1975-05-15;50;Solteiro(a);Analista de RH;Financeiro;2022-01-19;3431.74;CLT;Ensino Médio;Ativo;Barros;DF;Não;1.3;11;2
+24;Dra. Sofia Carvalho;Masculino;1965-01-02;60;Divorciado(a);Coordenador de Marketing;Tecnologia da Informação;2013-07-30;6033.65;Temporário;Ensino Médio;Desligado;Costela de Vieira;RJ;Sim;2.6;3;4
+25;Ian Nogueira;Feminino;1989-07-08;35;Divorciado(a);Designer Gráfico;Tecnologia da Informação;2016-01-12;4019.94;PJ;Superior Completo;Desligado;da Luz de Rodrigues;PR;Sim;0.9;13;8
+26;Ana Clara Rocha;Masculino;1986-08-27;38;Solteiro(a);Auxiliar de Logística;Tecnologia da Informação;2007-09-23;1945.98;Temporário;Superior Incompleto;Desligado;Ribeiro Verde;DF;Não;5.6;3;2
+27;Srta. Lívia Cardoso;Outro;1985-01-18;40;Casado(a);Estagiário de TI;Recursos Humanos;2009-11-18;1700.76;PJ;Pós-graduação;Ativo;Barbosa;SP;Não;3.6;1;11
+28;Bruno Fernandes;Masculino;1997-12-30;27;Casado(a);Desenvolvedor;Marketing;2002-01-29;6340.35;Estágio;Superior Incompleto;Ativo;da Mota do Oeste;MG;Sim;8.8;0;5
+29;Gabrielly Melo;Outro;2002-07-06;22;Divorciado(a);Contador;Administrativo;2001-05-01;5660.16;PJ;Superior Completo;Ativo;Correia;RJ;Não;8.7;15;7
+30;Dra. Marina Cardoso;Masculino;1985-08-15;39;Viúvo(a);Auxiliar de Logística;Marketing;2007-10-29;2074.38;PJ;Superior Incompleto;Ativo;Ferreira do Galho;RS;Não;3.3;2;8
+31;Emilly Alves;Feminino;1992-06-05;32;Viúvo(a);Estagiário de TI;Marketing;2002-04-01;1763.54;CLT;Superior Completo;Ativo;Rezende;GO;Não;0.4;19;13
+32;Marcos Vinicius Ribeiro;Feminino;1982-09-05;42;Divorciado(a);Contador;Logística;2011-10-02;5960.59;CLT;Pós-graduação;Ativo;Ribeiro de Almeida;PR;Sim;7.1;0;6
+33;Kaique da Conceição;Feminino;1988-10-22;36;Viúvo(a);Desenvolvedor;Administrativo;2008-06-25;6762.31;Temporário;Ensino Médio;Desligado;Rocha;DF;Não;6.7;10;12
+34;Luiz Felipe da Paz;Outro;1984-03-30;41;Divorciado(a);Estagiário de TI;Tecnologia da Informação;2006-08-10;1315.1;Estágio;Superior Incompleto;Desligado;Castro Paulista;PE;Sim;3.0;6;13
+35;Igor Carvalho;Outro;1982-06-24;42;Divorciado(a);Analista Financeiro;Financeiro;2013-07-16;3884.32;PJ;Pós-graduação;Ativo;Moreira;RJ;Não;5.2;20;10
+36;Arthur Santos;Masculino;1984-02-21;41;Casado(a);Coordenador de Marketing;Tecnologia da Informação;2000-10-25;7322.97;PJ;Ensino Médio;Ativo;Gomes do Galho;RS;Não;6.1;2;14
+37;Felipe Cunha;Feminino;1969-05-06;56;Casado(a);Contador;Financeiro;2013-03-04;4499.13;PJ;Ensino Médio;Ativo;da Rosa;PE;Sim;1.8;16;14
+38;Srta. Maria Eduarda Cardoso;Masculino;1977-03-25;48;Casado(a);Desenvolvedor;Financeiro;2023-02-27;4400.02;Estágio;Superior Completo;Desligado;Pinto de Melo;GO;Não;8.3;17;14
+39;Stella Monteiro;Masculino;1974-05-08;51;Viúvo(a);Analista Financeiro;Marketing;2022-07-18;4503.55;Temporário;Pós-graduação;Ativo;Porto da Prata;PR;Não;0.8;9;7
+40;Isis Duarte;Feminino;1995-07-16;29;Divorciado(a);Auxiliar de Logística;Logística;2016-06-13;1556.4;PJ;Superior Incompleto;Desligado;Santos das Flores;MG;Sim;0.6;13;10
+41;Sra. Raquel Nunes;Outro;1995-10-24;29;Viúvo(a);Contador;Recursos Humanos;2005-04-24;4017.09;Estágio;Pós-graduação;Ativo;Peixoto da Mata;GO;Não;4.8;11;9
+42;Caio Duarte;Feminino;1994-08-12;30;Viúvo(a);Estagiário de TI;Administrativo;2022-08-29;1640.78;PJ;Pós-graduação;Ativo;Nascimento;PR;Não;4.9;12;10
+43;Sr. Luiz Miguel da Rosa;Outro;1976-01-15;49;Viúvo(a);Gerente de Projetos;Financeiro;2020-07-08;11597.71;CLT;Pós-graduação;Ativo;Moraes;RJ;Não;1.4;14;5
+44;Lara Fernandes;Masculino;1992-09-28;32;Divorciado(a);Contador;Marketing;2008-02-12;4029.15;Temporário;Superior Completo;Desligado;da Rosa do Sul;PR;Não;2.5;2;15
+45;Dra. Ana Júlia Mendes;Masculino;2003-03-24;22;Solteiro(a);Auxiliar de Logística;Tecnologia da Informação;2007-03-01;1955.1;CLT;Ensino Médio;Ativo;Fogaça de Goiás;RS;Sim;6.2;7;4
+46;Levi Monteiro;Feminino;1985-06-10;39;Solteiro(a);Designer Gráfico;Tecnologia da Informação;2025-03-05;3590.56;Temporário;Superior Completo;Ativo;Lopes das Flores;GO;Sim;7.8;5;9
+47;Sra. Laís Costa;Masculino;1984-11-18;40;Solteiro(a);Coordenador de Marketing;Logística;2007-01-02;6870.72;Estágio;Pós-graduação;Ativo;da Paz;RJ;Sim;1.0;9;3
+48;Benício Nunes;Outro;1989-11-19;35;Solteiro(a);Auxiliar de Logística;Logística;2021-03-16;1799.86;Temporário;Ensino Médio;Desligado;Almeida;SP;Não;8.2;3;13
+49;Isabella Gonçalves;Feminino;1987-05-06;38;Viúvo(a);Gerente de Projetos;Financeiro;2015-01-07;7880.68;Temporário;Pós-graduação;Desligado;Nascimento dos Dourados;PE;Não;3.2;7;2
+50;Clara Rodrigues;Feminino;1988-02-14;37;Viúvo(a);Assistente Administrativo;Financeiro;2017-02-04;2198.89;Estágio;Superior Completo;Ativo;Farias;CE;Não;1.8;6;11
+51;Melissa Santos;Feminino;1997-10-16;27;Divorciado(a);Coordenador de Marketing;Logística;2012-08-19;6954.14;Temporário;Ensino Médio;Ativo;Duarte;RJ;Sim;7.2;15;7
+52;Valentina Dias;Outro;1980-02-13;45;Viúvo(a);Analista Financeiro;Financeiro;2011-04-17;4585.87;CLT;Superior Completo;Ativo;Ramos;PE;Sim;3.1;18;11
+53;Melissa Barbosa;Feminino;1974-11-27;50;Divorciado(a);Contador;Administrativo;2017-02-19;4875.97;Temporário;Pós-graduação;Desligado;Sales;PR;Não;2.3;6;10
+54;Marcelo Barbosa;Masculino;1980-08-25;44;Casado(a);Assistente Administrativo;Tecnologia da Informação;2017-06-23;2317.02;Temporário;Superior Completo;Ativo;Silva;RS;Não;2.3;5;9
+55;Arthur Novaes;Masculino;2002-10-30;22;Casado(a);Coordenador de Marketing;Recursos Humanos;2010-01-22;7910.03;Temporário;Superior Incompleto;Desligado;da Rosa;RJ;Sim;5.7;15;15
+56;Dr. Benício da Paz;Feminino;1974-01-06;51;Divorciado(a);Gerente de Projetos;Recursos Humanos;2015-05-02;8262.39;Estágio;Ensino Médio;Ativo;da Mota;PE;Não;0.7;20;1
+57;Emilly Duarte;Masculino;1985-02-05;40;Casado(a);Designer Gráfico;Marketing;2022-03-23;2944.81;PJ;Ensino Médio;Desligado;Moraes de Porto;GO;Sim;7.8;12;14
+58;Ryan Pinto;Feminino;1993-02-01;32;Divorciado(a);Designer Gráfico;Financeiro;2006-10-11;3319.15;CLT;Ensino Médio;Ativo;Almeida do Oeste;RS;Não;6.6;5;7
+59;Ana da Rocha;Masculino;1992-01-18;33;Solteiro(a);Gerente de Projetos;Recursos Humanos;2012-05-26;9042.59;Estágio;Superior Completo;Ativo;Lopes;RS;Não;7.1;14;2
+60;Dr. Otávio Santos;Outro;1993-01-25;32;Casado(a);Coordenador de Marketing;Administrativo;2006-03-25;6564.26;PJ;Pós-graduação;Ativo;Barbosa de da Mota;DF;Sim;6.5;8;4
+61;Cecília Martins;Masculino;1972-02-16;53;Solteiro(a);Gerente de Projetos;Marketing;2005-03-07;9975.22;Temporário;Pós-graduação;Ativo;Alves;CE;Não;7.0;8;15
+62;Isabel Monteiro;Feminino;1972-11-27;52;Solteiro(a);Designer Gráfico;Recursos Humanos;2019-05-29;4312.02;Temporário;Superior Completo;Ativo;Cavalcanti do Galho;RJ;Sim;9.6;18;0
+63;Samuel da Rocha;Outro;2001-06-09;23;Divorciado(a);Designer Gráfico;Recursos Humanos;2007-01-04;4097.29;PJ;Pós-graduação;Desligado;da Cruz de Azevedo;PR;Sim;10.0;13;15
+64;Davi Lucca da Rocha;Masculino;1993-01-08;32;Viúvo(a);Auxiliar de Logística;Financeiro;2020-10-09;1733.32;CLT;Superior Incompleto;Desligado;Caldeira do Campo;PE;Não;2.9;12;1
+65;Kaique Nunes;Feminino;1965-01-23;60;Solteiro(a);Auxiliar de Logística;Marketing;2017-05-01;1726.29;Estágio;Ensino Médio;Desligado;Ferreira;PE;Sim;1.9;11;15
+66;Olivia Barbosa;Outro;2004-02-11;21;Viúvo(a);Analista de RH;Tecnologia da Informação;2013-01-04;2900.58;PJ;Superior Completo;Desligado;da Rosa de Minas;CE;Sim;0.3;20;7
+67;Esther Oliveira;Outro;1998-03-05;27;Casado(a);Coordenador de Marketing;Logística;2016-04-21;4547.86;Estágio;Ensino Médio;Ativo;Costela Alegre;RJ;Não;9.5;20;4
+68;Carlos Eduardo Monteiro;Feminino;1983-07-15;41;Divorciado(a);Estagiário de TI;Administrativo;2005-10-19;1364.05;Estágio;Pós-graduação;Ativo;da Mota;CE;Sim;3.8;19;4
+69;Helena Vieira;Masculino;1966-11-15;58;Divorciado(a);Contador;Marketing;2010-07-25;5835.62;Temporário;Ensino Médio;Desligado;Jesus;PR;Não;8.7;14;15
+70;João Lucas Fogaça;Feminino;1976-09-09;48;Divorciado(a);Estagiário de TI;Logística;2016-03-07;1426.33;Temporário;Superior Incompleto;Ativo;Fernandes de da Cruz;GO;Não;2.3;13;1
+71;Leonardo Costela;Feminino;1970-08-29;54;Viúvo(a);Contador;Financeiro;2006-09-16;5971.04;PJ;Pós-graduação;Ativo;Lima de Goiás;MG;Não;8.7;14;3
+72;Thales Farias;Outro;1998-05-22;26;Viúvo(a);Analista de RH;Administrativo;2000-09-17;2716.23;PJ;Ensino Médio;Desligado;da Conceição;PR;Não;6.2;12;2
+73;Dr. João Lucas Ramos;Feminino;1989-02-15;36;Viúvo(a);Auxiliar de Logística;Administrativo;2024-04-14;2003.1;Estágio;Ensino Médio;Ativo;Costela;RS;Não;10.0;2;13
+74;Milena Souza;Masculino;1988-10-23;36;Solteiro(a);Analista Financeiro;Tecnologia da Informação;2002-02-01;4388.0;CLT;Ensino Médio;Desligado;Dias;SP;Não;3.6;13;4
+75;Kamilly Nascimento;Masculino;1969-02-08;56;Viúvo(a);Designer Gráfico;Administrativo;2003-01-16;4147.28;PJ;Superior Incompleto;Ativo;Souza;GO;Não;6.2;7;15
+76;Srta. Cecília da Cruz;Outro;1994-05-26;30;Casado(a);Assistente Administrativo;Financeiro;2019-07-22;2246.53;Estágio;Superior Completo;Ativo;da Rocha;CE;Não;6.8;5;2
+77;Ana Clara das Neves;Feminino;1970-04-07;55;Divorciado(a);Designer Gráfico;Marketing;2012-03-20;3886.2;Estágio;Superior Completo;Desligado;Cardoso Grande;PR;Sim;10.0;15;3
+78;Davi Lucas Pinto;Masculino;1967-08-18;57;Viúvo(a);Designer Gráfico;Marketing;2007-08-27;3777.18;Temporário;Ensino Médio;Desligado;Carvalho de das Neves;PR;Sim;5.7;1;15
+79;Helena Freitas;Feminino;1999-11-26;25;Casado(a);Designer Gráfico;Marketing;2011-03-16;3172.31;PJ;Superior Completo;Ativo;Viana;RJ;Sim;3.1;14;1
+80;Luiz Henrique Carvalho;Outro;1990-07-06;34;Divorciado(a);Gerente de Projetos;Recursos Humanos;2022-01-24;11548.14;Temporário;Pós-graduação;Ativo;Rezende Paulista;RS;Sim;7.9;11;8
+81;Nicole Barros;Masculino;1995-11-28;29;Divorciado(a);Analista Financeiro;Marketing;2000-05-16;4493.12;Temporário;Ensino Médio;Desligado;Correia;RJ;Sim;7.5;7;12
+82;Maysa da Rosa;Outro;1971-12-27;53;Divorciado(a);Desenvolvedor;Financeiro;2021-02-18;4041.76;CLT;Pós-graduação;Desligado;Rezende;PR;Não;8.2;11;3
+83;Clarice Novaes;Outro;1980-02-02;45;Casado(a);Analista Financeiro;Recursos Humanos;2007-03-05;4239.09;Temporário;Superior Incompleto;Ativo;Ramos;CE;Não;6.5;3;4
+84;Renan Almeida;Masculino;1968-10-22;56;Solteiro(a);Coordenador de Marketing;Financeiro;2016-10-25;4906.42;PJ;Superior Incompleto;Desligado;da Luz da Serra;CE;Não;6.7;17;13
+85;Yago Araújo;Outro;1991-02-25;34;Casado(a);Contador;Administrativo;2023-04-18;3747.55;Estágio;Pós-graduação;Desligado;Jesus do Amparo;SP;Não;2.2;14;7
+86;Mirella da Luz;Feminino;1984-09-17;40;Solteiro(a);Auxiliar de Logística;Logística;2007-03-15;2131.19;Temporário;Ensino Médio;Desligado;da Costa de Minas;PR;Sim;9.7;14;2
+87;Stella Castro;Outro;1989-04-16;36;Casado(a);Designer Gráfico;Recursos Humanos;2009-02-24;2885.98;Temporário;Superior Incompleto;Ativo;Nogueira da Serra;GO;Sim;0.7;17;6
+88;Evelyn da Luz;Outro;1982-04-13;43;Casado(a);Assistente Administrativo;Marketing;2001-09-24;2342.06;CLT;Superior Completo;Ativo;Correia de Costa;MG;Não;8.0;3;0
+89;Ana Lívia Santos;Masculino;1970-03-07;55;Solteiro(a);Auxiliar de Logística;Tecnologia da Informação;2010-03-15;1912.2;CLT;Superior Incompleto;Desligado;da Mota de Minas;SP;Sim;7.4;16;3
+90;Ana Carolina Silveira;Outro;1996-12-20;28;Solteiro(a);Analista Financeiro;Financeiro;2011-12-31;4556.03;CLT;Pós-graduação;Ativo;Lopes;GO;Sim;7.3;16;9
+91;Raquel Cardoso;Feminino;1985-05-06;40;Solteiro(a);Analista de RH;Financeiro;2017-09-14;3770.95;Estágio;Ensino Médio;Desligado;da Mota;CE;Sim;9.0;10;4
+92;Ana Júlia Correia;Masculino;1998-04-18;27;Casado(a);Coordenador de Marketing;Logística;2023-03-10;6715.77;Temporário;Pós-graduação;Desligado;Nogueira de Peixoto;CE;Não;1.0;3;6
+93;Vitor Hugo das Neves;Feminino;1968-02-02;57;Viúvo(a);Assistente Administrativo;Financeiro;2014-10-25;2037.25;Estágio;Pós-graduação;Desligado;Oliveira do Sul;RJ;Não;4.3;8;11
+94;Sabrina Ferreira;Masculino;1985-04-07;40;Viúvo(a);Desenvolvedor;Recursos Humanos;2010-05-30;6495.32;CLT;Pós-graduação;Ativo;Farias;BA;Sim;5.6;18;10
+95;Agatha Cardoso;Outro;1991-07-05;33;Solteiro(a);Contador;Marketing;2021-11-19;5684.02;Estágio;Ensino Médio;Desligado;Gomes;GO;Não;3.5;18;6
+96;Daniel da Costa;Masculino;1976-07-02;48;Viúvo(a);Assistente Administrativo;Recursos Humanos;2004-10-19;2045.08;Temporário;Ensino Médio;Desligado;Mendes da Praia;GO;Sim;8.1;17;0
+97;Rebeca Moraes;Outro;1974-08-13;50;Divorciado(a);Analista de RH;Tecnologia da Informação;2020-01-07;2909.91;Temporário;Superior Completo;Desligado;da Luz;SP;Sim;8.7;18;12
+98;Calebe Jesus;Masculino;2004-05-09;21;Casado(a);Analista de RH;Recursos Humanos;2000-05-16;3619.17;PJ;Pós-graduação;Desligado;Carvalho de Vieira;CE;Não;1.6;9;10
+99;Joaquim da Rosa;Outro;2000-05-16;25;Solteiro(a);Analista de RH;Tecnologia da Informação;2014-06-29;2736.11;CLT;Ensino Médio;Desligado;Rezende da Serra;CE;Não;4.9;14;13
+100;Maria Alice Silva;Feminino;1990-01-10;35;Casado(a);Estagiário de TI;Recursos Humanos;2011-09-23;1407.1;CLT;Superior Completo;Desligado;Moraes;DF;Não;0.5;12;1
+101;Srta. Bianca das Neves;Masculino;1990-08-13;34;Casado(a);Coordenador de Marketing;Tecnologia da Informação;2019-04-16;7185.72;Temporário;Superior Completo;Desligado;Rodrigues;RJ;Sim;5.0;13;5
+102;Isabella da Rocha;Masculino;1979-05-26;45;Viúvo(a);Estagiário de TI;Administrativo;2007-08-17;1338.07;Temporário;Ensino Médio;Desligado;Porto de Pinto;SP;Não;0.2;2;10
+103;Sra. Heloísa Nogueira;Outro;1991-10-24;33;Viúvo(a);Designer Gráfico;Financeiro;2019-06-04;4006.15;Estágio;Superior Completo;Ativo;Castro;PE;Sim;9.7;5;14
+104;Emanuelly Moura;Outro;1998-08-12;26;Divorciado(a);Desenvolvedor;Financeiro;2008-06-23;6533.45;PJ;Pós-graduação;Desligado;Fogaça;DF;Sim;4.0;9;10
+105;Mariane Lopes;Masculino;1977-05-07;48;Divorciado(a);Gerente de Projetos;Recursos Humanos;2015-08-29;9552.42;CLT;Superior Incompleto;Desligado;Peixoto de da Mata;BA;Sim;2.4;4;8
+106;Luiz Gustavo Mendes;Masculino;1984-08-20;40;Casado(a);Designer Gráfico;Tecnologia da Informação;2012-03-27;4092.37;CLT;Superior Incompleto;Desligado;da Cruz;CE;Não;6.8;18;10
+107;Dra. Nicole Teixeira;Outro;1966-01-03;59;Divorciado(a);Gerente de Projetos;Financeiro;2019-10-31;7341.43;Estágio;Superior Completo;Desligado;das Neves da Prata;GO;Sim;3.5;2;9
+108;Maria Eduarda Rocha;Feminino;1977-04-04;48;Viúvo(a);Analista de RH;Recursos Humanos;2013-08-15;3053.11;Temporário;Ensino Médio;Ativo;Caldeira;GO;Não;4.6;17;1
+109;Fernanda da Paz;Feminino;2001-10-04;23;Casado(a);Auxiliar de Logística;Logística;2012-08-02;1832.94;PJ;Ensino Médio;Desligado;Oliveira do Amparo;RJ;Não;9.8;2;5
+110;Alexia Correia;Masculino;1977-01-29;48;Casado(a);Analista Financeiro;Financeiro;2011-07-04;4048.14;PJ;Superior Completo;Desligado;Caldeira do Sul;PR;Não;4.1;10;1
+111;Kamilly Teixeira;Outro;1980-07-29;44;Divorciado(a);Desenvolvedor;Marketing;2008-10-03;4283.52;Estágio;Superior Completo;Desligado;Rezende;GO;Sim;3.3;18;4
+112;Stephany Barbosa;Feminino;1994-10-31;30;Divorciado(a);Contador;Tecnologia da Informação;2008-05-16;4987.6;CLT;Superior Completo;Desligado;Almeida;BA;Sim;6.7;16;2
+113;Bernardo Silveira;Outro;1965-02-26;60;Viúvo(a);Estagiário de TI;Marketing;2006-09-03;1210.94;Temporário;Superior Incompleto;Ativo;Ferreira de da Mata;BA;Não;1.9;4;4
+114;Maitê Vieira;Masculino;1998-10-22;26;Divorciado(a);Desenvolvedor;Logística;2012-07-31;6312.62;CLT;Superior Completo;Ativo;Pinto das Flores;GO;Não;1.5;5;5
+115;Catarina Cavalcanti;Outro;1975-03-01;50;Viúvo(a);Analista de RH;Financeiro;2001-11-27;3046.45;PJ;Pós-graduação;Desligado;Cavalcanti Alegre;CE;Sim;5.3;9;15
+116;Pedro Henrique Ferreira;Masculino;1968-05-28;56;Divorciado(a);Designer Gráfico;Financeiro;2008-04-04;3584.86;Temporário;Pós-graduação;Desligado;Costela;MG;Sim;8.0;4;8
+117;Maitê Costa;Masculino;1990-04-11;35;Viúvo(a);Auxiliar de Logística;Logística;2000-06-12;2154.01;CLT;Superior Completo;Ativo;Oliveira;MG;Não;4.5;16;4
+118;João Barros;Feminino;1970-02-16;55;Solteiro(a);Assistente Administrativo;Financeiro;2024-02-13;2419.24;CLT;Pós-graduação;Ativo;Rocha do Sul;PE;Não;2.4;2;11
+119;Pedro Miguel Cardoso;Masculino;1979-12-20;45;Solteiro(a);Auxiliar de Logística;Recursos Humanos;2015-08-07;2087.42;Temporário;Superior Incompleto;Ativo;da Rocha de Rodrigues;SP;Não;9.2;15;4
+120;Juan Monteiro;Outro;1997-05-28;27;Viúvo(a);Analista Financeiro;Logística;2014-03-15;3010.5;CLT;Ensino Médio;Desligado;Rezende das Pedras;RS;Sim;5.5;19;13
+121;Srta. Sabrina Cardoso;Masculino;1982-11-15;42;Divorciado(a);Assistente Administrativo;Marketing;2014-10-04;1885.29;PJ;Pós-graduação;Desligado;Ramos da Serra;RJ;Sim;8.4;15;0
+122;Ana Laura Vieira;Outro;1998-12-08;26;Casado(a);Gerente de Projetos;Marketing;2013-08-09;9146.19;Temporário;Superior Incompleto;Desligado;Alves;MG;Sim;5.2;11;2
+123;Maria Cardoso;Outro;1993-08-13;31;Solteiro(a);Contador;Financeiro;2002-02-04;3608.84;Estágio;Superior Completo;Desligado;Martins dos Dourados;SP;Não;7.9;11;7
+124;Lucca Fernandes;Outro;2003-12-04;21;Solteiro(a);Designer Gráfico;Administrativo;2014-06-18;4086.35;PJ;Ensino Médio;Desligado;Barros;DF;Não;8.1;5;14
+125;Maria Eduarda Silva;Outro;1988-03-31;37;Viúvo(a);Gerente de Projetos;Tecnologia da Informação;2016-09-03;7315.5;Estágio;Ensino Médio;Desligado;Ramos;RS;Sim;7.9;1;10
+126;Brenda Araújo;Feminino;1967-07-29;57;Viúvo(a);Estagiário de TI;Financeiro;2020-08-23;1351.99;PJ;Superior Completo;Desligado;da Mota;SP;Não;2.7;11;13
+127;Manuela Oliveira;Feminino;1993-06-22;31;Viúvo(a);Contador;Marketing;2000-06-09;5934.31;Estágio;Pós-graduação;Desligado;Costela;DF;Não;8.0;13;2
+128;Ana Beatriz Mendes;Feminino;1966-10-22;58;Casado(a);Estagiário de TI;Marketing;2007-02-27;1392.73;CLT;Superior Completo;Desligado;Pinto;PR;Não;6.0;13;5
+129;Sr. Paulo Porto;Outro;1999-02-18;26;Viúvo(a);Auxiliar de Logística;Financeiro;2017-09-19;1529.65;Temporário;Pós-graduação;Desligado;Monteiro de Duarte;SP;Sim;6.7;12;11
+130;Vinicius Vieira;Outro;1989-11-08;35;Casado(a);Analista de RH;Tecnologia da Informação;2013-10-20;3773.0;Estágio;Ensino Médio;Ativo;Moreira;RJ;Sim;7.8;11;11
+131;Dra. Maria Sophia Duarte;Feminino;1984-06-19;40;Solteiro(a);Designer Gráfico;Tecnologia da Informação;2000-11-26;3954.41;Temporário;Superior Completo;Desligado;Novaes;RJ;Sim;5.3;12;10
+132;Sr. João Gabriel Correia;Outro;1983-11-20;41;Divorciado(a);Assistente Administrativo;Recursos Humanos;2010-10-08;1818.14;PJ;Pós-graduação;Desligado;Farias;DF;Sim;2.6;8;14
+133;Sophia Pinto;Masculino;2000-09-30;24;Divorciado(a);Analista Financeiro;Tecnologia da Informação;2006-06-13;3245.27;CLT;Pós-graduação;Ativo;Novaes de Campos;CE;Sim;8.1;10;11
+134;Luana Martins;Outro;1974-05-19;51;Solteiro(a);Estagiário de TI;Logística;2005-10-15;1374.22;Temporário;Superior Incompleto;Ativo;Ramos dos Dourados;BA;Sim;1.2;6;4
+135;Srta. Fernanda Alves;Masculino;2005-01-16;20;Viúvo(a);Analista de RH;Marketing;2022-06-12;3331.03;Temporário;Pós-graduação;Ativo;Nogueira de Ramos;GO;Sim;0.7;12;15
+136;Srta. Ana Beatriz da Rocha;Outro;1980-03-04;45;Viúvo(a);Contador;Logística;2019-01-11;3684.38;Temporário;Ensino Médio;Desligado;da Mota de Goiás;CE;Não;1.3;17;5
+137;Maysa Sales;Masculino;1986-11-14;38;Viúvo(a);Estagiário de TI;Recursos Humanos;2024-06-06;1698.83;PJ;Superior Completo;Ativo;Santos;MG;Não;9.3;7;11
+138;Benício Campos;Outro;1988-06-17;36;Divorciado(a);Desenvolvedor;Marketing;2005-07-17;4588.91;Temporário;Superior Incompleto;Desligado;Barbosa;GO;Sim;5.0;5;4
+139;Melissa Melo;Masculino;1978-08-22;46;Divorciado(a);Designer Gráfico;Recursos Humanos;2008-03-03;4202.9;CLT;Ensino Médio;Ativo;Ribeiro;GO;Não;6.5;18;13
+140;Nicolas Moura;Outro;1989-10-29;35;Solteiro(a);Analista Financeiro;Administrativo;2024-04-21;4091.15;Temporário;Pós-graduação;Ativo;da Rosa;PE;Não;4.5;1;5
+141;Calebe Monteiro;Feminino;1969-12-18;55;Viúvo(a);Analista Financeiro;Financeiro;2006-01-30;3408.05;PJ;Superior Completo;Desligado;Cardoso de Nascimento;BA;Não;1.3;11;3
+142;Catarina Fernandes;Feminino;1999-08-09;25;Casado(a);Analista Financeiro;Recursos Humanos;2008-01-13;3534.94;PJ;Superior Incompleto;Ativo;da Cruz da Praia;SP;Não;9.5;19;13
+143;Sr. Theo das Neves;Masculino;1987-12-20;37;Casado(a);Auxiliar de Logística;Logística;2014-06-11;2004.79;PJ;Superior Incompleto;Desligado;Martins do Sul;DF;Não;5.0;9;15
+144;Ian Jesus;Masculino;1983-02-21;42;Solteiro(a);Contador;Logística;2000-11-19;4643.08;PJ;Superior Incompleto;Desligado;Dias de Pires;SP;Sim;2.8;19;15
+145;Juan Nascimento;Feminino;2000-08-02;24;Solteiro(a);Desenvolvedor;Financeiro;2019-01-29;4401.8;Temporário;Superior Completo;Desligado;Gomes da Mata;BA;Sim;4.0;18;6
+146;Sra. Maria Luiza Almeida;Feminino;1975-06-04;49;Divorciado(a);Desenvolvedor;Financeiro;2004-01-27;5512.77;Temporário;Ensino Médio;Ativo;Moreira da Mata;RJ;Não;3.7;10;11
+147;Nathan Campos;Masculino;1966-12-14;58;Casado(a);Designer Gráfico;Logística;2009-07-21;3482.36;CLT;Ensino Médio;Ativo;Cardoso;MG;Não;8.0;16;14
+148;Nathan Pereira;Masculino;1997-01-26;28;Casado(a);Auxiliar de Logística;Logística;2009-07-09;1722.97;Estágio;Superior Completo;Desligado;da Costa do Galho;DF;Não;7.1;9;15
+149;Srta. Isis da Rosa;Masculino;1990-12-12;34;Divorciado(a);Auxiliar de Logística;Administrativo;2005-05-14;1576.72;Estágio;Superior Completo;Ativo;Silveira do Galho;GO;Não;2.7;20;7
+150;Bruno Santos;Outro;1973-05-01;52;Solteiro(a);Designer Gráfico;Financeiro;2016-06-06;3089.87;Estágio;Superior Incompleto;Ativo;Silva Grande;SP;Sim;1.9;14;10
+151;Ana Novaes;Feminino;1968-03-12;57;Casado(a);Contador;Administrativo;2012-02-11;4009.73;Estágio;Ensino Médio;Ativo;Souza;DF;Sim;5.6;15;12
+152;Letícia Gonçalves;Feminino;1984-10-14;40;Casado(a);Analista Financeiro;Logística;2016-09-30;3684.65;Temporário;Superior Completo;Desligado;da Paz da Praia;RS;Sim;2.8;9;7
+153;João Vitor da Rocha;Feminino;1970-09-05;54;Divorciado(a);Assistente Administrativo;Administrativo;2009-03-19;2293.49;Temporário;Pós-graduação;Desligado;Gomes de Mendes;DF;Não;2.9;18;12
+154;Joaquim da Luz;Feminino;1983-05-04;42;Divorciado(a);Gerente de Projetos;Marketing;2019-10-27;7210.33;CLT;Superior Completo;Desligado;Porto do Oeste;PR;Não;2.1;17;8
+155;Sr. Carlos Eduardo Teixeira;Outro;1998-12-09;26;Divorciado(a);Gerente de Projetos;Recursos Humanos;2024-05-18;10078.39;PJ;Superior Incompleto;Ativo;da Rocha da Mata;DF;Sim;6.4;1;3
+156;Rafaela Sales;Feminino;1993-02-04;32;Divorciado(a);Analista Financeiro;Recursos Humanos;2001-10-03;4362.38;PJ;Ensino Médio;Ativo;Sales do Norte;PE;Não;4.8;6;9
+157;Joaquim da Conceição;Feminino;1975-04-11;50;Divorciado(a);Analista de RH;Recursos Humanos;2016-10-22;3478.45;PJ;Ensino Médio;Ativo;Pinto do Oeste;PE;Sim;9.3;1;12
+158;Gustavo Henrique Monteiro;Feminino;1992-09-30;32;Casado(a);Coordenador de Marketing;Recursos Humanos;2017-03-21;4532.44;CLT;Superior Completo;Desligado;Ribeiro;CE;Não;8.9;4;14
+159;Luiz Fernando Martins;Feminino;1996-09-25;28;Casado(a);Desenvolvedor;Marketing;2021-11-02;4487.48;Estágio;Superior Completo;Ativo;Gonçalves de Duarte;SP;Não;7.9;18;6
+160;Vitor Hugo Rodrigues;Masculino;1969-10-03;55;Viúvo(a);Contador;Logística;2010-04-20;4319.82;Estágio;Ensino Médio;Ativo;Caldeira;MG;Não;3.2;7;0
+161;João Gabriel Cunha;Feminino;1983-02-13;42;Viúvo(a);Assistente Administrativo;Financeiro;2019-06-12;2327.63;Temporário;Superior Completo;Ativo;Martins;PR;Não;6.9;1;3
+162;Raquel Moura;Feminino;1999-11-29;25;Divorciado(a);Gerente de Projetos;Financeiro;2025-01-13;10430.37;Temporário;Ensino Médio;Desligado;Jesus de Minas;BA;Sim;2.2;4;15
+163;Bárbara Martins;Masculino;1965-07-03;59;Viúvo(a);Designer Gráfico;Marketing;2012-05-24;3506.94;Estágio;Superior Incompleto;Ativo;Porto;GO;Sim;5.3;16;11
+164;Ana Sophia Fogaça;Masculino;2003-10-02;21;Solteiro(a);Analista de RH;Logística;2010-06-20;3854.33;PJ;Superior Incompleto;Ativo;da Cruz de Goiás;BA;Não;1.2;6;15
+165;Eduarda Gonçalves;Masculino;1996-12-31;28;Viúvo(a);Analista de RH;Financeiro;2009-08-13;2697.92;Estágio;Pós-graduação;Ativo;Novaes da Serra;DF;Não;6.7;9;0
+166;Alexandre Cardoso;Feminino;1992-04-18;33;Divorciado(a);Analista de RH;Administrativo;2023-02-20;2826.85;CLT;Ensino Médio;Desligado;Aragão;BA;Sim;5.4;1;2
+167;Marcela Silva;Feminino;1987-05-28;37;Solteiro(a);Coordenador de Marketing;Financeiro;2000-08-08;5129.93;PJ;Pós-graduação;Desligado;Mendes Paulista;PE;Não;8.7;12;12
+168;Alexia Lopes;Masculino;1991-02-15;34;Casado(a);Auxiliar de Logística;Recursos Humanos;2003-11-09;1624.93;Estágio;Superior Incompleto;Ativo;Santos;SP;Sim;9.8;14;13
+169;Yago das Neves;Outro;2002-12-04;22;Viúvo(a);Assistente Administrativo;Tecnologia da Informação;2012-04-29;2122.44;PJ;Superior Completo;Ativo;da Paz;RJ;Sim;8.1;13;0
+170;Augusto Costela;Masculino;1998-08-19;26;Casado(a);Desenvolvedor;Recursos Humanos;2012-08-30;5781.83;Estágio;Ensino Médio;Ativo;Monteiro;SP;Não;4.4;17;6
+171;Enzo Araújo;Masculino;1982-11-01;42;Casado(a);Estagiário de TI;Marketing;2009-07-07;1340.5;Temporário;Superior Completo;Ativo;Barbosa;PR;Sim;9.9;16;7
+172;Catarina Lima;Feminino;1994-11-20;30;Divorciado(a);Coordenador de Marketing;Recursos Humanos;2015-12-26;6448.51;PJ;Pós-graduação;Desligado;Alves;SP;Não;9.4;12;10
+173;Nathan Ribeiro;Outro;2001-02-03;24;Viúvo(a);Contador;Tecnologia da Informação;2004-05-11;4249.72;PJ;Pós-graduação;Ativo;Farias;RS;Não;8.6;4;14
+174;Isis Moreira;Masculino;1988-01-11;37;Viúvo(a);Contador;Logística;2008-09-16;4824.98;Estágio;Superior Incompleto;Desligado;Moreira da Prata;RS;Não;6.5;14;11
+175;Pedro Rodrigues;Masculino;1991-02-03;34;Casado(a);Analista de RH;Marketing;2022-03-08;3065.75;CLT;Ensino Médio;Ativo;Vieira;GO;Sim;4.8;10;9
+176;Vinicius Barros;Masculino;1965-09-26;59;Casado(a);Assistente Administrativo;Administrativo;2013-01-25;1882.12;Estágio;Superior Incompleto;Ativo;Ferreira;PE;Sim;5.5;9;12
+177;Davi Lucas Peixoto;Feminino;1985-10-12;39;Divorciado(a);Coordenador de Marketing;Marketing;2007-06-10;5758.76;Estágio;Pós-graduação;Ativo;Pinto do Amparo;CE;Não;9.1;11;10
+178;Giovanna Carvalho;Feminino;1991-06-25;33;Solteiro(a);Designer Gráfico;Tecnologia da Informação;2002-02-18;4060.13;CLT;Superior Completo;Desligado;Aragão de Martins;PR;Sim;2.0;7;12
+179;Leandro Viana;Outro;1984-07-17;40;Casado(a);Analista Financeiro;Logística;2013-07-08;4309.22;Temporário;Superior Completo;Desligado;da Conceição;CE;Não;1.7;11;5
+180;Luana Barbosa;Masculino;1964-05-30;60;Viúvo(a);Gerente de Projetos;Logística;2000-08-01;11951.62;CLT;Ensino Médio;Ativo;da Conceição;SP;Sim;4.1;20;7
+181;Igor Cardoso;Masculino;2001-06-21;23;Casado(a);Analista de RH;Tecnologia da Informação;2019-12-13;3258.6;Temporário;Ensino Médio;Desligado;Novaes;CE;Sim;0.1;17;13
+182;Sabrina Sales;Masculino;1966-08-09;58;Solteiro(a);Estagiário de TI;Administrativo;2017-11-14;1364.84;Temporário;Ensino Médio;Desligado;Souza;MG;Sim;9.2;16;4
+183;Nina Ribeiro;Masculino;1971-05-19;54;Casado(a);Designer Gráfico;Logística;2004-01-13;3229.11;Temporário;Superior Completo;Desligado;Novaes de Nascimento;RJ;Não;9.6;14;7
+184;Srta. Maria Eduarda Teixeira;Outro;2000-08-02;24;Casado(a);Coordenador de Marketing;Administrativo;2019-11-11;7398.22;CLT;Ensino Médio;Ativo;Rodrigues;PE;Não;3.8;15;1
+185;Lucca Moraes;Outro;1983-07-27;41;Solteiro(a);Gerente de Projetos;Recursos Humanos;2021-05-03;9499.29;Estágio;Superior Completo;Ativo;Sales das Flores;DF;Sim;2.3;18;15
+186;Clara Aragão;Feminino;1996-12-15;28;Solteiro(a);Desenvolvedor;Administrativo;2018-02-27;6776.75;CLT;Superior Incompleto;Desligado;Barbosa;SP;Sim;5.9;12;2
+187;Natália Gomes;Feminino;2000-12-21;24;Casado(a);Designer Gráfico;Tecnologia da Informação;2016-04-24;3763.38;Estágio;Superior Completo;Desligado;Costa da Mata;MG;Sim;5.0;11;1
+188;Amanda Cardoso;Masculino;1968-11-19;56;Viúvo(a);Assistente Administrativo;Recursos Humanos;2008-03-12;2038.41;Estágio;Superior Completo;Ativo;Araújo;PR;Não;4.9;11;12
+189;Alícia Sales;Feminino;1980-11-23;44;Casado(a);Designer Gráfico;Administrativo;2003-09-14;3446.12;Temporário;Superior Incompleto;Ativo;da Rosa do Amparo;RJ;Não;1.5;20;4
+190;Ian Dias;Outro;1991-08-17;33;Viúvo(a);Auxiliar de Logística;Marketing;2024-10-23;1574.59;CLT;Superior Completo;Desligado;Silva de Moreira;BA;Não;1.0;2;5
+191;Ana Vitória Porto;Feminino;1979-07-26;45;Viúvo(a);Estagiário de TI;Logística;2020-07-03;1507.46;CLT;Ensino Médio;Ativo;Souza;BA;Sim;6.0;10;12
+192;Isabella Araújo;Masculino;1981-09-24;43;Divorciado(a);Contador;Financeiro;2013-07-30;5447.92;PJ;Superior Incompleto;Desligado;da Rocha;MG;Sim;2.7;8;15
+193;Samuel Freitas;Masculino;1972-02-26;53;Solteiro(a);Gerente de Projetos;Financeiro;2005-06-22;8379.81;Temporário;Pós-graduação;Ativo;Porto de Minas;BA;Não;9.4;20;15
+194;Maria Vitória Vieira;Outro;1980-01-28;45;Casado(a);Analista Financeiro;Recursos Humanos;2025-04-21;3270.98;CLT;Pós-graduação;Desligado;Moraes de Rocha;GO;Não;8.0;10;14
+195;Leandro da Costa;Feminino;1992-12-14;32;Viúvo(a);Designer Gráfico;Tecnologia da Informação;2006-05-16;3310.74;PJ;Pós-graduação;Desligado;Santos;MG;Não;9.7;9;15
+196;Joana Castro;Outro;2004-03-22;21;Casado(a);Auxiliar de Logística;Financeiro;2001-10-06;1696.21;Estágio;Superior Completo;Ativo;Almeida;GO;Sim;5.9;17;5
+197;André Duarte;Outro;1999-05-08;26;Solteiro(a);Analista Financeiro;Administrativo;2022-08-13;3419.3;Temporário;Ensino Médio;Desligado;Santos da Serra;CE;Sim;6.3;7;8
+198;Sr. Pedro Henrique Farias;Outro;2002-07-25;22;Casado(a);Contador;Financeiro;2015-12-15;3684.91;Estágio;Pós-graduação;Desligado;Sales da Serra;DF;Sim;7.9;11;2
+199;André Pinto;Masculino;1982-04-07;43;Casado(a);Auxiliar de Logística;Tecnologia da Informação;2018-10-25;1952.9;CLT;Pós-graduação;Desligado;Melo da Mata;PE;Sim;0.1;8;7
+200;Srta. Nina Pinto;Outro;1988-04-22;37;Casado(a);Analista Financeiro;Marketing;2020-11-09;3782.27;PJ;Superior Completo;Ativo;da Mata;CE;Sim;3.0;2;3
+201;Theo da Costa;Outro;2001-01-21;24;Casado(a);Auxiliar de Logística;Marketing;2019-01-13;1740.15;PJ;Pós-graduação;Desligado;Barbosa;CE;Sim;4.4;14;10
+202;Srta. Maitê da Costa;Masculino;1998-09-21;26;Divorciado(a);Analista de RH;Administrativo;2017-06-28;2672.63;Temporário;Ensino Médio;Ativo;Aragão Alegre;RS;Sim;5.5;10;13
+203;Miguel da Mata;Feminino;1983-11-21;41;Casado(a);Contador;Administrativo;2005-11-29;3961.13;Estágio;Pós-graduação;Ativo;Cardoso;GO;Sim;4.5;13;12
+204;Rodrigo Aragão;Masculino;1998-01-25;27;Casado(a);Assistente Administrativo;Marketing;2001-05-15;2326.63;CLT;Ensino Médio;Ativo;Lopes;BA;Não;2.0;3;8
+205;Luiz Henrique Duarte;Outro;2001-01-10;24;Viúvo(a);Estagiário de TI;Administrativo;2004-10-04;1388.04;Estágio;Pós-graduação;Ativo;Campos da Mata;BA;Não;8.5;19;5
+206;Laís Nunes;Outro;2002-07-06;22;Divorciado(a);Designer Gráfico;Logística;2011-04-29;2944.08;PJ;Superior Completo;Ativo;Rodrigues;RS;Não;1.2;11;4
+207;Dra. Kamilly Rezende;Outro;1995-11-08;29;Viúvo(a);Contador;Logística;2019-01-16;3844.67;Estágio;Pós-graduação;Ativo;Pinto;CE;Sim;5.5;15;9
+208;Joana Melo;Masculino;1994-02-20;31;Casado(a);Auxiliar de Logística;Financeiro;2006-11-02;1933.59;Temporário;Ensino Médio;Desligado;Freitas da Serra;MG;Sim;8.2;17;15
+209;Isabella Castro;Feminino;2002-06-29;22;Viúvo(a);Contador;Administrativo;2003-10-11;5599.73;Estágio;Superior Incompleto;Ativo;Pinto;GO;Sim;8.0;7;9
+210;Francisco da Luz;Masculino;1986-10-07;38;Divorciado(a);Assistente Administrativo;Logística;2021-03-18;2002.07;Estágio;Pós-graduação;Ativo;Alves de Goiás;GO;Sim;2.7;17;11
+211;Heloísa Souza;Outro;1964-07-30;60;Solteiro(a);Analista Financeiro;Logística;2011-12-15;3437.08;Estágio;Ensino Médio;Ativo;Teixeira Alegre;PR;Sim;4.5;11;2
+212;Srta. Laura Fogaça;Feminino;2000-08-07;24;Solteiro(a);Assistente Administrativo;Tecnologia da Informação;2003-06-21;2367.49;Temporário;Pós-graduação;Ativo;Barros Paulista;GO;Sim;7.8;6;1
+213;Rodrigo Rezende;Outro;2001-03-08;24;Divorciado(a);Estagiário de TI;Marketing;2003-08-15;1558.11;PJ;Superior Completo;Desligado;Cunha de Duarte;PR;Não;9.5;16;3
+214;Davi Lucas Araújo;Masculino;1975-08-11;49;Viúvo(a);Analista de RH;Marketing;2022-12-31;3800.57;PJ;Superior Incompleto;Ativo;Fernandes;MG;Não;8.3;12;15
+215;Vitória Barros;Masculino;1976-09-22;48;Divorciado(a);Contador;Financeiro;2011-06-28;4629.98;CLT;Pós-graduação;Desligado;Fogaça da Prata;BA;Não;9.5;10;0
+216;Sra. Sarah Alves;Outro;1981-03-21;44;Solteiro(a);Analista Financeiro;Administrativo;2000-09-19;4328.29;Temporário;Ensino Médio;Desligado;Gomes;RS;Não;8.2;15;8
+217;Camila da Paz;Feminino;1992-01-13;33;Divorciado(a);Auxiliar de Logística;Logística;2022-10-22;1904.55;Estágio;Superior Completo;Ativo;Cardoso do Amparo;SP;Sim;6.3;14;0
+218;Isabella da Rocha;Masculino;1991-07-13;33;Casado(a);Analista Financeiro;Financeiro;2009-05-31;3001.35;Estágio;Superior Incompleto;Ativo;Cunha de Oliveira;PR;Sim;8.7;8;2
+219;Caroline Rezende;Outro;1981-04-05;44;Divorciado(a);Coordenador de Marketing;Recursos Humanos;2005-06-22;5801.45;PJ;Ensino Médio;Desligado;da Rosa;PR;Sim;4.3;2;3
+220;Murilo Silva;Masculino;1980-12-14;44;Casado(a);Analista Financeiro;Recursos Humanos;2020-12-08;3265.4;PJ;Pós-graduação;Ativo;Porto;SP;Não;8.2;13;4
+221;Dr. Daniel Jesus;Feminino;2004-07-24;20;Solteiro(a);Assistente Administrativo;Financeiro;2018-11-14;1862.53;CLT;Ensino Médio;Desligado;Porto;BA;Não;1.4;4;4
+222;Helena Alves;Masculino;1976-11-28;48;Solteiro(a);Designer Gráfico;Administrativo;2017-07-26;3079.0;Temporário;Superior Incompleto;Ativo;Silva;PE;Não;8.6;2;3
+223;Lucca Novaes;Masculino;1994-01-28;31;Solteiro(a);Designer Gráfico;Administrativo;2009-05-16;3452.85;Estágio;Superior Completo;Ativo;Duarte;RS;Não;6.4;7;9
+224;Augusto Cavalcanti;Outro;1992-05-11;33;Solteiro(a);Coordenador de Marketing;Tecnologia da Informação;2022-01-29;6312.12;PJ;Pós-graduação;Desligado;Fernandes;SP;Sim;4.9;3;7
+225;Renan Cunha;Feminino;2002-05-11;23;Solteiro(a);Estagiário de TI;Recursos Humanos;2000-10-14;1792.13;Temporário;Superior Incompleto;Desligado;Aragão;GO;Não;3.7;5;15
+226;Antônio Costa;Masculino;1989-07-26;35;Solteiro(a);Designer Gráfico;Recursos Humanos;2022-05-29;2823.45;PJ;Ensino Médio;Ativo;Vieira;PE;Não;6.3;16;13
+227;Dr. João Gabriel Viana;Feminino;2004-08-16;20;Viúvo(a);Desenvolvedor;Administrativo;2000-06-16;5609.69;PJ;Superior Completo;Ativo;Fogaça Alegre;PR;Sim;5.1;6;4
+228;Antônio Mendes;Outro;1967-01-16;58;Divorciado(a);Contador;Logística;2017-06-11;5085.74;CLT;Superior Completo;Desligado;Santos;RS;Sim;2.4;13;3
+229;Otávio Sales;Feminino;1969-09-20;55;Solteiro(a);Coordenador de Marketing;Administrativo;2020-08-10;7095.93;PJ;Ensino Médio;Ativo;Cardoso da Mata;MG;Sim;1.6;11;8
+230;Laura Lopes;Masculino;1966-12-13;58;Divorciado(a);Gerente de Projetos;Administrativo;2005-11-10;10905.62;Temporário;Ensino Médio;Ativo;Monteiro;BA;Não;2.7;2;8
+231;Melissa Souza;Outro;1980-09-19;44;Solteiro(a);Analista Financeiro;Financeiro;2021-05-12;4021.56;CLT;Pós-graduação;Ativo;da Mota de Novaes;BA;Sim;2.6;3;3
+232;Maria Eduarda Pinto;Masculino;1979-11-03;45;Solteiro(a);Analista de RH;Recursos Humanos;2013-03-26;2866.83;Estágio;Superior Completo;Desligado;Dias;MG;Sim;9.3;1;13
+233;Srta. Laura Mendes;Masculino;1979-02-14;46;Divorciado(a);Assistente Administrativo;Financeiro;2016-05-27;2441.1;Temporário;Superior Completo;Ativo;da Luz;GO;Não;1.2;1;5
+234;Isabel Lopes;Masculino;1979-05-14;46;Solteiro(a);Contador;Recursos Humanos;2022-05-19;5692.48;Temporário;Superior Completo;Desligado;Aragão da Prata;RJ;Não;0.1;6;9
+235;Alice Novaes;Outro;1966-05-24;59;Divorciado(a);Designer Gráfico;Tecnologia da Informação;2008-10-04;3588.68;Estágio;Superior Incompleto;Ativo;Vieira;MG;Sim;9.3;0;7
+236;Rafaela Silva;Outro;1972-10-17;52;Divorciado(a);Analista de RH;Marketing;2007-08-26;2502.19;Estágio;Superior Completo;Ativo;Cardoso Paulista;RS;Sim;4.2;1;4
+237;Clarice Barbosa;Outro;1976-06-25;48;Divorciado(a);Desenvolvedor;Recursos Humanos;2023-05-16;6763.82;Estágio;Superior Completo;Desligado;Araújo;RJ;Sim;5.1;20;12
+238;Bruno Nascimento;Masculino;1995-08-04;29;Solteiro(a);Contador;Administrativo;2014-10-21;5910.55;PJ;Superior Completo;Desligado;das Neves do Campo;BA;Não;7.0;10;10
+239;Lucas Gabriel Duarte;Feminino;2002-11-21;22;Divorciado(a);Assistente Administrativo;Recursos Humanos;2018-03-20;2460.49;PJ;Ensino Médio;Ativo;Vieira;RJ;Sim;4.5;10;13
+240;Dra. Maria Cecília Farias;Masculino;1974-10-24;50;Divorciado(a);Assistente Administrativo;Financeiro;2024-01-18;2015.82;Temporário;Ensino Médio;Ativo;Gonçalves;MG;Não;8.3;19;1
+241;Valentina Vieira;Masculino;2001-09-16;23;Divorciado(a);Gerente de Projetos;Recursos Humanos;2018-11-18;10555.79;Temporário;Pós-graduação;Ativo;Barbosa de Araújo;PR;Não;8.2;5;0
+242;Joana Araújo;Feminino;2000-10-23;24;Viúvo(a);Estagiário de TI;Administrativo;2021-05-22;1530.07;CLT;Pós-graduação;Ativo;Campos do Oeste;MG;Sim;0.1;7;4
+243;Enzo Barbosa;Masculino;1977-10-23;47;Viúvo(a);Auxiliar de Logística;Administrativo;2024-01-30;1941.21;CLT;Superior Completo;Ativo;da Cruz;SP;Sim;2.0;20;14
+244;Daniel Ferreira;Masculino;1970-05-28;54;Solteiro(a);Auxiliar de Logística;Recursos Humanos;2005-11-12;1529.89;Estágio;Ensino Médio;Ativo;Freitas;GO;Não;8.2;12;15
+245;Alana Santos;Masculino;2004-05-12;21;Viúvo(a);Contador;Tecnologia da Informação;2013-03-06;4384.86;PJ;Superior Completo;Desligado;Peixoto;CE;Sim;0.3;19;7
+246;Isabel Silva;Outro;1996-03-09;29;Divorciado(a);Analista Financeiro;Financeiro;2004-09-20;4765.56;Estágio;Ensino Médio;Ativo;Cavalcanti;PR;Não;1.4;6;7
+247;Melissa Sales;Outro;1976-04-23;49;Solteiro(a);Contador;Administrativo;2008-03-18;4397.78;Estágio;Superior Completo;Desligado;da Mata das Flores;PE;Não;1.8;10;7
+248;Yasmin da Rocha;Masculino;1985-05-07;40;Divorciado(a);Analista de RH;Financeiro;2005-07-02;3294.15;PJ;Superior Incompleto;Ativo;Barbosa de Rezende;RS;Sim;2.7;1;7
+249;Stella Silveira;Outro;1989-06-17;35;Viúvo(a);Auxiliar de Logística;Tecnologia da Informação;2016-01-28;1623.27;Temporário;Superior Completo;Ativo;Teixeira;BA;Sim;5.6;6;15
+250;Enzo Gabriel Souza;Outro;1995-05-20;30;Divorciado(a);Gerente de Projetos;Financeiro;2008-06-03;7189.82;CLT;Superior Incompleto;Ativo;Nunes;SP;Não;0.0;19;6
+251;Gustavo Henrique Moraes;Masculino;1997-02-14;28;Divorciado(a);Gerente de Projetos;Marketing;2003-12-27;7297.78;PJ;Superior Incompleto;Ativo;das Neves;DF;Não;9.6;11;12
+252;Ryan da Mota;Outro;1986-03-28;39;Solteiro(a);Auxiliar de Logística;Marketing;2021-06-30;1725.82;PJ;Pós-graduação;Desligado;Almeida;BA;Sim;7.1;17;11
+253;Dr. Matheus Dias;Masculino;1980-07-25;44;Casado(a);Contador;Marketing;2005-12-04;5334.99;Temporário;Superior Incompleto;Ativo;Nogueira;SP;Não;8.5;18;1
+254;Clara Lima;Masculino;1979-07-25;45;Divorciado(a);Designer Gráfico;Tecnologia da Informação;2003-11-08;3887.4;CLT;Pós-graduação;Ativo;da Mota do Oeste;BA;Sim;2.4;10;5
+255;Marina Freitas;Outro;1993-09-07;31;Solteiro(a);Auxiliar de Logística;Financeiro;2012-01-23;1507.98;PJ;Superior Incompleto;Ativo;Lopes da Mata;BA;Não;7.9;0;1
+256;Emanuelly Araújo;Feminino;1976-12-23;48;Viúvo(a);Contador;Tecnologia da Informação;2021-01-07;5711.38;Estágio;Pós-graduação;Desligado;Vieira;DF;Não;1.0;15;7
+257;Marcos Vinicius Campos;Masculino;1967-12-12;57;Viúvo(a);Desenvolvedor;Recursos Humanos;2019-08-04;4884.73;Temporário;Superior Completo;Ativo;da Mata;RJ;Não;1.7;12;5
+258;Alice Santos;Outro;2004-07-25;20;Solteiro(a);Estagiário de TI;Recursos Humanos;2013-08-05;1402.77;Estágio;Ensino Médio;Desligado;Barros;MG;Não;1.6;3;10
+259;Murilo Fogaça;Masculino;1986-09-25;38;Casado(a);Contador;Administrativo;2007-10-12;4885.28;Temporário;Superior Completo;Desligado;Moreira da Serra;RS;Sim;0.5;18;15
+260;Davi Luiz Costa;Masculino;1991-03-25;34;Solteiro(a);Auxiliar de Logística;Recursos Humanos;2015-07-04;1799.32;Temporário;Pós-graduação;Ativo;Ramos do Campo;RJ;Sim;2.1;20;9
+261;Lorenzo Correia;Masculino;2002-07-30;22;Viúvo(a);Desenvolvedor;Marketing;2008-04-03;6354.63;Estágio;Pós-graduação;Desligado;Silveira de Goiás;RJ;Não;1.8;12;11
+262;Mirella Moura;Masculino;1979-12-16;45;Viúvo(a);Analista de RH;Marketing;2008-12-04;3159.61;Temporário;Superior Incompleto;Desligado;Carvalho dos Dourados;GO;Sim;1.5;3;2
+263;Clara Vieira;Outro;1977-01-17;48;Divorciado(a);Estagiário de TI;Financeiro;2018-02-27;1782.42;PJ;Ensino Médio;Desligado;Oliveira do Galho;DF;Não;9.7;15;7
+264;Olivia Costa;Feminino;1989-09-02;35;Divorciado(a);Desenvolvedor;Financeiro;2007-06-24;6708.33;CLT;Superior Incompleto;Ativo;da Cruz de Dias;CE;Sim;9.5;5;6
+265;Isabelly Cardoso;Masculino;1988-05-16;37;Casado(a);Analista de RH;Financeiro;2017-09-26;2617.55;Estágio;Superior Incompleto;Ativo;da Mota da Praia;GO;Não;3.2;2;2
+266;Sr. Rafael Barros;Feminino;2004-09-25;20;Viúvo(a);Estagiário de TI;Marketing;2003-02-09;1713.97;Estágio;Ensino Médio;Desligado;Vieira de Carvalho;RJ;Não;1.5;18;3
+267;Juliana Oliveira;Masculino;1968-09-21;56;Solteiro(a);Coordenador de Marketing;Logística;2023-09-15;7580.48;Estágio;Superior Completo;Desligado;Gonçalves;CE;Não;0.4;8;12
+268;João Pedro Cardoso;Masculino;1995-04-09;30;Viúvo(a);Analista de RH;Financeiro;2013-08-25;3834.36;Temporário;Superior Incompleto;Ativo;da Paz Verde;CE;Não;9.0;0;10
+269;Sra. Ana Laura Novaes;Feminino;2003-01-01;22;Divorciado(a);Coordenador de Marketing;Financeiro;2015-03-09;7503.82;CLT;Superior Incompleto;Ativo;Cavalcanti;PR;Não;7.7;10;8
+270;Luna Farias;Outro;1993-08-05;31;Viúvo(a);Designer Gráfico;Administrativo;2012-03-09;2951.79;Estágio;Superior Incompleto;Desligado;Carvalho Alegre;CE;Não;8.2;16;5
+271;Alexandre da Mota;Masculino;1985-05-19;40;Divorciado(a);Estagiário de TI;Financeiro;2017-12-31;1281.39;CLT;Superior Incompleto;Ativo;Aragão das Flores;RS;Sim;2.5;14;1
+272;Dr. Murilo Teixeira;Feminino;1999-10-31;25;Casado(a);Coordenador de Marketing;Marketing;2013-06-06;7382.27;Estágio;Ensino Médio;Ativo;Barros de Minas;RS;Não;4.9;14;5
+273;Emilly Oliveira;Feminino;1986-01-23;39;Divorciado(a);Auxiliar de Logística;Tecnologia da Informação;2010-02-15;2086.36;Temporário;Ensino Médio;Desligado;Fernandes de Barros;SP;Não;0.5;18;6
+274;Sra. Júlia Rezende;Masculino;1975-06-21;49;Casado(a);Assistente Administrativo;Marketing;2022-05-06;2256.11;CLT;Ensino Médio;Desligado;Ramos das Flores;MG;Sim;6.0;0;7
+275;João Santos;Feminino;1981-11-25;43;Divorciado(a);Coordenador de Marketing;Financeiro;2015-02-11;7634.19;Temporário;Pós-graduação;Desligado;das Neves;RS;Não;3.0;16;12
+276;Luiz Fernando Porto;Outro;1973-04-06;52;Solteiro(a);Analista de RH;Logística;2022-01-05;3999.14;Temporário;Superior Completo;Desligado;Rodrigues do Sul;RJ;Não;0.6;8;10
+277;Alana da Rocha;Feminino;1979-12-09;45;Divorciado(a);Coordenador de Marketing;Tecnologia da Informação;2018-02-27;5024.75;PJ;Ensino Médio;Desligado;Gomes;BA;Sim;7.2;20;15
+278;Isadora Costela;Feminino;1996-01-03;29;Divorciado(a);Contador;Financeiro;2011-12-27;4470.69;CLT;Superior Incompleto;Desligado;Correia;RS;Não;9.1;11;9
+279;Kaique Silveira;Masculino;1995-03-31;30;Casado(a);Coordenador de Marketing;Recursos Humanos;2004-12-05;6147.73;Temporário;Superior Incompleto;Desligado;da Costa;RJ;Sim;3.6;9;13
+280;Marina Fernandes;Feminino;2000-06-19;24;Divorciado(a);Coordenador de Marketing;Logística;2019-08-17;5529.18;CLT;Pós-graduação;Ativo;Nogueira;GO;Sim;4.7;6;3
+281;Mariane Peixoto;Outro;1986-04-08;39;Viúvo(a);Estagiário de TI;Marketing;2023-11-02;1447.86;PJ;Superior Incompleto;Ativo;Barros;BA;Não;9.9;14;4
+282;Alexandre Mendes;Feminino;1991-09-08;33;Casado(a);Desenvolvedor;Financeiro;2009-11-25;4997.89;PJ;Superior Completo;Ativo;Moreira Grande;SP;Não;2.7;5;5
+283;Vitor Hugo Oliveira;Feminino;1990-11-02;34;Solteiro(a);Gerente de Projetos;Logística;2017-01-02;9168.56;Estágio;Pós-graduação;Desligado;Castro;CE;Não;0.0;17;6
+284;Bernardo Rodrigues;Outro;1994-07-07;30;Divorciado(a);Analista de RH;Marketing;2014-01-23;3635.27;PJ;Ensino Médio;Ativo;Teixeira dos Dourados;RS;Sim;6.9;11;9
+285;Antônio Rocha;Masculino;1966-10-23;58;Solteiro(a);Contador;Logística;2014-02-11;4971.68;PJ;Ensino Médio;Ativo;Souza de da Rosa;PR;Não;4.6;16;10
+286;Maitê Moraes;Feminino;2000-12-06;24;Casado(a);Auxiliar de Logística;Financeiro;2021-04-17;1751.48;PJ;Superior Incompleto;Desligado;da Mota das Pedras;SP;Sim;2.2;4;6
+287;Maria Cecília Costa;Outro;1991-03-17;34;Solteiro(a);Designer Gráfico;Logística;2015-07-13;3087.27;Temporário;Ensino Médio;Desligado;Caldeira;PR;Sim;5.9;1;3
+288;Mariane Pereira;Outro;1977-12-25;47;Solteiro(a);Analista de RH;Administrativo;2003-03-24;2673.68;Estágio;Pós-graduação;Ativo;Lopes do Sul;DF;Não;4.7;4;6
+289;Gustavo Henrique Farias;Outro;1984-11-30;40;Solteiro(a);Coordenador de Marketing;Financeiro;2018-11-09;6815.83;Temporário;Superior Incompleto;Desligado;Pereira;RJ;Sim;2.8;3;15
+290;Nathan Rezende;Masculino;2001-11-17;23;Casado(a);Coordenador de Marketing;Logística;2002-08-01;7905.92;Temporário;Pós-graduação;Desligado;Lopes de Viana;MG;Sim;5.5;6;15
+291;Dra. Emilly Viana;Feminino;1980-12-29;44;Casado(a);Analista de RH;Recursos Humanos;2022-06-08;3507.45;CLT;Pós-graduação;Ativo;Silva;RJ;Sim;7.2;3;8
+292;Felipe das Neves;Outro;1976-11-29;48;Casado(a);Analista Financeiro;Marketing;2002-07-23;3528.25;CLT;Ensino Médio;Ativo;Sales;SP;Não;3.6;10;13
+293;Diego da Rosa;Outro;1998-01-10;27;Solteiro(a);Desenvolvedor;Recursos Humanos;2006-11-30;4029.02;PJ;Superior Incompleto;Desligado;Farias de Minas;BA;Não;9.6;8;2
+294;Maria Sophia da Conceição;Feminino;1999-09-12;25;Divorciado(a);Gerente de Projetos;Recursos Humanos;2010-01-14;9003.89;Estágio;Superior Completo;Desligado;Duarte;CE;Não;6.5;5;3
+295;Pietra da Rosa;Masculino;1996-11-13;28;Solteiro(a);Gerente de Projetos;Recursos Humanos;2016-10-21;9080.14;Estágio;Pós-graduação;Ativo;Caldeira;GO;Não;7.8;19;0
+296;Srta. Rafaela Nogueira;Outro;1994-05-19;31;Casado(a);Analista Financeiro;Financeiro;2012-12-29;3225.87;Estágio;Pós-graduação;Ativo;da Luz;RJ;Não;6.5;0;7
+297;Joaquim Ferreira;Outro;1984-08-09;40;Divorciado(a);Estagiário de TI;Logística;2024-10-14;1612.94;CLT;Pós-graduação;Ativo;Pinto;CE;Não;6.6;20;12
+298;Ana Laura Souza;Masculino;1997-06-23;27;Solteiro(a);Analista de RH;Administrativo;2012-03-25;3901.56;Estágio;Pós-graduação;Ativo;Novaes;RJ;Não;3.2;10;8
+299;Diogo da Conceição;Masculino;1988-02-09;37;Casado(a);Estagiário de TI;Administrativo;2009-12-09;1427.18;PJ;Ensino Médio;Desligado;Castro;CE;Não;0.9;15;14
+300;Sr. Bernardo Moreira;Feminino;1999-11-25;25;Solteiro(a);Analista Financeiro;Administrativo;2005-04-20;4306.75;CLT;Pós-graduação;Desligado;Mendes Grande;SP;Sim;8.3;19;9
+301;Yuri Silveira;Outro;1975-05-08;50;Casado(a);Analista Financeiro;Marketing;2021-09-18;3726.68;CLT;Superior Incompleto;Desligado;Pires;BA;Não;7.2;11;14
+302;Sr. Kevin Dias;Masculino;1966-01-26;59;Solteiro(a);Assistente Administrativo;Recursos Humanos;2019-05-25;2038.95;Temporário;Superior Completo;Ativo;Lima;SP;Sim;4.9;13;3
+303;Luiz Miguel Campos;Feminino;2003-07-14;21;Casado(a);Assistente Administrativo;Recursos Humanos;2024-03-22;2451.15;Estágio;Superior Incompleto;Desligado;da Mota;RS;Não;1.1;13;1
+304;Lucas Gabriel Gonçalves;Outro;1965-10-30;59;Solteiro(a);Analista Financeiro;Financeiro;2006-05-25;4316.91;PJ;Pós-graduação;Ativo;Melo de Duarte;DF;Sim;5.5;13;15
+305;Diogo Costa;Outro;1966-03-07;59;Casado(a);Designer Gráfico;Tecnologia da Informação;2020-12-07;4041.84;PJ;Ensino Médio;Desligado;Mendes;GO;Não;5.0;12;13
+306;Valentina Pereira;Outro;2004-11-12;20;Casado(a);Coordenador de Marketing;Financeiro;2011-06-09;7872.58;Temporário;Pós-graduação;Ativo;Porto do Sul;MG;Não;6.0;16;9
+307;Dr. Antônio Lopes;Outro;2004-01-20;21;Divorciado(a);Estagiário de TI;Administrativo;2005-12-29;1330.41;PJ;Superior Completo;Desligado;das Neves da Mata;MG;Sim;5.0;20;10
+308;Renan Costa;Outro;1983-06-07;41;Solteiro(a);Auxiliar de Logística;Logística;2016-04-06;1836.26;Estágio;Superior Completo;Desligado;da Rosa da Prata;SP;Sim;0.3;4;1
+309;Luiz Fernando Martins;Outro;1993-10-24;31;Solteiro(a);Assistente Administrativo;Marketing;2002-08-07;2325.13;PJ;Superior Completo;Desligado;Moraes da Serra;MG;Sim;6.9;9;6
+310;Luiz Otávio Nunes;Outro;1996-12-16;28;Solteiro(a);Auxiliar de Logística;Financeiro;2006-12-10;1571.74;PJ;Pós-graduação;Ativo;das Neves;DF;Não;6.9;1;12
+311;Carolina Viana;Feminino;1999-10-26;25;Viúvo(a);Auxiliar de Logística;Logística;2013-05-30;1537.66;Temporário;Superior Incompleto;Desligado;da Rocha;RS;Não;7.6;17;6
+312;Dr. Thiago Duarte;Outro;1968-09-23;56;Casado(a);Coordenador de Marketing;Financeiro;2004-11-28;5120.99;CLT;Superior Incompleto;Ativo;Nascimento;DF;Sim;3.8;13;8
+313;Sr. Enzo Rezende;Outro;1983-02-13;42;Divorciado(a);Gerente de Projetos;Tecnologia da Informação;2012-03-02;9919.93;Temporário;Ensino Médio;Desligado;Ribeiro;CE;Sim;0.4;10;1
+314;Matheus Sales;Outro;1992-08-22;32;Divorciado(a);Analista Financeiro;Logística;2004-12-23;4100.32;CLT;Superior Completo;Ativo;Rezende;MG;Sim;7.9;5;13
+315;Vitor Hugo da Cunha;Outro;1975-09-12;49;Viúvo(a);Desenvolvedor;Marketing;2023-04-29;4663.59;PJ;Superior Completo;Desligado;da Rosa da Mata;BA;Não;2.2;19;15
+316;Isaac Moraes;Outro;1997-11-06;27;Solteiro(a);Desenvolvedor;Administrativo;2016-07-07;5038.02;PJ;Superior Incompleto;Ativo;da Mota do Sul;BA;Não;9.2;3;12
+317;Clara Oliveira;Feminino;1974-05-11;51;Divorciado(a);Analista de RH;Logística;2013-12-10;3733.16;Temporário;Pós-graduação;Desligado;Aragão;SP;Não;9.0;6;10
+318;Brenda Oliveira;Outro;1966-08-09;58;Solteiro(a);Desenvolvedor;Tecnologia da Informação;2002-11-20;6914.89;CLT;Ensino Médio;Ativo;Almeida de Viana;RS;Não;8.4;6;13
+319;Esther da Rosa;Outro;1992-01-11;33;Solteiro(a);Gerente de Projetos;Recursos Humanos;2017-10-20;9296.13;Temporário;Ensino Médio;Ativo;Porto;RJ;Sim;1.8;8;2
+320;Dra. Maria Nascimento;Outro;1978-08-23;46;Casado(a);Coordenador de Marketing;Financeiro;2009-06-22;5858.11;Estágio;Pós-graduação;Desligado;da Costa da Praia;SP;Não;6.7;17;0
+321;Sr. Luiz Otávio da Mata;Outro;1992-07-01;32;Solteiro(a);Designer Gráfico;Recursos Humanos;2011-04-28;3991.5;CLT;Superior Completo;Ativo;da Cruz;PR;Não;6.1;9;14
+322;Manuela Cardoso;Feminino;1989-02-03;36;Viúvo(a);Analista de RH;Financeiro;2013-01-20;2734.49;PJ;Superior Incompleto;Desligado;Rodrigues Grande;DF;Não;9.6;4;9
+323;Stephany da Rosa;Outro;1975-01-09;50;Divorciado(a);Analista de RH;Logística;2006-12-24;3812.15;PJ;Ensino Médio;Ativo;Correia;SP;Não;5.4;2;9
+324;Sophia Pinto;Masculino;1972-02-10;53;Divorciado(a);Assistente Administrativo;Financeiro;2007-01-23;2433.94;PJ;Superior Incompleto;Ativo;Vieira;RS;Não;1.9;5;1
+325;Gabrielly Carvalho;Outro;1973-01-02;52;Viúvo(a);Estagiário de TI;Recursos Humanos;2024-04-13;1374.39;CLT;Superior Completo;Ativo;Moraes;RS;Não;9.5;11;4
+326;Esther Almeida;Outro;1990-07-21;34;Casado(a);Desenvolvedor;Marketing;2015-01-30;5858.55;PJ;Superior Completo;Desligado;da Costa do Campo;CE;Não;6.2;9;4
+327;Dra. Maria Clara Viana;Outro;1968-08-13;56;Divorciado(a);Auxiliar de Logística;Financeiro;2017-10-29;1618.05;Temporário;Superior Incompleto;Ativo;Moreira;PE;Não;8.4;4;10
+328;Dr. Rafael Pires;Feminino;1988-03-09;37;Viúvo(a);Analista Financeiro;Marketing;2012-06-17;4549.53;Estágio;Ensino Médio;Ativo;Oliveira;GO;Sim;8.4;4;6
+329;Maria Nunes;Feminino;1981-04-25;44;Solteiro(a);Desenvolvedor;Recursos Humanos;2018-12-03;6548.76;CLT;Pós-graduação;Ativo;da Mota;SP;Não;5.4;17;15
+330;Maysa Pereira;Outro;2003-08-15;21;Casado(a);Auxiliar de Logística;Financeiro;2022-04-30;1656.31;Temporário;Superior Incompleto;Desligado;Ferreira dos Dourados;DF;Sim;4.0;16;0
+331;Dr. Theo Cavalcanti;Outro;1982-01-09;43;Casado(a);Designer Gráfico;Administrativo;2013-01-09;3081.93;PJ;Pós-graduação;Ativo;Almeida Verde;MG;Sim;7.4;15;11
+332;Sofia Dias;Masculino;1978-01-04;47;Casado(a);Analista Financeiro;Tecnologia da Informação;2020-02-11;3125.72;Temporário;Superior Incompleto;Ativo;Castro de Nunes;RS;Não;3.9;14;1
+333;Eloah Cardoso;Masculino;1967-05-22;58;Divorciado(a);Desenvolvedor;Administrativo;2007-09-18;6905.32;Temporário;Superior Completo;Ativo;Porto;PE;Não;3.7;20;2
+334;Raquel Porto;Outro;1992-03-11;33;Divorciado(a);Contador;Tecnologia da Informação;2005-05-15;4790.93;Temporário;Superior Completo;Desligado;da Rosa;CE;Sim;5.0;4;14
+335;Cecília Cardoso;Masculino;1984-08-26;40;Casado(a);Desenvolvedor;Logística;2015-07-17;5930.43;PJ;Superior Incompleto;Ativo;Aragão dos Dourados;MG;Não;6.0;3;7
+336;Pedro Miguel Silva;Feminino;1998-09-25;26;Divorciado(a);Desenvolvedor;Financeiro;2008-08-24;6025.69;Estágio;Superior Incompleto;Ativo;Martins;PE;Sim;2.4;4;5
+337;Sr. Theo Nogueira;Masculino;2002-03-19;23;Solteiro(a);Designer Gráfico;Tecnologia da Informação;2016-07-09;2895.05;Temporário;Superior Incompleto;Desligado;Monteiro;GO;Sim;8.8;9;2
+338;Joana Castro;Masculino;1978-09-30;46;Viúvo(a);Designer Gráfico;Financeiro;2002-07-05;4274.41;PJ;Superior Incompleto;Desligado;Jesus;GO;Sim;7.9;5;8
+339;Henrique Sales;Masculino;1989-04-10;36;Divorciado(a);Analista Financeiro;Logística;2012-06-07;4181.19;PJ;Pós-graduação;Desligado;Fernandes de da Mota;MG;Sim;0.2;16;13
+340;Emanuelly Jesus;Masculino;1966-07-19;58;Solteiro(a);Gerente de Projetos;Financeiro;2021-03-19;11508.04;CLT;Ensino Médio;Ativo;Pereira;CE;Sim;9.0;17;0
+341;Dra. Heloísa Moreira;Outro;1966-09-03;58;Viúvo(a);Estagiário de TI;Financeiro;2001-02-04;1422.23;CLT;Pós-graduação;Ativo;Dias Grande;CE;Não;3.5;18;3
+342;Guilherme Souza;Feminino;1966-08-18;58;Casado(a);Coordenador de Marketing;Financeiro;2015-02-18;7180.51;CLT;Superior Completo;Desligado;Gomes de Alves;PR;Sim;0.1;0;3
+343;Maria Fernanda das Neves;Outro;1994-09-29;30;Solteiro(a);Contador;Administrativo;2017-02-17;4013.55;Temporário;Pós-graduação;Desligado;Araújo Verde;RJ;Sim;4.3;18;8
+344;Sra. Pietra Carvalho;Feminino;1965-09-06;59;Viúvo(a);Designer Gráfico;Marketing;2010-12-30;3840.2;Estágio;Superior Incompleto;Desligado;Alves;DF;Não;1.8;17;15
+345;Lavínia Lopes;Feminino;1998-12-30;26;Divorciado(a);Designer Gráfico;Marketing;2008-11-23;4116.13;Estágio;Superior Incompleto;Ativo;Alves das Pedras;RS;Não;7.8;5;3
+346;João Vitor Novaes;Masculino;1980-08-29;44;Viúvo(a);Auxiliar de Logística;Logística;2019-09-25;1929.82;CLT;Superior Incompleto;Desligado;Azevedo Paulista;SP;Sim;8.2;15;13
+347;Amanda Castro;Masculino;1977-12-24;47;Solteiro(a);Coordenador de Marketing;Tecnologia da Informação;2009-09-08;5797.92;CLT;Pós-graduação;Desligado;Correia Alegre;GO;Não;7.1;19;1
+348;Davi Lucca Moreira;Masculino;1994-05-14;31;Viúvo(a);Analista Financeiro;Recursos Humanos;2023-05-05;3403.41;Temporário;Superior Incompleto;Ativo;Rodrigues das Pedras;GO;Sim;6.2;1;11
+349;Brenda Martins;Masculino;1989-11-26;35;Solteiro(a);Gerente de Projetos;Recursos Humanos;2022-05-21;11984.09;Estágio;Superior Completo;Desligado;da Costa de Fogaça;PE;Sim;5.2;2;2
+350;Enrico Souza;Outro;1999-03-14;26;Divorciado(a);Estagiário de TI;Logística;2018-05-01;1408.86;Temporário;Superior Incompleto;Ativo;Nascimento;CE;Não;5.7;8;5
+351;Srta. Vitória Moreira;Feminino;1989-08-25;35;Solteiro(a);Estagiário de TI;Recursos Humanos;2003-11-30;1501.9;Temporário;Ensino Médio;Desligado;Monteiro de Jesus;DF;Não;6.9;12;15
+352;Srta. Isabella Alves;Masculino;1978-07-23;46;Divorciado(a);Analista Financeiro;Administrativo;2011-08-22;3921.44;CLT;Pós-graduação;Ativo;Vieira;PR;Sim;3.8;7;7
+353;Gustavo da Conceição;Feminino;1986-07-27;38;Viúvo(a);Auxiliar de Logística;Logística;2008-11-19;1874.96;Temporário;Superior Incompleto;Desligado;Porto;RJ;Não;6.7;10;2
+354;Júlia Peixoto;Outro;1990-08-23;34;Casado(a);Analista Financeiro;Marketing;2016-03-17;3707.08;Temporário;Superior Incompleto;Ativo;da Rosa de da Rocha;CE;Sim;2.3;7;8
+355;Sr. Bruno Correia;Masculino;1991-02-27;34;Casado(a);Assistente Administrativo;Tecnologia da Informação;2001-09-25;2385.43;Temporário;Superior Incompleto;Ativo;Farias;RJ;Sim;6.8;15;0
+356;Dr. Fernando Carvalho;Outro;1980-05-06;45;Solteiro(a);Analista Financeiro;Marketing;2019-06-28;4241.33;Estágio;Superior Completo;Desligado;Lima Alegre;MG;Não;4.0;18;4
+357;Helena Aragão;Masculino;2004-05-30;20;Viúvo(a);Analista Financeiro;Logística;2013-12-08;3065.13;Temporário;Pós-graduação;Ativo;Silveira de Martins;CE;Sim;7.0;14;10
+358;Luiza Azevedo;Outro;1969-06-25;55;Solteiro(a);Analista de RH;Administrativo;2015-09-24;2816.13;CLT;Superior Completo;Desligado;Martins de Rodrigues;GO;Não;1.9;8;7
+359;Renan Nogueira;Feminino;1969-09-28;55;Viúvo(a);Designer Gráfico;Marketing;2002-11-24;3422.07;Estágio;Pós-graduação;Ativo;Oliveira do Oeste;PE;Não;3.7;12;8
+360;Sra. Ana Lívia da Cruz;Feminino;1968-12-17;56;Casado(a);Designer Gráfico;Tecnologia da Informação;2020-06-20;4464.76;PJ;Ensino Médio;Desligado;Silveira;RS;Não;8.6;6;4
+361;João Lucas da Luz;Outro;1996-09-19;28;Casado(a);Analista Financeiro;Recursos Humanos;2024-07-02;3353.21;Estágio;Superior Incompleto;Desligado;Fogaça;CE;Não;2.5;18;1
+362;Olivia Mendes;Feminino;1979-05-23;46;Solteiro(a);Gerente de Projetos;Recursos Humanos;2023-03-09;8077.34;Temporário;Pós-graduação;Ativo;da Rosa da Praia;CE;Não;2.6;11;8
+363;Dr. Nicolas Rodrigues;Feminino;1971-05-28;53;Solteiro(a);Contador;Recursos Humanos;2016-05-15;4377.73;PJ;Superior Incompleto;Desligado;da Conceição da Praia;BA;Não;6.7;15;14
+364;Sr. Cauê Freitas;Masculino;1977-02-05;48;Viúvo(a);Designer Gráfico;Marketing;2018-12-05;3588.38;PJ;Superior Incompleto;Desligado;Monteiro de da Luz;PE;Não;8.5;2;2
+365;Anthony Lima;Masculino;1973-08-23;51;Divorciado(a);Assistente Administrativo;Marketing;2025-03-22;2021.81;Temporário;Superior Completo;Desligado;Silva;PR;Não;7.8;11;14
+366;Sr. Pedro da Mata;Feminino;1985-05-26;39;Casado(a);Gerente de Projetos;Recursos Humanos;2018-08-28;7625.2;PJ;Superior Completo;Ativo;Lima;RS;Sim;4.0;3;2
+367;João Guilherme Pinto;Feminino;1972-12-06;52;Solteiro(a);Analista de RH;Financeiro;2022-11-18;3285.97;CLT;Ensino Médio;Desligado;Novaes;GO;Sim;0.8;12;9
+368;Amanda Caldeira;Masculino;1974-11-10;50;Casado(a);Coordenador de Marketing;Financeiro;2016-10-24;6692.68;PJ;Superior Incompleto;Ativo;Pereira de Goiás;SP;Não;8.6;10;15
+369;Murilo Moreira;Feminino;1971-04-08;54;Divorciado(a);Estagiário de TI;Financeiro;2018-02-04;1281.07;PJ;Pós-graduação;Desligado;Fernandes de da Mata;DF;Não;9.1;15;7
+370;Nathan Azevedo;Masculino;1996-03-01;29;Viúvo(a);Coordenador de Marketing;Marketing;2015-08-16;5942.71;PJ;Superior Completo;Ativo;Correia Grande;SP;Sim;3.4;15;0
+371;Sarah Fernandes;Outro;1972-03-23;53;Viúvo(a);Analista Financeiro;Marketing;2024-12-31;3018.27;Estágio;Superior Completo;Ativo;Gonçalves;SP;Não;1.9;17;13
+372;Emanuelly Duarte;Feminino;1980-11-08;44;Casado(a);Gerente de Projetos;Administrativo;2015-08-26;10685.59;Estágio;Pós-graduação;Ativo;Teixeira;PR;Sim;4.2;7;8
+373;Emilly Nascimento;Feminino;1980-08-15;44;Divorciado(a);Contador;Tecnologia da Informação;2012-07-08;5633.71;PJ;Superior Incompleto;Desligado;Mendes de Cunha;RJ;Não;6.2;8;15
+374;Emanuella Fogaça;Masculino;2001-09-01;23;Divorciado(a);Analista de RH;Tecnologia da Informação;2004-10-27;2574.45;CLT;Superior Incompleto;Ativo;Gonçalves Verde;PR;Não;1.3;14;0
+375;Luiz Otávio Porto;Masculino;1978-01-20;47;Solteiro(a);Gerente de Projetos;Recursos Humanos;2003-05-28;9467.9;Temporário;Pós-graduação;Desligado;Souza do Norte;CE;Não;4.6;1;10
+376;Guilherme Peixoto;Masculino;1966-08-23;58;Casado(a);Analista de RH;Marketing;2011-03-15;3663.48;CLT;Pós-graduação;Ativo;da Luz de Minas;RS;Não;8.2;0;3
+377;Luiz Henrique Monteiro;Outro;1976-05-28;48;Casado(a);Contador;Financeiro;2019-11-28;4117.91;CLT;Superior Incompleto;Desligado;Novaes;RJ;Sim;4.7;9;10
+378;Vinicius Costela;Masculino;1988-05-01;37;Solteiro(a);Estagiário de TI;Logística;2002-10-03;1273.28;Estágio;Superior Completo;Ativo;Vieira;BA;Sim;8.6;6;3
+379;Henrique Nunes;Masculino;1969-10-10;55;Viúvo(a);Auxiliar de Logística;Recursos Humanos;2005-02-01;1617.15;Temporário;Ensino Médio;Desligado;Novaes;RS;Sim;9.7;18;15
+380;Sofia Gomes;Outro;1986-12-09;38;Casado(a);Auxiliar de Logística;Recursos Humanos;2017-12-29;1674.11;Estágio;Ensino Médio;Desligado;Pires;SP;Sim;3.6;4;3
+381;Srta. Heloísa Viana;Masculino;2000-10-28;24;Viúvo(a);Assistente Administrativo;Marketing;2000-07-04;2487.17;Temporário;Pós-graduação;Ativo;Aragão Grande;SP;Não;3.6;4;8
+382;João Gabriel Moraes;Masculino;1998-09-09;26;Viúvo(a);Analista Financeiro;Logística;2013-06-16;3589.43;Estágio;Superior Incompleto;Ativo;Cardoso;DF;Não;3.2;14;8
+383;Pedro Miguel Sales;Outro;1975-02-15;50;Casado(a);Desenvolvedor;Logística;2023-12-13;4465.08;Temporário;Superior Completo;Desligado;Cardoso;CE;Sim;7.8;16;12
+384;Manuela Rocha;Outro;1993-08-26;31;Casado(a);Analista de RH;Logística;2001-06-26;3785.24;PJ;Superior Completo;Ativo;Melo de Barbosa;DF;Não;1.9;15;4
+385;Felipe Araújo;Outro;1998-04-08;27;Divorciado(a);Auxiliar de Logística;Financeiro;2003-07-11;1948.63;CLT;Ensino Médio;Ativo;Lopes;SP;Sim;1.8;1;6
+386;Bryan Sales;Masculino;1979-06-23;45;Viúvo(a);Assistente Administrativo;Recursos Humanos;2017-02-25;1822.27;Estágio;Pós-graduação;Desligado;Rezende Grande;SP;Não;2.2;2;0
+387;Ana Vitória Barbosa;Masculino;1979-07-18;45;Viúvo(a);Desenvolvedor;Financeiro;2016-05-25;6403.06;CLT;Superior Completo;Desligado;Martins;BA;Sim;8.2;8;1
+388;Isabel Carvalho;Outro;2005-05-10;20;Solteiro(a);Coordenador de Marketing;Recursos Humanos;2012-10-26;7806.11;CLT;Ensino Médio;Ativo;Fogaça;DF;Não;1.9;16;7
+389;Thiago da Costa;Outro;1971-05-02;54;Casado(a);Estagiário de TI;Administrativo;2023-10-09;1534.88;CLT;Superior Completo;Desligado;Nogueira da Mata;PE;Sim;1.7;5;12
+390;João Gabriel Aragão;Outro;1972-11-06;52;Divorciado(a);Gerente de Projetos;Logística;2025-02-21;11992.17;Estágio;Superior Completo;Desligado;Vieira de Porto;DF;Não;8.4;13;13
+391;Sra. Luna da Costa;Outro;1982-06-28;42;Divorciado(a);Designer Gráfico;Tecnologia da Informação;2003-07-01;3757.35;PJ;Pós-graduação;Desligado;da Mata da Serra;BA;Não;4.5;12;0
+392;Catarina Melo;Outro;1978-07-28;46;Solteiro(a);Coordenador de Marketing;Logística;2024-07-25;4557.06;PJ;Superior Completo;Ativo;Freitas;PR;Sim;2.1;10;0
+393;Dr. Matheus Monteiro;Outro;1970-09-17;54;Divorciado(a);Estagiário de TI;Logística;2001-08-08;1533.79;PJ;Ensino Médio;Ativo;Sales dos Dourados;CE;Não;1.6;8;11
+394;Elisa Viana;Outro;2000-01-07;25;Casado(a);Assistente Administrativo;Marketing;2020-05-15;2367.75;CLT;Pós-graduação;Ativo;Farias;RJ;Não;7.9;5;15
+395;Enzo Gabriel Peixoto;Outro;2001-06-15;23;Solteiro(a);Designer Gráfico;Administrativo;2024-11-02;3310.67;Estágio;Ensino Médio;Ativo;Cunha do Sul;BA;Não;8.8;13;13
+396;Catarina Oliveira;Masculino;1998-10-22;26;Casado(a);Designer Gráfico;Recursos Humanos;2009-11-21;3877.61;Estágio;Ensino Médio;Desligado;Ferreira;DF;Sim;3.2;18;4
+397;Cauê da Rosa;Feminino;1970-11-04;54;Casado(a);Gerente de Projetos;Recursos Humanos;2009-04-22;10368.18;Estágio;Pós-graduação;Ativo;da Mata de Sales;RS;Não;2.9;12;4
+398;Srta. Camila Carvalho;Masculino;1981-06-21;43;Divorciado(a);Desenvolvedor;Financeiro;2013-05-29;5714.32;CLT;Pós-graduação;Desligado;Teixeira;RJ;Não;5.0;4;4
+399;Davi Luiz da Cunha;Feminino;1970-04-14;55;Casado(a);Analista Financeiro;Financeiro;2002-04-23;4304.5;PJ;Superior Incompleto;Ativo;Moura;RJ;Não;7.8;10;2
+400;Sofia Caldeira;Masculino;1978-11-18;46;Viúvo(a);Contador;Marketing;2023-01-20;4370.77;Temporário;Superior Completo;Ativo;Costela de Rocha;PR;Sim;9.9;19;14
+401;Maria Julia Rocha;Outro;1967-12-29;57;Casado(a);Analista Financeiro;Recursos Humanos;2001-10-15;4848.43;PJ;Superior Incompleto;Desligado;Gomes do Galho;MG;Sim;1.1;1;7
+402;Isabella Carvalho;Outro;2004-05-25;20;Casado(a);Coordenador de Marketing;Recursos Humanos;2003-04-28;5701.45;CLT;Superior Completo;Desligado;Teixeira;CE;Sim;3.3;17;6
+403;Maria Clara da Cruz;Masculino;1968-12-10;56;Divorciado(a);Estagiário de TI;Financeiro;2011-08-09;1573.83;PJ;Ensino Médio;Desligado;da Conceição;GO;Sim;2.6;1;9
+404;Dr. Luigi Souza;Masculino;1993-09-22;31;Divorciado(a);Analista de RH;Financeiro;2002-08-17;3482.14;CLT;Ensino Médio;Desligado;Aragão;PR;Não;8.6;0;9
+405;Sra. Gabriela da Luz;Outro;1984-05-30;40;Viúvo(a);Assistente Administrativo;Financeiro;2015-03-08;2155.98;CLT;Superior Completo;Desligado;Lopes Grande;GO;Sim;1.9;16;14
+406;Anthony da Rosa;Outro;1987-01-08;38;Solteiro(a);Analista de RH;Tecnologia da Informação;2001-05-10;3883.41;Temporário;Superior Completo;Desligado;Fernandes;PE;Sim;0.2;11;11
+407;Maria Julia Rodrigues;Outro;1968-08-09;56;Divorciado(a);Assistente Administrativo;Logística;2020-04-09;1993.11;CLT;Superior Completo;Desligado;Pires;SP;Não;2.3;10;12
+408;Bruno da Rosa;Outro;1965-04-29;60;Casado(a);Desenvolvedor;Administrativo;2006-11-16;5146.62;PJ;Pós-graduação;Ativo;Correia do Galho;GO;Sim;4.3;9;10
+409;Dra. Catarina Pereira;Feminino;1971-09-18;53;Casado(a);Assistente Administrativo;Administrativo;2012-03-10;1897.0;PJ;Superior Incompleto;Desligado;Souza de Nascimento;DF;Sim;4.3;4;5
+410;Yuri Viana;Feminino;1979-01-28;46;Solteiro(a);Estagiário de TI;Logística;2012-12-11;1769.16;CLT;Superior Incompleto;Desligado;Viana do Norte;MG;Sim;7.7;13;13
+411;Clara Jesus;Feminino;1990-07-08;34;Viúvo(a);Coordenador de Marketing;Tecnologia da Informação;2023-05-05;7226.88;CLT;Superior Incompleto;Ativo;Farias da Serra;SP;Não;6.1;19;7
+412;João Miguel Nunes;Outro;1964-06-30;60;Casado(a);Assistente Administrativo;Administrativo;2010-06-30;1818.26;CLT;Pós-graduação;Ativo;Mendes;DF;Não;7.1;11;5
+413;Pedro Henrique Gomes;Feminino;2003-05-24;21;Viúvo(a);Analista Financeiro;Tecnologia da Informação;2004-10-10;3327.57;PJ;Ensino Médio;Desligado;Oliveira do Galho;SP;Não;9.5;7;6
+414;Manuela Novaes;Masculino;1977-09-13;47;Solteiro(a);Gerente de Projetos;Financeiro;2019-05-23;11335.65;Estágio;Superior Completo;Desligado;Nascimento;RS;Não;4.0;1;12
+415;Valentina Nogueira;Outro;1984-11-13;40;Divorciado(a);Contador;Logística;2002-11-16;5847.85;CLT;Ensino Médio;Desligado;Pereira de Moreira;CE;Sim;8.8;7;12
+416;Noah Vieira;Outro;1992-11-28;32;Solteiro(a);Estagiário de TI;Financeiro;2022-11-27;1509.68;CLT;Superior Incompleto;Desligado;Oliveira;CE;Não;8.8;9;14
+417;Carlos Eduardo Aragão;Masculino;1977-07-10;47;Viúvo(a);Coordenador de Marketing;Logística;2012-03-06;7716.61;PJ;Pós-graduação;Desligado;Viana;RJ;Sim;1.8;18;4
+418;André Peixoto;Feminino;1993-04-08;32;Viúvo(a);Auxiliar de Logística;Financeiro;2014-05-11;1517.44;Estágio;Superior Incompleto;Desligado;Alves do Sul;RJ;Não;3.2;20;5
+419;Ana Cavalcanti;Outro;1971-07-22;53;Solteiro(a);Desenvolvedor;Recursos Humanos;2018-10-01;6118.68;Temporário;Ensino Médio;Desligado;Silva;DF;Sim;3.8;12;1
+420;Gustavo Freitas;Masculino;1967-06-12;57;Divorciado(a);Designer Gráfico;Administrativo;2013-07-21;4266.54;PJ;Superior Incompleto;Ativo;Nunes dos Dourados;SP;Não;3.1;14;9
+421;Eduardo Campos;Outro;1972-11-18;52;Casado(a);Desenvolvedor;Tecnologia da Informação;2004-11-05;6881.3;CLT;Superior Completo;Ativo;Costela do Sul;CE;Não;8.6;17;0
+422;Gabrielly Lopes;Outro;2000-11-10;24;Viúvo(a);Assistente Administrativo;Tecnologia da Informação;2007-05-06;2212.2;Estágio;Pós-graduação;Desligado;Barbosa de Pereira;CE;Sim;6.0;0;7
+423;Sr. Pedro Henrique Araújo;Outro;1980-06-18;44;Divorciado(a);Designer Gráfico;Administrativo;2001-08-07;3747.83;PJ;Ensino Médio;Ativo;Fernandes;MG;Sim;6.5;1;4
+424;Erick da Conceição;Masculino;1998-01-30;27;Divorciado(a);Auxiliar de Logística;Recursos Humanos;2024-01-10;1534.32;Estágio;Superior Incompleto;Ativo;Duarte;PR;Sim;9.7;18;11
+425;Letícia Teixeira;Masculino;1967-08-07;57;Solteiro(a);Coordenador de Marketing;Marketing;2003-01-22;5789.99;Estágio;Ensino Médio;Desligado;Barbosa;DF;Sim;2.9;4;3
+426;Maria Vitória Barros;Outro;1996-11-19;28;Divorciado(a);Auxiliar de Logística;Logística;2016-01-31;1789.63;PJ;Superior Incompleto;Ativo;Moraes do Oeste;RJ;Sim;4.8;19;9
+427;Milena Rocha;Feminino;1977-04-11;48;Divorciado(a);Coordenador de Marketing;Logística;2019-05-21;6513.0;Temporário;Superior Incompleto;Desligado;Porto Grande;DF;Não;4.9;5;7
+428;Isabel Rocha;Outro;1996-06-29;28;Divorciado(a);Assistente Administrativo;Recursos Humanos;2000-09-02;1882.74;Estágio;Ensino Médio;Ativo;Ribeiro;GO;Não;4.1;10;11
+429;Luiz Otávio Jesus;Outro;2000-07-27;24;Casado(a);Analista de RH;Administrativo;2003-11-08;2801.78;Temporário;Superior Completo;Ativo;Moura da Prata;PR;Não;5.1;10;0
+430;Noah Campos;Masculino;1970-01-21;55;Divorciado(a);Auxiliar de Logística;Financeiro;2007-11-10;2007.08;CLT;Superior Incompleto;Ativo;Vieira;BA;Não;9.2;15;15
+431;Emanuella Fernandes;Masculino;1970-02-02;55;Casado(a);Analista Financeiro;Tecnologia da Informação;2000-09-22;4254.4;Temporário;Pós-graduação;Desligado;Viana do Campo;SP;Não;5.6;10;0
+432;Benjamin Carvalho;Masculino;1986-10-22;38;Divorciado(a);Auxiliar de Logística;Recursos Humanos;2018-03-09;2178.73;Temporário;Ensino Médio;Desligado;Freitas Alegre;PE;Sim;5.7;12;5
+433;Pedro Teixeira;Outro;1970-12-22;54;Solteiro(a);Coordenador de Marketing;Administrativo;2009-02-21;7502.37;CLT;Superior Completo;Desligado;Alves;RJ;Não;8.8;11;14
+434;Vitor Gabriel Gomes;Feminino;1981-10-31;43;Casado(a);Estagiário de TI;Marketing;2017-05-13;1305.01;Temporário;Ensino Médio;Ativo;Cunha do Sul;RJ;Não;5.1;15;4
+435;Pedro Pereira;Masculino;1993-10-18;31;Divorciado(a);Analista Financeiro;Administrativo;2012-12-31;4747.76;Temporário;Superior Completo;Ativo;Mendes;RJ;Sim;2.1;1;14
+436;Rebeca Peixoto;Feminino;1995-09-07;29;Solteiro(a);Analista de RH;Marketing;2015-05-15;3898.51;CLT;Superior Completo;Desligado;Silva;SP;Sim;5.2;9;0
+437;Eduardo da Paz;Outro;1993-05-09;32;Divorciado(a);Assistente Administrativo;Marketing;2008-10-28;1940.39;Temporário;Superior Completo;Desligado;Oliveira;CE;Sim;2.7;5;8
+438;Bryan Fogaça;Masculino;1992-07-24;32;Solteiro(a);Designer Gráfico;Logística;2015-05-03;3673.9;PJ;Superior Completo;Desligado;da Costa;PR;Sim;9.4;9;7
+439;Lucas Silva;Masculino;1980-02-21;45;Solteiro(a);Coordenador de Marketing;Logística;2011-12-18;7622.85;Estágio;Ensino Médio;Ativo;Rodrigues do Oeste;SP;Não;9.0;1;3
+440;Olivia Peixoto;Feminino;2002-06-14;22;Solteiro(a);Desenvolvedor;Financeiro;2004-05-12;5175.75;Estágio;Superior Completo;Desligado;Lopes;BA;Sim;7.1;17;2
+441;Samuel Viana;Feminino;1985-07-07;39;Casado(a);Desenvolvedor;Administrativo;2021-06-24;5404.83;Estágio;Superior Completo;Desligado;Monteiro;CE;Sim;9.5;4;8
+442;Diogo Martins;Feminino;1978-12-27;46;Viúvo(a);Gerente de Projetos;Administrativo;2019-11-23;11586.32;Temporário;Superior Completo;Desligado;Silveira do Oeste;CE;Sim;0.7;3;11
+443;Mariane Ribeiro;Feminino;2000-05-04;25;Viúvo(a);Gerente de Projetos;Marketing;2003-10-07;10839.71;PJ;Ensino Médio;Desligado;da Mata da Mata;RJ;Não;5.6;2;9
+444;Vitória Viana;Outro;1988-02-20;37;Viúvo(a);Contador;Logística;2023-06-27;4533.6;PJ;Superior Incompleto;Desligado;Caldeira;PE;Sim;3.4;18;13
+445;Srta. Clarice Nascimento;Feminino;1973-07-11;51;Divorciado(a);Estagiário de TI;Administrativo;2021-03-18;1341.69;CLT;Pós-graduação;Ativo;Mendes da Mata;GO;Não;3.3;3;14
+446;Larissa Cardoso;Masculino;1966-11-08;58;Divorciado(a);Contador;Recursos Humanos;2024-08-28;4995.65;Estágio;Superior Completo;Desligado;Silva da Mata;SP;Sim;2.2;4;0
+447;João Vitor Pires;Masculino;2004-05-17;21;Casado(a);Analista Financeiro;Logística;2022-09-29;3583.01;Estágio;Superior Incompleto;Ativo;Moreira;BA;Não;5.7;9;13
+448;Pedro Miguel Melo;Outro;1980-05-10;45;Divorciado(a);Desenvolvedor;Logística;2010-06-22;4024.36;Estágio;Superior Incompleto;Desligado;Ferreira de Minas;SP;Não;9.0;1;0
+449;Leonardo Silva;Outro;1987-10-09;37;Divorciado(a);Desenvolvedor;Marketing;2012-09-28;6597.04;PJ;Pós-graduação;Desligado;Novaes de Ribeiro;BA;Não;4.1;13;6
+450;Ana Júlia Freitas;Outro;1971-06-21;53;Casado(a);Analista Financeiro;Tecnologia da Informação;2005-04-15;3376.45;Estágio;Superior Completo;Desligado;da Mota da Praia;MG;Não;10.0;4;4
+451;Maria Luiza Gonçalves;Masculino;2004-05-16;21;Solteiro(a);Analista de RH;Tecnologia da Informação;2015-06-27;3582.01;Estágio;Pós-graduação;Ativo;Lima de Araújo;RJ;Sim;6.4;13;14
+452;Arthur Carvalho;Outro;1984-10-26;40;Viúvo(a);Designer Gráfico;Tecnologia da Informação;2001-12-28;3572.47;Estágio;Pós-graduação;Desligado;Mendes da Serra;BA;Sim;1.9;19;0
+453;Otávio Costela;Outro;1964-05-18;61;Viúvo(a);Assistente Administrativo;Administrativo;2007-10-09;2151.21;Estágio;Superior Completo;Ativo;Porto;SP;Não;7.0;3;15
+454;Emanuelly Moraes;Outro;1978-09-08;46;Solteiro(a);Gerente de Projetos;Administrativo;2023-05-15;10656.47;Temporário;Pós-graduação;Ativo;Monteiro do Oeste;DF;Sim;2.5;20;2
+455;Maria Vitória Farias;Outro;1979-12-10;45;Divorciado(a);Designer Gráfico;Recursos Humanos;2001-12-21;4336.09;CLT;Pós-graduação;Desligado;da Luz;DF;Não;5.7;10;13
+456;Ana Luiza Martins;Feminino;1996-09-14;28;Divorciado(a);Coordenador de Marketing;Tecnologia da Informação;2024-02-29;4623.64;Temporário;Superior Completo;Ativo;Correia;CE;Sim;5.7;9;0
+457;Larissa da Rocha;Feminino;1997-10-18;27;Viúvo(a);Desenvolvedor;Tecnologia da Informação;2001-04-12;5516.79;Temporário;Superior Completo;Ativo;Aragão de Oliveira;GO;Não;2.8;8;0
+458;Larissa da Mota;Outro;1998-03-29;27;Solteiro(a);Designer Gráfico;Tecnologia da Informação;2001-07-08;4347.22;PJ;Pós-graduação;Desligado;Costela da Serra;MG;Não;7.8;7;15
+459;Srta. Isis Araújo;Masculino;1987-03-26;38;Solteiro(a);Auxiliar de Logística;Recursos Humanos;2015-10-16;2177.14;PJ;Pós-graduação;Desligado;Carvalho da Prata;PE;Sim;6.6;20;5
+460;Dra. Yasmin Gomes;Masculino;1971-06-07;53;Divorciado(a);Analista de RH;Administrativo;2005-12-26;2896.59;CLT;Ensino Médio;Ativo;Pires;CE;Não;4.8;15;7
+461;Carolina Novaes;Feminino;1993-12-17;31;Viúvo(a);Analista Financeiro;Marketing;2018-03-07;3290.3;Estágio;Ensino Médio;Desligado;Porto de Minas;CE;Não;6.8;16;1
+462;Sr. Pedro Miguel Peixoto;Masculino;1987-01-29;38;Divorciado(a);Contador;Logística;2008-08-28;5795.11;Temporário;Superior Completo;Desligado;Cardoso;PR;Sim;2.6;18;12
+463;Júlia Dias;Feminino;1999-09-02;25;Casado(a);Designer Gráfico;Tecnologia da Informação;2008-06-01;3683.92;PJ;Superior Completo;Ativo;Barros;SP;Sim;0.1;3;3
+464;Dr. Igor da Paz;Outro;1998-06-06;26;Viúvo(a);Auxiliar de Logística;Tecnologia da Informação;2019-08-11;2007.68;Temporário;Superior Incompleto;Ativo;da Conceição;SP;Sim;0.6;19;6
+465;Emanuelly Ramos;Outro;1990-09-27;34;Solteiro(a);Desenvolvedor;Recursos Humanos;2002-09-11;6569.32;PJ;Pós-graduação;Ativo;Ferreira do Norte;RJ;Sim;2.5;14;2
+466;Dra. Ana Lívia Lima;Outro;2000-01-16;25;Viúvo(a);Coordenador de Marketing;Financeiro;2007-01-24;6922.78;Temporário;Superior Completo;Ativo;Viana;RJ;Não;7.8;12;12
+467;Srta. Vitória Santos;Feminino;1994-02-07;31;Solteiro(a);Coordenador de Marketing;Marketing;2019-07-23;5122.75;CLT;Pós-graduação;Ativo;Lopes;GO;Não;1.8;15;3
+468;Leonardo Monteiro;Masculino;1991-06-23;33;Viúvo(a);Assistente Administrativo;Logística;2005-02-16;2250.34;Estágio;Superior Completo;Ativo;Lima das Pedras;SP;Sim;0.7;8;14
+469;Carolina Alves;Masculino;2001-02-03;24;Viúvo(a);Gerente de Projetos;Administrativo;2023-04-12;10201.68;CLT;Pós-graduação;Desligado;Moreira de da Luz;MG;Não;9.0;18;0
+470;Olivia Nogueira;Outro;1995-08-20;29;Viúvo(a);Analista Financeiro;Financeiro;2014-10-16;3807.83;CLT;Superior Incompleto;Ativo;Nascimento;PE;Não;1.2;17;11
+471;Nicole Barbosa;Feminino;1994-05-04;31;Divorciado(a);Contador;Recursos Humanos;2022-03-26;5080.68;CLT;Superior Completo;Desligado;Pires de Costela;RJ;Não;7.6;9;6
+472;Anthony Campos;Masculino;2004-09-25;20;Solteiro(a);Contador;Administrativo;2004-01-22;3977.51;Estágio;Ensino Médio;Desligado;Moraes Paulista;CE;Sim;8.9;14;6
+473;Alice Novaes;Masculino;1972-09-15;52;Solteiro(a);Assistente Administrativo;Recursos Humanos;2007-02-17;2303.82;PJ;Pós-graduação;Desligado;da Conceição de Dias;RJ;Não;5.0;14;0
+474;Nicolas das Neves;Masculino;1988-01-04;37;Divorciado(a);Analista de RH;Marketing;2011-11-21;3681.67;CLT;Pós-graduação;Ativo;Dias da Prata;RS;Não;9.4;17;4
+475;Matheus Moraes;Outro;1993-12-01;31;Casado(a);Desenvolvedor;Recursos Humanos;2021-12-05;6206.38;Estágio;Ensino Médio;Desligado;da Mota do Oeste;GO;Sim;2.4;20;4
+476;Noah Costela;Masculino;1979-09-17;45;Casado(a);Analista de RH;Marketing;2019-03-20;3731.11;CLT;Pós-graduação;Ativo;Costa das Pedras;GO;Sim;8.2;3;3
+477;Ana Laura Moreira;Feminino;1979-12-09;45;Casado(a);Desenvolvedor;Tecnologia da Informação;2020-05-23;5278.63;Estágio;Superior Completo;Ativo;Rodrigues do Oeste;GO;Sim;3.2;6;1
+478;João Felipe Nunes;Outro;1986-03-01;39;Casado(a);Auxiliar de Logística;Recursos Humanos;2012-05-22;1584.52;PJ;Pós-graduação;Ativo;Teixeira;BA;Sim;4.4;18;1
+479;Melissa Porto;Masculino;1966-04-24;59;Solteiro(a);Designer Gráfico;Financeiro;2020-09-13;4122.02;CLT;Pós-graduação;Ativo;Sales de Oliveira;SP;Sim;1.8;2;9
+480;Henrique Fogaça;Feminino;1971-09-12;53;Viúvo(a);Gerente de Projetos;Tecnologia da Informação;2000-12-05;7715.44;Temporário;Pós-graduação;Desligado;Pereira das Pedras;RS;Sim;6.1;1;5
+481;Camila Alves;Outro;1996-07-18;28;Viúvo(a);Designer Gráfico;Recursos Humanos;2006-11-30;3866.23;Temporário;Superior Completo;Desligado;Rocha;SP;Sim;1.9;16;3
+482;Nina Moura;Outro;1993-07-18;31;Divorciado(a);Estagiário de TI;Logística;2005-05-01;1331.57;PJ;Superior Completo;Ativo;Castro dos Dourados;RS;Sim;8.0;15;15
+483;Milena Santos;Masculino;1980-11-30;44;Casado(a);Analista de RH;Recursos Humanos;2023-10-04;3467.29;Temporário;Superior Incompleto;Desligado;Melo;PR;Não;6.2;14;1
+484;Srta. Daniela Alves;Masculino;2001-03-09;24;Solteiro(a);Estagiário de TI;Tecnologia da Informação;2014-07-20;1294.83;CLT;Pós-graduação;Ativo;Moraes Verde;RJ;Sim;7.2;18;10
+485;Thomas Novaes;Feminino;1969-06-09;55;Casado(a);Auxiliar de Logística;Tecnologia da Informação;2003-02-24;2045.28;Temporário;Superior Incompleto;Ativo;Viana de Costa;RS;Não;8.7;12;7
+486;Breno Costela;Masculino;1999-08-15;25;Viúvo(a);Designer Gráfico;Financeiro;2003-07-03;2892.38;Estágio;Superior Incompleto;Ativo;Nunes;GO;Não;1.8;11;4
+487;Carlos Eduardo Moreira;Feminino;2002-12-08;22;Casado(a);Auxiliar de Logística;Marketing;2018-11-13;1641.55;PJ;Ensino Médio;Ativo;Melo de da Rosa;PR;Sim;1.1;14;14
+488;Enrico da Rosa;Feminino;1972-10-12;52;Casado(a);Auxiliar de Logística;Tecnologia da Informação;2002-04-17;2120.49;PJ;Superior Incompleto;Ativo;Viana Alegre;RJ;Não;8.6;15;6
+489;Emanuel Lima;Outro;1968-05-11;57;Viúvo(a);Analista Financeiro;Marketing;2004-04-03;3029.01;Estágio;Superior Incompleto;Ativo;Cunha;BA;Não;5.8;18;4
+490;Antônio Aragão;Outro;2003-06-04;21;Solteiro(a);Contador;Recursos Humanos;2016-05-11;3600.15;Estágio;Ensino Médio;Desligado;Moura;DF;Não;4.8;3;14
+491;Kamilly Novaes;Feminino;1995-10-29;29;Casado(a);Desenvolvedor;Logística;2022-12-20;6259.24;Estágio;Superior Incompleto;Ativo;Fogaça da Mata;BA;Não;2.4;2;0
+492;Ryan Melo;Feminino;2001-10-30;23;Divorciado(a);Gerente de Projetos;Administrativo;2018-09-06;9296.41;CLT;Pós-graduação;Desligado;da Rocha;MG;Não;1.8;11;14
+493;Agatha Castro;Outro;1974-08-11;50;Solteiro(a);Desenvolvedor;Financeiro;2018-01-02;6680.3;Temporário;Ensino Médio;Desligado;da Cunha Paulista;PE;Não;7.0;19;6
+494;Lara Silveira;Outro;1979-12-27;45;Solteiro(a);Designer Gráfico;Marketing;2002-07-18;4050.79;CLT;Superior Completo;Ativo;Almeida Verde;RJ;Não;3.7;19;1
+495;Agatha Cunha;Feminino;1977-01-10;48;Divorciado(a);Gerente de Projetos;Administrativo;2003-11-19;9793.95;CLT;Superior Incompleto;Ativo;Jesus;BA;Sim;5.4;20;15
+496;Matheus Campos;Outro;1989-06-04;35;Casado(a);Assistente Administrativo;Marketing;2008-05-10;2046.9;Temporário;Pós-graduação;Desligado;Pereira;SP;Sim;3.7;14;15
+497;Maria Eduarda Ferreira;Outro;1993-08-31;31;Solteiro(a);Analista Financeiro;Administrativo;2013-07-07;4063.81;Temporário;Pós-graduação;Desligado;Pires dos Dourados;RJ;Sim;8.9;14;2
+498;Luiz Miguel Gonçalves;Masculino;1977-06-06;47;Viúvo(a);Gerente de Projetos;Marketing;2017-02-01;11791.28;CLT;Ensino Médio;Ativo;Silveira;PR;Sim;7.0;15;4
+499;Dr. Diogo da Costa;Masculino;1996-01-14;29;Solteiro(a);Coordenador de Marketing;Financeiro;2022-01-28;7893.51;PJ;Pós-graduação;Desligado;Gonçalves;PE;Não;7.4;0;9
+500;Marcos Vinicius Campos;Masculino;1975-12-07;49;Solteiro(a);Analista de RH;Tecnologia da Informação;2004-12-03;3752.42;Temporário;Pós-graduação;Desligado;Cunha de Goiás;BA;Não;5.9;16;14
+501;Luigi Cavalcanti;Feminino;1984-10-24;40;Divorciado(a);Designer Gráfico;Tecnologia da Informação;2021-06-14;4327.08;Temporário;Superior Incompleto;Desligado;Nunes de Silveira;RS;Não;3.7;9;1
+502;Clarice Martins;Masculino;1982-06-09;42;Divorciado(a);Coordenador de Marketing;Financeiro;2021-01-23;7846.75;PJ;Superior Completo;Ativo;da Luz de Cardoso;MG;Sim;1.6;3;1
+503;Sr. Pedro Freitas;Feminino;1966-07-25;58;Casado(a);Analista Financeiro;Marketing;2020-02-21;3739.34;PJ;Ensino Médio;Desligado;Campos;BA;Sim;3.7;17;5
+504;Clara Dias;Outro;1985-11-28;39;Divorciado(a);Desenvolvedor;Recursos Humanos;2006-12-02;5213.69;Estágio;Superior Incompleto;Desligado;Barbosa;BA;Sim;0.0;17;10
+505;Samuel Viana;Outro;1986-07-11;38;Divorciado(a);Analista Financeiro;Marketing;2008-06-18;4939.21;PJ;Pós-graduação;Desligado;Moura Verde;RJ;Não;9.0;4;3
+506;Vinicius Melo;Feminino;1978-07-21;46;Solteiro(a);Contador;Logística;2007-08-08;5602.19;Estágio;Superior Completo;Ativo;da Conceição do Amparo;BA;Sim;6.1;6;7
+507;Davi Costela;Feminino;1998-07-19;26;Casado(a);Analista de RH;Recursos Humanos;2017-07-22;3307.62;Estágio;Ensino Médio;Desligado;da Conceição da Mata;RS;Não;3.2;19;1
+508;Pietro Castro;Outro;1967-09-15;57;Divorciado(a);Contador;Tecnologia da Informação;2008-12-10;5289.91;Estágio;Superior Completo;Desligado;da Cruz;BA;Sim;2.8;11;9
+509;Lívia Costa;Feminino;1980-07-11;44;Solteiro(a);Assistente Administrativo;Administrativo;2022-12-04;2421.46;Estágio;Pós-graduação;Desligado;Cardoso Verde;MG;Não;7.3;13;4
+510;Ana Clara Santos;Outro;1969-07-20;55;Solteiro(a);Gerente de Projetos;Tecnologia da Informação;2018-02-05;8516.16;Temporário;Ensino Médio;Desligado;Martins de Freitas;RJ;Sim;4.1;8;13
+511;Augusto Gonçalves;Masculino;1999-05-14;26;Viúvo(a);Designer Gráfico;Tecnologia da Informação;2011-10-21;3138.74;Estágio;Superior Completo;Desligado;Castro Verde;SP;Não;8.3;9;15
+512;Diego Jesus;Outro;1994-03-15;31;Viúvo(a);Assistente Administrativo;Recursos Humanos;2010-07-30;2353.85;PJ;Superior Completo;Desligado;Lopes;CE;Sim;6.5;9;13
+513;Bruno Oliveira;Masculino;1993-06-02;31;Viúvo(a);Assistente Administrativo;Recursos Humanos;2019-03-31;1883.55;Temporário;Pós-graduação;Ativo;Aragão;GO;Não;5.8;18;13
+514;Isabel Silveira;Feminino;1971-08-05;53;Viúvo(a);Desenvolvedor;Marketing;2004-08-14;5537.58;CLT;Superior Completo;Ativo;Rezende da Prata;GO;Sim;1.5;14;4
+515;Kamilly Martins;Feminino;2005-04-26;20;Casado(a);Analista de RH;Marketing;2002-08-18;3041.75;Temporário;Ensino Médio;Desligado;Azevedo de Gonçalves;PR;Sim;5.1;20;5
+516;Juan Novaes;Masculino;1990-08-05;34;Casado(a);Estagiário de TI;Marketing;2001-12-23;1723.47;Temporário;Superior Completo;Desligado;da Rosa;RJ;Não;8.2;0;4
+517;Nathan Dias;Outro;1985-08-22;39;Divorciado(a);Auxiliar de Logística;Financeiro;2022-07-05;1788.4;PJ;Ensino Médio;Ativo;Fogaça dos Dourados;MG;Sim;8.3;17;3
+518;Dr. Thomas Sales;Feminino;1997-04-06;28;Viúvo(a);Desenvolvedor;Recursos Humanos;2005-11-24;6456.53;CLT;Pós-graduação;Desligado;Araújo;PR;Não;1.4;14;10
+519;Lavínia Pires;Masculino;1983-10-26;41;Divorciado(a);Analista de RH;Administrativo;2009-06-09;3721.86;PJ;Superior Incompleto;Ativo;Santos;RS;Não;1.3;4;2
+520;Emanuella Fernandes;Feminino;1983-06-26;41;Solteiro(a);Desenvolvedor;Recursos Humanos;2006-01-14;6324.08;Estágio;Ensino Médio;Ativo;Lopes;RJ;Sim;7.9;16;1
+521;Dr. Antônio Melo;Feminino;1994-03-19;31;Solteiro(a);Coordenador de Marketing;Recursos Humanos;2015-09-02;4731.87;CLT;Ensino Médio;Ativo;da Rosa do Norte;GO;Sim;5.9;6;5
+522;Luiz Miguel Melo;Outro;1996-10-07;28;Divorciado(a);Analista de RH;Recursos Humanos;2004-06-07;2718.34;Temporário;Superior Completo;Desligado;Viana;MG;Sim;5.0;2;3
+523;Ian Fernandes;Outro;1987-09-24;37;Solteiro(a);Estagiário de TI;Tecnologia da Informação;2006-10-24;1629.49;Temporário;Superior Incompleto;Ativo;Cardoso;RJ;Sim;9.2;15;11
+524;Ana Luiza Cavalcanti;Outro;1976-11-22;48;Casado(a);Analista Financeiro;Administrativo;2024-01-04;4915.5;PJ;Superior Completo;Desligado;Lima do Norte;PE;Sim;5.1;13;3
+525;Otávio Teixeira;Feminino;1988-11-07;36;Solteiro(a);Analista Financeiro;Recursos Humanos;2024-11-18;4039.46;Estágio;Superior Completo;Desligado;Pinto de Minas;DF;Sim;0.8;15;3
+526;Julia Barbosa;Feminino;1980-07-26;44;Divorciado(a);Analista Financeiro;Logística;2009-11-04;4472.35;Estágio;Superior Incompleto;Desligado;Jesus;PR;Não;1.9;2;15
+527;Pietro Moreira;Outro;1986-10-08;38;Divorciado(a);Gerente de Projetos;Recursos Humanos;2019-05-15;11993.62;Estágio;Ensino Médio;Desligado;Cardoso de Barbosa;CE;Sim;1.2;12;12
+528;Luna Moraes;Outro;1966-09-18;58;Solteiro(a);Gerente de Projetos;Recursos Humanos;2003-07-21;8818.55;PJ;Superior Completo;Ativo;Costa;GO;Não;1.2;13;15
+529;Maria Barbosa;Feminino;1967-06-06;57;Divorciado(a);Contador;Marketing;2021-03-03;4689.57;Estágio;Pós-graduação;Desligado;Vieira;MG;Não;1.1;8;15
+530;Enrico Novaes;Feminino;1992-03-14;33;Casado(a);Gerente de Projetos;Recursos Humanos;2017-09-03;7498.02;CLT;Ensino Médio;Desligado;Teixeira de Pereira;SP;Sim;3.8;10;4
+531;Luiz Fernando da Paz;Feminino;1984-04-19;41;Solteiro(a);Desenvolvedor;Administrativo;2000-09-30;6254.83;Estágio;Pós-graduação;Ativo;Rezende da Prata;PR;Não;4.9;8;10
+532;Melissa da Mota;Outro;1998-02-17;27;Solteiro(a);Analista de RH;Financeiro;2011-10-27;3820.19;CLT;Pós-graduação;Desligado;Fernandes;BA;Não;4.4;1;1
+533;Luiz Gustavo Silveira;Masculino;1978-06-11;46;Divorciado(a);Gerente de Projetos;Financeiro;2024-04-18;9153.41;Temporário;Pós-graduação;Desligado;Cavalcanti;RJ;Não;6.6;17;15
+534;Fernanda Porto;Feminino;1977-02-28;48;Casado(a);Estagiário de TI;Recursos Humanos;2016-08-03;1434.83;Estágio;Pós-graduação;Desligado;Monteiro;PR;Não;0.6;18;1
+535;Thomas Silva;Masculino;1974-07-07;50;Divorciado(a);Auxiliar de Logística;Administrativo;2020-06-15;1908.78;Temporário;Pós-graduação;Ativo;Rezende Grande;PE;Não;9.9;13;11
+536;Dra. Rebeca da Mota;Masculino;2000-04-12;25;Casado(a);Assistente Administrativo;Tecnologia da Informação;2019-01-22;2253.66;CLT;Ensino Médio;Desligado;Lima de Nascimento;RJ;Não;1.7;17;10
+537;Ana Clara Rezende;Masculino;1971-09-19;53;Viúvo(a);Contador;Logística;2020-11-04;4786.9;Estágio;Superior Completo;Ativo;Farias de Cardoso;CE;Sim;9.9;12;12
+538;Pietra Fogaça;Feminino;1987-01-19;38;Solteiro(a);Analista Financeiro;Recursos Humanos;2024-01-18;4381.73;PJ;Superior Completo;Desligado;Correia;DF;Não;1.7;9;11
+539;Thiago Dias;Feminino;1973-11-05;51;Casado(a);Analista Financeiro;Administrativo;2011-12-28;4694.67;CLT;Superior Incompleto;Desligado;Cardoso do Norte;PR;Sim;3.0;18;12
+540;Dra. Agatha Lima;Masculino;1994-11-29;30;Solteiro(a);Designer Gráfico;Recursos Humanos;2020-12-28;3806.17;Temporário;Ensino Médio;Desligado;Castro;PE;Sim;3.5;2;9
+541;Ana Luiza Barbosa;Outro;1982-12-16;42;Divorciado(a);Contador;Administrativo;2018-01-15;4849.87;PJ;Pós-graduação;Desligado;Araújo do Oeste;PR;Não;6.7;17;5
+542;André Peixoto;Masculino;1980-05-14;45;Casado(a);Designer Gráfico;Financeiro;2024-10-19;3162.02;Estágio;Superior Completo;Desligado;Fogaça das Pedras;GO;Sim;5.2;11;14
+543;Sra. Olivia Porto;Masculino;1983-12-12;41;Casado(a);Gerente de Projetos;Administrativo;2002-07-27;10426.53;Temporário;Pós-graduação;Desligado;Barbosa;BA;Sim;6.3;13;8
+544;Ana Júlia da Rosa;Feminino;1988-07-29;36;Casado(a);Coordenador de Marketing;Administrativo;2005-08-13;6604.31;Estágio;Superior Incompleto;Ativo;Carvalho;MG;Sim;0.3;9;14
+545;Theo Jesus;Feminino;1989-04-22;36;Viúvo(a);Contador;Administrativo;2020-05-19;5764.14;PJ;Superior Incompleto;Desligado;Rodrigues;MG;Sim;2.6;8;5
+546;Beatriz da Mata;Outro;1986-02-27;39;Solteiro(a);Analista Financeiro;Recursos Humanos;2016-08-15;3110.65;CLT;Superior Completo;Desligado;Carvalho;RJ;Não;9.0;2;12
+547;João Guilherme Nunes;Outro;1987-07-20;37;Casado(a);Assistente Administrativo;Recursos Humanos;2011-11-22;2199.68;CLT;Superior Completo;Desligado;da Cunha de da Costa;RJ;Sim;6.0;10;10
+548;Sra. Ana Vitória Nunes;Outro;1967-03-09;58;Viúvo(a);Assistente Administrativo;Financeiro;2019-11-22;1952.61;CLT;Superior Incompleto;Ativo;Moreira do Norte;PR;Não;4.1;18;1
+549;Sr. Cauê Martins;Feminino;1989-07-24;35;Divorciado(a);Desenvolvedor;Marketing;2021-04-10;5637.24;Estágio;Superior Incompleto;Desligado;Alves do Galho;MG;Não;4.8;11;9
+550;Eduarda Costa;Masculino;1976-01-04;49;Solteiro(a);Analista de RH;Administrativo;2013-10-14;3876.19;PJ;Superior Completo;Desligado;Farias;PR;Não;9.0;3;7
+551;Luiz Otávio Almeida;Feminino;2004-09-30;20;Viúvo(a);Analista de RH;Financeiro;2002-07-27;3891.26;Temporário;Superior Completo;Ativo;da Rocha de Barros;RS;Não;2.1;5;14
+552;Thomas Carvalho;Outro;1986-09-14;38;Divorciado(a);Contador;Recursos Humanos;2017-11-03;4185.09;CLT;Pós-graduação;Desligado;Rodrigues;PE;Não;7.2;3;5
+553;Isis Silveira;Outro;1971-10-26;53;Divorciado(a);Estagiário de TI;Recursos Humanos;2009-05-07;1411.11;Temporário;Pós-graduação;Ativo;Nascimento das Pedras;SP;Sim;6.3;20;4
+554;Sr. Theo Jesus;Masculino;1994-01-25;31;Viúvo(a);Assistente Administrativo;Administrativo;2004-04-15;2013.88;CLT;Ensino Médio;Ativo;Nunes;RS;Sim;8.5;13;10
+555;Guilherme Ribeiro;Feminino;1981-08-31;43;Viúvo(a);Gerente de Projetos;Marketing;2015-11-17;7867.4;Temporário;Superior Completo;Ativo;Almeida;RJ;Não;3.7;12;12
+556;Lucas Porto;Outro;1974-08-01;50;Casado(a);Analista de RH;Recursos Humanos;2008-02-25;3884.67;PJ;Ensino Médio;Desligado;da Rocha;RS;Não;7.0;5;1
+557;Yasmin Correia;Feminino;1981-09-01;43;Viúvo(a);Designer Gráfico;Marketing;2009-11-09;3053.73;Temporário;Superior Incompleto;Ativo;Novaes;SP;Não;7.7;14;15
+558;Nicole Mendes;Masculino;1982-09-08;42;Casado(a);Assistente Administrativo;Tecnologia da Informação;2022-10-26;2462.24;Temporário;Superior Completo;Desligado;da Paz de Cunha;PE;Sim;4.3;6;6
+559;Emanuelly Freitas;Feminino;1974-06-01;50;Casado(a);Contador;Tecnologia da Informação;2023-07-12;4521.31;PJ;Ensino Médio;Desligado;Peixoto do Oeste;PR;Sim;6.2;7;11
+560;Noah da Rocha;Outro;2001-11-24;23;Viúvo(a);Desenvolvedor;Recursos Humanos;2008-09-26;5406.64;Temporário;Pós-graduação;Ativo;Nogueira da Prata;PE;Não;7.4;8;2
+561;Alana Fogaça;Masculino;1987-04-11;38;Solteiro(a);Analista de RH;Marketing;2020-05-13;3896.6;Estágio;Superior Completo;Ativo;Castro;SP;Não;5.0;12;9
+562;Arthur Peixoto;Feminino;2000-10-12;24;Divorciado(a);Gerente de Projetos;Logística;2007-02-05;7205.62;PJ;Superior Completo;Ativo;Rezende;DF;Não;9.3;14;4
+563;Davi Lucca Araújo;Masculino;2001-11-01;23;Divorciado(a);Estagiário de TI;Financeiro;2014-10-24;1285.08;CLT;Superior Completo;Ativo;Barros;MG;Não;8.7;8;11
+564;Vinicius Costela;Feminino;1971-11-28;53;Divorciado(a);Coordenador de Marketing;Logística;2003-05-15;7403.56;Temporário;Superior Completo;Desligado;Rezende;MG;Não;7.4;15;4
+565;Maria Cecília Melo;Outro;1977-04-16;48;Viúvo(a);Analista de RH;Tecnologia da Informação;2024-08-26;2722.93;PJ;Superior Incompleto;Ativo;Martins Paulista;CE;Não;1.6;14;13
+566;Dr. Luiz Henrique da Cruz;Masculino;1997-10-26;27;Viúvo(a);Analista de RH;Financeiro;2001-08-22;3034.78;Estágio;Pós-graduação;Desligado;Ramos de Nunes;RJ;Sim;1.2;2;6
+567;Evelyn Silveira;Feminino;1998-11-22;26;Casado(a);Gerente de Projetos;Administrativo;2014-07-16;9543.69;Temporário;Superior Incompleto;Ativo;Peixoto da Serra;DF;Sim;4.2;2;7
+568;Maria Vitória Barbosa;Feminino;1964-09-23;60;Solteiro(a);Auxiliar de Logística;Recursos Humanos;2012-12-13;1699.0;CLT;Pós-graduação;Desligado;da Luz da Serra;GO;Sim;8.4;4;0
+569;Eduarda da Rosa;Masculino;1991-08-06;33;Viúvo(a);Analista Financeiro;Financeiro;2017-01-08;4256.71;Temporário;Ensino Médio;Desligado;Nogueira;SP;Não;3.2;18;4
+570;Camila Cardoso;Masculino;1967-09-23;57;Solteiro(a);Coordenador de Marketing;Marketing;2009-05-24;7293.51;CLT;Pós-graduação;Ativo;Azevedo;PE;Não;1.8;12;2
+571;Fernando Lima;Masculino;1975-10-31;49;Casado(a);Gerente de Projetos;Financeiro;2002-09-28;10897.46;Temporário;Superior Incompleto;Ativo;da Cunha;PR;Não;8.0;9;4
+572;Olivia Farias;Feminino;1978-05-15;47;Solteiro(a);Auxiliar de Logística;Logística;2010-08-19;1639.91;Estágio;Pós-graduação;Desligado;Cavalcanti;PR;Não;0.9;13;11
+573;Sr. Thomas da Mota;Outro;1987-02-13;38;Casado(a);Contador;Administrativo;2008-09-03;4565.04;CLT;Superior Completo;Desligado;Correia de Dias;RS;Sim;9.3;16;2
+574;Juliana Duarte;Feminino;2001-10-04;23;Viúvo(a);Contador;Recursos Humanos;2007-05-15;5768.02;Estágio;Superior Completo;Ativo;Rocha de Ferreira;MG;Não;8.4;16;13
+575;Dr. Vicente Martins;Feminino;1970-04-03;55;Solteiro(a);Estagiário de TI;Recursos Humanos;2008-08-27;1750.38;CLT;Pós-graduação;Desligado;Lopes da Serra;RJ;Não;6.6;18;8
+576;Alexia Silva;Feminino;1984-01-12;41;Divorciado(a);Designer Gráfico;Recursos Humanos;2009-01-08;4106.7;CLT;Ensino Médio;Desligado;Cavalcanti das Pedras;MG;Sim;8.4;1;2
+577;Thiago Carvalho;Feminino;1971-12-07;53;Divorciado(a);Auxiliar de Logística;Logística;2012-03-09;2006.87;Estágio;Superior Completo;Desligado;Costa de Peixoto;MG;Sim;1.9;19;8
+578;Fernando Oliveira;Outro;1993-07-31;31;Solteiro(a);Contador;Logística;2011-12-13;3544.79;Estágio;Ensino Médio;Ativo;Moura Paulista;MG;Não;4.6;12;15
+579;Gustavo Henrique Gonçalves;Feminino;1982-05-27;42;Divorciado(a);Contador;Marketing;2010-06-22;3719.09;PJ;Ensino Médio;Ativo;Ferreira;RJ;Sim;7.0;6;0
+580;Benício Gomes;Masculino;2003-06-06;21;Viúvo(a);Gerente de Projetos;Administrativo;2024-03-09;8208.9;PJ;Ensino Médio;Desligado;Rocha;CE;Sim;4.7;0;3
+581;Ana Vitória da Rocha;Masculino;1994-07-13;30;Casado(a);Analista Financeiro;Financeiro;2002-06-10;3942.98;Estágio;Superior Incompleto;Ativo;da Rocha;PR;Não;0.5;0;3
+582;Sabrina Cavalcanti;Outro;1983-11-28;41;Viúvo(a);Contador;Financeiro;2001-08-16;5342.7;Temporário;Ensino Médio;Desligado;Nascimento;PE;Não;5.1;19;15
+583;Luiz Otávio Moreira;Masculino;1992-02-15;33;Solteiro(a);Estagiário de TI;Recursos Humanos;2012-03-08;1453.2;Temporário;Ensino Médio;Desligado;Monteiro;PE;Não;1.2;19;11
+584;Vitor Hugo Moraes;Feminino;1966-09-19;58;Viúvo(a);Analista de RH;Tecnologia da Informação;2017-02-11;2932.02;PJ;Pós-graduação;Desligado;da Rocha;CE;Sim;5.1;18;10
+585;Dra. Amanda Sales;Outro;1995-02-22;30;Viúvo(a);Gerente de Projetos;Marketing;2021-08-27;10614.98;Estágio;Pós-graduação;Desligado;Fernandes;CE;Sim;6.2;9;2
+586;Cauã da Cruz;Outro;2003-03-11;22;Viúvo(a);Gerente de Projetos;Tecnologia da Informação;2005-07-19;7997.42;Estágio;Ensino Médio;Desligado;Pereira;CE;Não;2.3;17;1
+587;Mirella Pires;Masculino;1966-05-13;59;Divorciado(a);Coordenador de Marketing;Marketing;2005-03-09;6869.25;PJ;Ensino Médio;Ativo;Jesus do Sul;BA;Não;1.1;7;3
+588;Bryan Gonçalves;Outro;1993-04-28;32;Casado(a);Analista Financeiro;Marketing;2008-12-17;4987.33;Temporário;Ensino Médio;Desligado;Lima de Silva;MG;Sim;7.1;14;14
+589;Ana Laura Duarte;Masculino;1976-07-12;48;Solteiro(a);Designer Gráfico;Logística;2024-04-11;4129.67;CLT;Ensino Médio;Ativo;Rodrigues;MG;Sim;8.7;11;5
+590;João Guilherme da Cruz;Outro;1999-09-19;25;Divorciado(a);Analista Financeiro;Logística;2017-10-10;3996.78;CLT;Superior Incompleto;Desligado;da Rocha de Nunes;BA;Sim;1.2;6;14
+591;Dr. Cauê Pires;Feminino;1973-09-11;51;Solteiro(a);Assistente Administrativo;Financeiro;2010-02-07;2038.92;PJ;Ensino Médio;Desligado;Monteiro;BA;Não;3.6;7;4
+592;Sr. Miguel Teixeira;Outro;1989-10-05;35;Viúvo(a);Assistente Administrativo;Tecnologia da Informação;2001-04-19;2361.24;Estágio;Pós-graduação;Desligado;Barbosa;DF;Não;9.4;14;4
+593;Juan Ribeiro;Masculino;1978-06-25;46;Solteiro(a);Desenvolvedor;Marketing;2012-11-23;4944.41;PJ;Pós-graduação;Ativo;Moraes;PE;Sim;6.6;20;4
+594;Dra. Alexia Rodrigues;Outro;1982-11-02;42;Solteiro(a);Estagiário de TI;Marketing;2002-04-05;1451.58;Temporário;Superior Completo;Desligado;Santos da Prata;SP;Não;9.0;19;4
+595;Lorena Farias;Outro;1991-06-30;33;Viúvo(a);Analista Financeiro;Administrativo;2005-05-19;3410.27;Estágio;Superior Completo;Desligado;Porto das Pedras;RS;Não;0.8;17;10
+596;Maitê Nascimento;Feminino;1982-01-23;43;Casado(a);Estagiário de TI;Logística;2010-07-01;1370.36;CLT;Superior Completo;Desligado;Ferreira de Barbosa;MG;Sim;0.3;17;8
+597;Maria Julia Costela;Masculino;1996-04-12;29;Divorciado(a);Contador;Logística;2016-01-12;3776.1;CLT;Superior Completo;Desligado;Nunes;DF;Não;1.2;20;3
+598;Sr. Lorenzo Rocha;Feminino;2004-04-11;21;Divorciado(a);Designer Gráfico;Administrativo;2018-04-19;2808.86;Temporário;Superior Incompleto;Ativo;Fogaça;BA;Não;2.8;18;4
+599;Isis Nascimento;Outro;1982-04-19;43;Viúvo(a);Estagiário de TI;Administrativo;2011-08-30;1348.58;Temporário;Superior Incompleto;Desligado;Rezende;CE;Sim;1.5;13;13
+600;Dr. Thiago Gonçalves;Masculino;1977-12-30;47;Solteiro(a);Analista de RH;Financeiro;2019-05-10;3832.76;Estágio;Superior Incompleto;Desligado;Mendes;RJ;Não;6.8;12;12
+601;Maria Clara Moraes;Feminino;1990-07-20;34;Viúvo(a);Contador;Financeiro;2008-02-27;5222.54;Estágio;Pós-graduação;Ativo;Lima;MG;Sim;4.8;14;4
+602;Yuri Nunes;Outro;1986-07-01;38;Solteiro(a);Assistente Administrativo;Financeiro;2018-04-05;2131.35;PJ;Superior Completo;Ativo;Pereira;GO;Não;1.1;11;9
+603;Letícia Peixoto;Masculino;1977-09-22;47;Casado(a);Desenvolvedor;Marketing;2016-03-07;4914.77;Temporário;Superior Completo;Desligado;Nascimento;CE;Sim;7.9;4;13
+604;Ana Beatriz Martins;Masculino;1987-08-27;37;Divorciado(a);Coordenador de Marketing;Tecnologia da Informação;2018-10-11;5140.77;Estágio;Ensino Médio;Ativo;Peixoto do Galho;DF;Não;0.7;1;13
+605;Thiago das Neves;Feminino;1989-11-01;35;Divorciado(a);Designer Gráfico;Financeiro;2005-08-23;4330.49;Estágio;Pós-graduação;Ativo;Gomes;MG;Não;7.6;14;4
+606;Gabrielly Gonçalves;Outro;2001-12-30;23;Divorciado(a);Desenvolvedor;Logística;2014-12-22;5993.51;Estágio;Pós-graduação;Ativo;Rocha da Serra;PE;Não;5.4;14;8
+607;Srta. Beatriz Cavalcanti;Outro;1975-06-03;49;Solteiro(a);Gerente de Projetos;Administrativo;2003-12-24;7124.02;Temporário;Ensino Médio;Ativo;Jesus;RS;Sim;9.6;16;6
+608;Levi Vieira;Feminino;1974-09-23;50;Solteiro(a);Desenvolvedor;Administrativo;2011-02-04;6808.55;PJ;Ensino Médio;Desligado;Cavalcanti;RS;Sim;8.3;18;14
+609;Gabriela Cardoso;Masculino;1973-07-01;51;Divorciado(a);Contador;Logística;2024-04-19;3612.46;CLT;Superior Completo;Desligado;Costela do Norte;MG;Não;0.2;16;10
+610;Ana Luiza Melo;Feminino;2003-07-06;21;Divorciado(a);Desenvolvedor;Recursos Humanos;2011-05-26;6939.36;PJ;Superior Completo;Ativo;Nascimento da Praia;MG;Não;7.7;4;9
+611;Guilherme Barros;Feminino;2003-02-02;22;Casado(a);Analista de RH;Logística;2011-01-14;3941.69;PJ;Ensino Médio;Ativo;Pinto de Ribeiro;PR;Não;1.0;4;13
+612;Joaquim Oliveira;Feminino;1998-01-20;27;Divorciado(a);Contador;Recursos Humanos;2016-04-17;3629.7;PJ;Superior Incompleto;Desligado;Lima;DF;Não;9.5;8;1
+613;Srta. Gabrielly Vieira;Feminino;1983-06-30;41;Viúvo(a);Estagiário de TI;Financeiro;2014-10-02;1239.27;CLT;Pós-graduação;Ativo;Melo;SP;Não;5.5;18;3
+614;Ana Julia Jesus;Masculino;1993-03-02;32;Casado(a);Coordenador de Marketing;Logística;2016-11-16;5923.61;CLT;Superior Incompleto;Ativo;Monteiro das Flores;BA;Sim;7.8;17;13
+615;Sarah Ramos;Outro;1982-11-03;42;Viúvo(a);Analista de RH;Recursos Humanos;2005-05-23;3718.97;Temporário;Superior Incompleto;Ativo;Costa;SP;Não;2.7;8;12
+616;Lavínia da Mota;Feminino;1990-12-10;34;Casado(a);Designer Gráfico;Logística;2021-01-10;3278.23;PJ;Ensino Médio;Desligado;Novaes Verde;RJ;Não;7.0;4;8
+617;Sofia da Mota;Feminino;1993-10-30;31;Casado(a);Designer Gráfico;Logística;2021-09-29;4427.61;Temporário;Superior Completo;Desligado;Almeida;CE;Não;2.5;10;10
+618;Júlia Moraes;Masculino;2002-03-31;23;Viúvo(a);Designer Gráfico;Marketing;2002-04-03;2826.99;PJ;Ensino Médio;Desligado;Costela;SP;Sim;6.7;13;15
+619;Diego Carvalho;Feminino;2004-11-13;20;Solteiro(a);Desenvolvedor;Logística;2000-05-29;4092.84;Estágio;Ensino Médio;Desligado;Cardoso de Pires;PE;Não;3.9;0;3
+620;Ryan da Paz;Feminino;2004-08-13;20;Divorciado(a);Assistente Administrativo;Financeiro;2020-03-31;1806.55;CLT;Superior Completo;Desligado;Aragão de Minas;RS;Sim;8.2;20;9
+621;Sr. Danilo Silveira;Outro;1965-01-05;60;Casado(a);Assistente Administrativo;Financeiro;2010-01-12;2477.11;CLT;Superior Completo;Desligado;Monteiro;GO;Sim;0.1;20;12
+622;Kamilly da Cunha;Masculino;1995-12-26;29;Divorciado(a);Designer Gráfico;Logística;2018-09-23;3639.82;PJ;Superior Incompleto;Ativo;da Rocha do Norte;GO;Sim;7.5;4;8
+623;Maysa da Mota;Outro;1968-12-13;56;Casado(a);Estagiário de TI;Administrativo;2017-06-12;1669.35;PJ;Ensino Médio;Desligado;Moreira;DF;Não;0.0;13;1
+624;Nicole Santos;Feminino;1967-12-18;57;Viúvo(a);Contador;Marketing;2004-06-11;3804.29;Estágio;Pós-graduação;Desligado;Novaes;DF;Sim;8.8;7;1
+625;Caroline Moraes;Feminino;1972-05-14;53;Viúvo(a);Estagiário de TI;Financeiro;2024-08-11;1389.75;Estágio;Superior Incompleto;Desligado;Lopes;RJ;Sim;9.9;7;13
+626;Mariane Sales;Masculino;1971-05-23;54;Casado(a);Assistente Administrativo;Tecnologia da Informação;2005-07-04;2030.46;CLT;Ensino Médio;Ativo;Melo;CE;Não;8.1;18;10
+627;Dr. Lucas Gabriel Pires;Feminino;2002-04-06;23;Casado(a);Desenvolvedor;Financeiro;2015-09-28;4715.08;Temporário;Ensino Médio;Desligado;Ferreira;DF;Sim;9.4;19;14
+628;Dra. Elisa Teixeira;Masculino;1968-05-08;57;Viúvo(a);Designer Gráfico;Recursos Humanos;2012-04-29;2945.41;CLT;Ensino Médio;Desligado;Teixeira do Campo;BA;Sim;7.8;1;14
+629;Vitor Pereira;Masculino;2002-08-18;22;Divorciado(a);Designer Gráfico;Administrativo;2022-01-19;3534.13;CLT;Ensino Médio;Ativo;Pinto de Freitas;PR;Não;4.0;19;13
+630;Murilo Novaes;Masculino;1998-01-16;27;Solteiro(a);Analista Financeiro;Financeiro;2009-06-27;3928.42;Estágio;Ensino Médio;Desligado;Ramos;SP;Não;5.2;18;6
+631;Sr. Luiz Gustavo Campos;Masculino;1971-06-15;53;Solteiro(a);Analista de RH;Logística;2005-01-14;3569.95;PJ;Superior Incompleto;Desligado;Araújo de Porto;BA;Não;4.8;19;14
+632;Ana Vitória da Cunha;Masculino;1966-08-10;58;Casado(a);Gerente de Projetos;Recursos Humanos;2000-11-01;7302.46;Temporário;Pós-graduação;Desligado;Martins;PR;Sim;1.5;9;10
+633;Amanda Correia;Feminino;2003-11-12;21;Divorciado(a);Analista de RH;Logística;2024-06-11;3379.66;PJ;Ensino Médio;Ativo;Nunes;DF;Sim;4.2;6;6
+634;Rafaela Santos;Outro;1987-10-30;37;Casado(a);Desenvolvedor;Marketing;2019-11-17;4568.07;Estágio;Pós-graduação;Desligado;Freitas Verde;GO;Não;6.2;13;10
+635;Benício Nunes;Masculino;2003-09-08;21;Solteiro(a);Analista Financeiro;Recursos Humanos;2019-01-29;3991.86;CLT;Superior Incompleto;Ativo;da Rosa;CE;Sim;2.4;10;12
+636;Igor Gomes;Masculino;1987-10-12;37;Viúvo(a);Gerente de Projetos;Recursos Humanos;2016-08-09;8814.09;CLT;Superior Completo;Ativo;Monteiro;DF;Sim;1.4;14;6
+637;Vitor Hugo da Paz;Outro;1978-10-16;46;Divorciado(a);Analista de RH;Recursos Humanos;2013-01-25;2798.68;Temporário;Superior Incompleto;Ativo;Viana;PR;Sim;3.4;17;7
+638;André da Conceição;Masculino;1988-02-21;37;Casado(a);Analista de RH;Tecnologia da Informação;2024-06-28;3764.32;CLT;Ensino Médio;Ativo;Fernandes;PE;Sim;3.4;6;9
+639;Rodrigo Lima;Feminino;1982-10-20;42;Casado(a);Auxiliar de Logística;Marketing;2003-05-07;1962.64;Estágio;Ensino Médio;Ativo;Alves da Praia;MG;Sim;7.9;6;12
+640;Augusto Santos;Outro;2002-07-06;22;Divorciado(a);Auxiliar de Logística;Logística;2006-11-18;1800.68;PJ;Ensino Médio;Ativo;da Costa do Amparo;DF;Não;7.9;10;7
+641;Thiago Gomes;Masculino;1997-05-20;28;Divorciado(a);Gerente de Projetos;Logística;2013-01-16;11841.92;Estágio;Superior Incompleto;Ativo;Caldeira de Goiás;CE;Sim;1.7;12;11
+642;Eloah Peixoto;Feminino;2000-07-18;24;Viúvo(a);Gerente de Projetos;Marketing;2016-03-14;10562.43;Estágio;Pós-graduação;Desligado;Oliveira;PR;Não;6.4;18;1
+643;Lívia Aragão;Masculino;1996-05-28;28;Casado(a);Assistente Administrativo;Financeiro;2018-11-02;2404.22;Estágio;Superior Incompleto;Desligado;Rezende Paulista;PE;Não;5.7;11;8
+644;Giovanna Cardoso;Outro;1991-06-02;33;Solteiro(a);Gerente de Projetos;Recursos Humanos;2004-08-24;8475.24;Temporário;Superior Incompleto;Ativo;Pereira de Caldeira;CE;Não;4.3;14;13
+645;Isabella Barros;Feminino;1967-07-21;57;Divorciado(a);Analista Financeiro;Marketing;2017-12-15;3546.04;CLT;Superior Incompleto;Desligado;Teixeira da Praia;RS;Não;6.5;11;2
+646;Arthur da Cruz;Feminino;1978-07-07;46;Solteiro(a);Coordenador de Marketing;Tecnologia da Informação;2006-05-12;4844.43;CLT;Superior Completo;Ativo;da Mota;DF;Sim;3.3;10;8
+647;Giovanna Barbosa;Feminino;1982-05-15;43;Divorciado(a);Assistente Administrativo;Administrativo;2018-01-06;2222.82;PJ;Superior Completo;Ativo;Sales de Nunes;PR;Não;8.2;12;12
+648;Kamilly Ferreira;Outro;1997-10-27;27;Solteiro(a);Analista Financeiro;Administrativo;2009-11-24;4025.29;PJ;Pós-graduação;Ativo;Dias de Costa;RS;Sim;4.7;16;14
+649;Carolina Teixeira;Outro;1988-09-18;36;Viúvo(a);Auxiliar de Logística;Recursos Humanos;2020-07-16;1719.15;PJ;Pós-graduação;Desligado;Carvalho;RS;Não;4.5;17;0
+650;Benício Araújo;Feminino;1992-10-07;32;Casado(a);Designer Gráfico;Tecnologia da Informação;2020-10-21;3319.47;CLT;Pós-graduação;Desligado;Monteiro de Minas;BA;Sim;4.2;12;9
+651;Cecília Barbosa;Feminino;1969-12-02;55;Solteiro(a);Designer Gráfico;Recursos Humanos;2001-07-25;4367.65;PJ;Superior Completo;Desligado;Moraes;PE;Sim;9.5;2;12
+652;Sophia Cavalcanti;Masculino;1984-10-12;40;Viúvo(a);Desenvolvedor;Marketing;2022-09-03;5708.55;Estágio;Superior Completo;Ativo;Melo;MG;Sim;6.7;5;1
+653;Dra. Ana Sophia Silveira;Outro;2001-12-22;23;Viúvo(a);Analista de RH;Tecnologia da Informação;2003-03-15;2798.5;Estágio;Superior Completo;Ativo;Fernandes das Flores;RS;Não;6.6;2;14
+654;Clara Melo;Masculino;1964-05-25;61;Divorciado(a);Estagiário de TI;Recursos Humanos;2023-08-31;1303.1;Estágio;Pós-graduação;Ativo;da Rosa;RJ;Sim;5.4;15;2
+655;Julia Souza;Feminino;1991-03-09;34;Casado(a);Gerente de Projetos;Tecnologia da Informação;2021-09-16;8548.79;Estágio;Superior Incompleto;Desligado;Novaes;GO;Sim;5.0;14;8
+656;Nathan Caldeira;Masculino;2000-11-25;24;Solteiro(a);Gerente de Projetos;Financeiro;2001-03-12;7319.85;Estágio;Superior Incompleto;Desligado;da Conceição;GO;Não;4.6;18;1
+657;Emanuelly Silveira;Outro;1992-10-25;32;Solteiro(a);Coordenador de Marketing;Administrativo;2007-04-02;7583.48;Estágio;Superior Completo;Desligado;Cardoso;PE;Sim;4.2;5;13
+658;Cauê Silveira;Feminino;1983-05-26;41;Viúvo(a);Gerente de Projetos;Administrativo;2022-09-10;9843.08;Estágio;Ensino Médio;Ativo;Costa;MG;Não;8.8;17;9
+659;Gustavo Henrique Dias;Outro;1966-09-13;58;Solteiro(a);Assistente Administrativo;Financeiro;2004-07-02;2087.89;CLT;Superior Completo;Ativo;Moraes;RJ;Não;4.1;5;8
+660;Samuel Alves;Masculino;1979-09-20;45;Solteiro(a);Analista Financeiro;Recursos Humanos;2003-05-19;3146.39;Estágio;Pós-graduação;Desligado;Rodrigues do Oeste;PE;Sim;4.0;0;8
+661;Sra. Caroline Cunha;Masculino;1978-07-12;46;Casado(a);Auxiliar de Logística;Administrativo;2002-08-27;2024.07;Estágio;Pós-graduação;Ativo;Vieira;RJ;Sim;7.1;14;4
+662;Luigi Almeida;Feminino;2000-10-23;24;Divorciado(a);Gerente de Projetos;Tecnologia da Informação;2022-08-21;11192.48;CLT;Superior Incompleto;Desligado;Gonçalves;RJ;Não;1.7;0;8
+663;Luiz Gustavo Araújo;Masculino;1982-02-28;43;Viúvo(a);Auxiliar de Logística;Tecnologia da Informação;2021-10-01;1651.67;CLT;Superior Incompleto;Desligado;Ferreira das Flores;SP;Sim;3.9;9;14
+664;Dra. Milena Moreira;Masculino;1972-10-16;52;Solteiro(a);Analista de RH;Financeiro;2016-10-11;3650.67;PJ;Superior Completo;Ativo;Caldeira Verde;RS;Sim;0.2;0;0
+665;Julia da Rosa;Feminino;1983-09-14;41;Casado(a);Desenvolvedor;Tecnologia da Informação;2004-04-06;6876.24;CLT;Superior Incompleto;Ativo;Ribeiro Alegre;SP;Não;5.1;10;10
+666;Maria Freitas;Outro;1966-04-27;59;Casado(a);Designer Gráfico;Tecnologia da Informação;2018-07-09;4388.36;Estágio;Pós-graduação;Ativo;Pires de Goiás;RS;Sim;1.1;10;5
+667;Calebe Caldeira;Masculino;1992-11-26;32;Viúvo(a);Auxiliar de Logística;Recursos Humanos;2009-10-25;1772.43;Estágio;Superior Incompleto;Ativo;da Rosa;PR;Não;0.4;6;13
+668;Dr. Diogo da Paz;Feminino;1968-02-02;57;Viúvo(a);Desenvolvedor;Administrativo;2018-05-29;5608.54;PJ;Superior Completo;Ativo;Lima de Almeida;GO;Não;9.8;12;4
+669;Larissa Almeida;Feminino;1977-10-11;47;Casado(a);Auxiliar de Logística;Administrativo;2019-05-13;1837.49;Temporário;Ensino Médio;Desligado;Cardoso;PE;Sim;5.0;0;7
+670;Alana Silveira;Masculino;1976-09-10;48;Solteiro(a);Coordenador de Marketing;Tecnologia da Informação;2003-01-31;7082.7;PJ;Ensino Médio;Ativo;Nunes;MG;Não;5.0;6;4
+671;Sofia Pires;Feminino;1974-10-09;50;Casado(a);Analista de RH;Tecnologia da Informação;2022-02-15;3885.11;Estágio;Superior Completo;Ativo;Fernandes de da Mata;PR;Não;6.4;1;13
+672;Cecília Nunes;Outro;1993-12-14;31;Divorciado(a);Analista de RH;Tecnologia da Informação;2017-09-28;3770.4;Temporário;Superior Completo;Ativo;Azevedo;RS;Sim;9.1;7;7
+673;Dra. Marina Farias;Outro;2002-12-23;22;Viúvo(a);Estagiário de TI;Marketing;2016-08-16;1310.13;CLT;Ensino Médio;Desligado;Lopes da Mata;RJ;Sim;0.5;4;6
+674;Maria Sophia Martins;Masculino;1992-11-26;32;Solteiro(a);Gerente de Projetos;Logística;2013-11-03;9744.24;PJ;Superior Incompleto;Ativo;da Rosa Alegre;PE;Não;3.1;6;7
+675;Esther Oliveira;Feminino;1972-12-28;52;Casado(a);Designer Gráfico;Tecnologia da Informação;2011-12-16;3315.27;Estágio;Superior Incompleto;Desligado;Lopes;CE;Sim;9.5;11;12
+676;André Lopes;Feminino;1980-11-28;44;Casado(a);Analista Financeiro;Financeiro;2007-11-09;3845.39;Estágio;Superior Incompleto;Desligado;Correia;SP;Não;4.3;2;9
+677;Sophie da Conceição;Outro;1964-11-23;60;Casado(a);Estagiário de TI;Administrativo;2001-05-10;1305.42;Estágio;Pós-graduação;Desligado;Freitas;CE;Não;3.8;19;15
+678;João Pedro Gonçalves;Masculino;1967-05-10;58;Divorciado(a);Gerente de Projetos;Administrativo;2016-08-15;9346.29;PJ;Superior Incompleto;Ativo;Barbosa;SP;Não;4.9;13;12
+679;Lorena Alves;Outro;1990-04-05;35;Divorciado(a);Contador;Financeiro;2018-04-19;4269.53;CLT;Pós-graduação;Ativo;Costela;RJ;Não;9.3;5;6
+680;João Felipe Lopes;Feminino;2005-05-02;20;Divorciado(a);Auxiliar de Logística;Logística;2022-06-11;1996.39;Temporário;Ensino Médio;Desligado;da Mata;PE;Sim;2.4;1;11
+681;Gabrielly Cunha;Outro;2000-07-04;24;Solteiro(a);Gerente de Projetos;Marketing;2017-10-07;10027.18;PJ;Superior Completo;Ativo;Moraes;GO;Sim;0.1;2;12
+682;Leonardo Santos;Feminino;1990-04-26;35;Solteiro(a);Estagiário de TI;Tecnologia da Informação;2002-06-23;1725.6;PJ;Pós-graduação;Desligado;da Mata de Minas;PR;Não;5.9;13;2
+683;Evelyn Pinto;Masculino;1981-03-15;44;Divorciado(a);Gerente de Projetos;Marketing;2000-12-24;10743.65;Estágio;Superior Completo;Ativo;Cardoso Paulista;MG;Não;0.0;2;13
+684;Helena Silveira;Outro;1996-01-23;29;Viúvo(a);Coordenador de Marketing;Administrativo;2022-07-19;6008.32;PJ;Superior Completo;Ativo;Melo;MG;Sim;4.9;16;3
+685;Davi Araújo;Feminino;1972-12-29;52;Casado(a);Gerente de Projetos;Tecnologia da Informação;2007-11-09;7294.91;PJ;Superior Incompleto;Desligado;Duarte;PE;Não;6.3;19;3
+686;Dr. Erick da Costa;Outro;2001-01-12;24;Casado(a);Desenvolvedor;Marketing;2005-11-30;4257.12;CLT;Superior Completo;Ativo;Correia;BA;Sim;5.9;15;15
+687;Elisa Ribeiro;Outro;1985-10-25;39;Solteiro(a);Analista de RH;Recursos Humanos;2017-12-13;2899.12;CLT;Ensino Médio;Ativo;da Paz do Sul;RS;Sim;3.8;16;8
+688;Murilo Pinto;Feminino;1985-02-05;40;Viúvo(a);Auxiliar de Logística;Logística;2018-07-19;1800.62;Temporário;Superior Completo;Desligado;da Mata das Pedras;RS;Não;6.7;12;1
+689;Carolina Farias;Feminino;1994-06-23;30;Divorciado(a);Desenvolvedor;Recursos Humanos;2019-04-10;5370.76;Estágio;Superior Incompleto;Ativo;Lima;GO;Sim;8.7;8;7
+690;Luiz Miguel Pires;Feminino;1992-02-16;33;Viúvo(a);Designer Gráfico;Administrativo;2006-03-29;3920.09;Estágio;Pós-graduação;Ativo;Caldeira de Minas;SP;Não;0.2;11;1
+691;Lucas Alves;Outro;1997-12-16;27;Divorciado(a);Analista Financeiro;Tecnologia da Informação;2004-08-13;4213.53;Estágio;Ensino Médio;Desligado;da Costa do Sul;PE;Não;9.9;3;12
+692;Sr. Matheus Cavalcanti;Feminino;1997-09-05;27;Casado(a);Gerente de Projetos;Logística;2023-01-15;11381.17;CLT;Superior Incompleto;Desligado;Monteiro de Goiás;RJ;Não;8.3;17;14
+693;Catarina da Mata;Masculino;1985-02-07;40;Viúvo(a);Desenvolvedor;Financeiro;2012-12-06;5987.93;PJ;Superior Incompleto;Ativo;Porto;MG;Sim;1.1;0;5
+694;Dr. Nathan Ramos;Feminino;1994-09-21;30;Viúvo(a);Coordenador de Marketing;Tecnologia da Informação;2015-10-11;7017.11;Estágio;Ensino Médio;Ativo;Ribeiro;DF;Não;0.9;10;7
+695;Cauã Silveira;Outro;1999-11-02;25;Solteiro(a);Auxiliar de Logística;Financeiro;2016-09-16;2137.12;Estágio;Pós-graduação;Ativo;Barros da Mata;RS;Não;1.2;2;3
+696;Breno da Rosa;Masculino;1984-05-07;41;Divorciado(a);Designer Gráfico;Tecnologia da Informação;2023-06-01;4065.85;CLT;Superior Completo;Ativo;Campos;BA;Não;5.8;0;9
+697;Yuri Barros;Masculino;1988-09-20;36;Casado(a);Contador;Financeiro;2001-06-05;4299.11;Temporário;Superior Incompleto;Ativo;Pinto;RJ;Não;0.1;14;10
+698;Sr. Nicolas Pires;Masculino;1997-06-12;27;Divorciado(a);Assistente Administrativo;Financeiro;2008-05-24;2275.99;PJ;Superior Completo;Ativo;Cardoso de da Mota;SP;Não;3.1;3;8
+699;Marcos Vinicius Pinto;Outro;2002-12-26;22;Viúvo(a);Assistente Administrativo;Financeiro;2010-04-20;2004.05;Estágio;Ensino Médio;Desligado;Oliveira dos Dourados;MG;Sim;8.5;7;1
+700;Luiz Otávio Caldeira;Masculino;1982-09-14;42;Viúvo(a);Contador;Marketing;2012-10-13;5960.97;PJ;Ensino Médio;Desligado;da Cunha;BA;Não;6.8;11;12
+701;Anthony Rodrigues;Feminino;1968-04-06;57;Solteiro(a);Estagiário de TI;Administrativo;2021-07-26;1369.82;PJ;Pós-graduação;Ativo;Barbosa do Galho;MG;Não;7.5;18;1
+702;Amanda Peixoto;Outro;1965-01-20;60;Divorciado(a);Analista Financeiro;Administrativo;2023-09-10;3327.39;PJ;Pós-graduação;Desligado;Mendes da Prata;PR;Sim;2.1;6;0
+703;Matheus da Luz;Feminino;1971-03-04;54;Solteiro(a);Gerente de Projetos;Financeiro;2009-10-22;11751.99;Estágio;Superior Incompleto;Ativo;Almeida de Alves;RJ;Não;9.7;5;1
+704;Ian Araújo;Masculino;1978-08-10;46;Divorciado(a);Designer Gráfico;Financeiro;2022-11-15;4448.54;Estágio;Superior Incompleto;Ativo;Nogueira de Porto;RJ;Sim;4.0;9;5
+705;Dra. Sarah Barbosa;Outro;1978-02-20;47;Viúvo(a);Desenvolvedor;Financeiro;2001-03-21;6594.69;Estágio;Superior Completo;Desligado;Souza de Teixeira;BA;Sim;1.2;2;3
+706;Juliana Pereira;Feminino;1998-02-08;27;Casado(a);Analista de RH;Logística;2006-08-31;3359.47;Estágio;Superior Completo;Ativo;Santos;GO;Sim;3.8;20;13
+707;Nina Jesus;Feminino;1977-10-23;47;Casado(a);Desenvolvedor;Marketing;2023-11-05;4190.49;PJ;Pós-graduação;Ativo;da Mata;PE;Não;0.6;18;3
+708;Dr. Marcos Vinicius da Mata;Masculino;2001-04-15;24;Solteiro(a);Gerente de Projetos;Logística;2020-02-05;10476.08;CLT;Pós-graduação;Desligado;da Conceição;RJ;Sim;1.3;6;5
+709;Matheus Costela;Masculino;1973-10-02;51;Divorciado(a);Analista de RH;Recursos Humanos;2025-02-05;3969.89;Temporário;Superior Completo;Ativo;Melo do Sul;PE;Sim;2.5;1;9
+710;Luiz Felipe Nunes;Outro;1971-10-25;53;Viúvo(a);Gerente de Projetos;Logística;2001-11-29;9452.21;Temporário;Superior Completo;Ativo;Souza;RJ;Sim;2.4;6;4
+711;Dr. Thomas Ramos;Feminino;1993-07-16;31;Casado(a);Gerente de Projetos;Logística;2002-12-27;9760.35;Temporário;Superior Completo;Ativo;Azevedo de das Neves;GO;Não;0.7;8;8
+712;Paulo Lima;Feminino;1997-05-13;28;Casado(a);Contador;Financeiro;2001-09-03;3708.14;Temporário;Pós-graduação;Ativo;Jesus;DF;Sim;0.7;8;6
+713;João Lucas Moraes;Outro;1990-12-08;34;Divorciado(a);Designer Gráfico;Administrativo;2021-09-26;3901.21;PJ;Pós-graduação;Ativo;da Rosa do Galho;BA;Não;3.8;19;7
+714;Kaique Lopes;Masculino;1999-01-14;26;Divorciado(a);Desenvolvedor;Logística;2015-01-19;4329.97;Estágio;Ensino Médio;Desligado;Porto;RJ;Não;9.1;8;4
+715;Valentina Souza;Masculino;1973-04-19;52;Divorciado(a);Analista de RH;Recursos Humanos;2017-12-10;3065.73;PJ;Pós-graduação;Ativo;da Rosa Verde;RJ;Sim;5.3;9;15
+716;Samuel Barbosa;Masculino;1988-03-05;37;Divorciado(a);Designer Gráfico;Marketing;2012-02-03;3737.62;CLT;Ensino Médio;Ativo;Farias;BA;Não;1.8;17;12
+717;Heloísa Azevedo;Feminino;1977-03-19;48;Casado(a);Coordenador de Marketing;Recursos Humanos;2023-03-16;6903.3;PJ;Superior Incompleto;Ativo;Martins Verde;PE;Não;0.5;20;11
+718;Lara Pereira;Outro;1989-10-30;35;Casado(a);Designer Gráfico;Financeiro;2010-08-09;4001.54;PJ;Pós-graduação;Desligado;Dias;CE;Não;2.8;13;7
+719;Bruna Fernandes;Feminino;1988-10-21;36;Solteiro(a);Coordenador de Marketing;Financeiro;2010-03-23;7197.02;CLT;Ensino Médio;Ativo;da Costa;RS;Sim;1.7;1;2
+720;Esther Moura;Outro;1977-03-30;48;Divorciado(a);Estagiário de TI;Financeiro;2019-09-27;1685.01;CLT;Pós-graduação;Ativo;Lopes;CE;Não;5.2;17;3
+721;Benício Alves;Feminino;2000-03-05;25;Solteiro(a);Designer Gráfico;Tecnologia da Informação;2010-05-21;4348.51;CLT;Pós-graduação;Desligado;da Costa;RS;Sim;6.1;5;7
+722;Dr. Cauã da Cruz;Masculino;1982-03-01;43;Solteiro(a);Auxiliar de Logística;Tecnologia da Informação;2015-02-02;1859.58;CLT;Pós-graduação;Desligado;Rezende;PE;Sim;3.7;3;10
+723;Yasmin Almeida;Outro;1998-05-14;27;Casado(a);Estagiário de TI;Recursos Humanos;2023-04-19;1374.04;Estágio;Superior Completo;Desligado;Ramos;RS;Sim;7.4;18;12
+724;Maysa Mendes;Masculino;1966-04-29;59;Divorciado(a);Estagiário de TI;Recursos Humanos;2016-01-09;1761.25;Estágio;Ensino Médio;Desligado;Azevedo;SP;Não;3.3;11;3
+725;Dr. Enzo Freitas;Masculino;1998-09-10;26;Divorciado(a);Gerente de Projetos;Financeiro;2015-04-17;8772.66;CLT;Pós-graduação;Desligado;Fogaça;RS;Sim;5.3;4;13
+726;Ana Clara Vieira;Masculino;1992-02-03;33;Viúvo(a);Analista de RH;Tecnologia da Informação;2011-09-08;3654.17;Temporário;Superior Incompleto;Desligado;Cunha;PE;Não;3.0;13;5
+727;Murilo Nogueira;Outro;1998-06-26;26;Divorciado(a);Desenvolvedor;Financeiro;2022-03-09;5968.84;Estágio;Superior Incompleto;Ativo;Freitas da Praia;BA;Não;0.1;6;3
+728;Sra. Maria Eduarda Pires;Masculino;1984-02-27;41;Divorciado(a);Analista de RH;Tecnologia da Informação;2007-12-23;3091.82;Temporário;Ensino Médio;Ativo;Nogueira Grande;RS;Não;9.6;8;3
+729;Gabriela Caldeira;Feminino;1969-11-05;55;Viúvo(a);Estagiário de TI;Financeiro;2003-02-11;1679.89;PJ;Superior Completo;Desligado;Rezende;DF;Não;1.3;3;0
+730;Sra. Ana Clara Costela;Masculino;1983-11-29;41;Casado(a);Auxiliar de Logística;Logística;2023-03-21;1509.55;PJ;Ensino Médio;Desligado;Gomes;PE;Sim;4.3;9;9
+731;Yasmin Gomes;Feminino;1982-10-10;42;Solteiro(a);Contador;Tecnologia da Informação;2025-03-21;5044.03;PJ;Superior Incompleto;Desligado;Jesus;RJ;Não;9.9;7;13
+732;Breno Gonçalves;Masculino;1999-04-18;26;Viúvo(a);Desenvolvedor;Administrativo;2017-02-10;6191.37;PJ;Superior Incompleto;Ativo;Nascimento;RS;Sim;1.3;1;8
+733;Isabelly da Costa;Masculino;1971-04-22;54;Casado(a);Contador;Recursos Humanos;2002-12-09;5041.17;CLT;Ensino Médio;Desligado;Melo da Prata;PE;Não;7.0;7;7
+734;Stephany Nogueira;Feminino;1976-07-09;48;Viúvo(a);Analista Financeiro;Recursos Humanos;2003-08-21;4019.73;CLT;Superior Completo;Ativo;das Neves;PR;Não;2.8;11;13
+735;Dr. Luiz Otávio Nascimento;Masculino;1993-09-16;31;Divorciado(a);Analista de RH;Tecnologia da Informação;2001-08-27;2561.33;CLT;Superior Completo;Ativo;Moraes da Mata;PR;Não;2.8;19;3
+736;Vinicius Carvalho;Feminino;2002-11-26;22;Casado(a);Coordenador de Marketing;Financeiro;2011-12-29;5772.53;Temporário;Ensino Médio;Ativo;Campos de da Rocha;SP;Sim;3.3;11;11
+737;Lucas Correia;Masculino;1964-05-14;61;Divorciado(a);Assistente Administrativo;Logística;2004-03-04;2068.83;CLT;Superior Incompleto;Ativo;Melo;SP;Sim;1.9;14;3
+738;Henrique da Cruz;Masculino;2002-04-11;23;Divorciado(a);Coordenador de Marketing;Administrativo;2012-10-30;6159.69;PJ;Superior Incompleto;Ativo;das Neves das Flores;MG;Sim;4.2;8;11
+739;Vicente Barbosa;Feminino;1980-09-02;44;Viúvo(a);Desenvolvedor;Financeiro;2004-05-13;4203.13;Estágio;Ensino Médio;Ativo;Porto;GO;Não;7.0;4;9
+740;Samuel Martins;Masculino;1987-07-18;37;Solteiro(a);Assistente Administrativo;Administrativo;2021-04-28;2370.17;Estágio;Ensino Médio;Ativo;da Mata de Minas;CE;Não;5.6;12;12
+741;Letícia Rocha;Outro;1985-08-28;39;Divorciado(a);Assistente Administrativo;Tecnologia da Informação;2000-05-26;1802.52;PJ;Ensino Médio;Desligado;Farias da Praia;DF;Não;3.0;7;9
+742;Sr. Enzo Gabriel Aragão;Outro;1989-04-19;36;Divorciado(a);Estagiário de TI;Recursos Humanos;2001-06-18;1302.67;CLT;Superior Incompleto;Desligado;Ribeiro do Sul;SP;Sim;9.4;8;4
+743;Calebe Nogueira;Feminino;1980-03-16;45;Solteiro(a);Assistente Administrativo;Tecnologia da Informação;2008-11-23;2174.22;CLT;Superior Completo;Desligado;Azevedo;BA;Sim;9.5;17;8
+744;Sr. Miguel Cardoso;Outro;1976-01-19;49;Casado(a);Contador;Logística;2004-07-11;4237.24;CLT;Ensino Médio;Desligado;da Rocha;RS;Não;1.8;0;3
+745;Mariane Jesus;Outro;1969-12-15;55;Viúvo(a);Coordenador de Marketing;Administrativo;2020-07-02;6720.07;PJ;Pós-graduação;Ativo;Monteiro do Sul;BA;Não;2.0;20;12
+746;Alícia Ribeiro;Masculino;1973-12-17;51;Viúvo(a);Assistente Administrativo;Administrativo;2018-05-01;2308.4;Temporário;Superior Incompleto;Desligado;Teixeira de Castro;RJ;Não;1.8;5;5
+747;Daniela da Cruz;Masculino;1988-10-07;36;Viúvo(a);Gerente de Projetos;Administrativo;2024-05-26;8410.22;Temporário;Superior Incompleto;Ativo;Moraes da Prata;PE;Sim;0.7;2;13
+748;Heitor Silva;Masculino;1979-08-08;45;Viúvo(a);Contador;Recursos Humanos;2025-04-14;5310.77;PJ;Ensino Médio;Ativo;Costa Paulista;PE;Não;0.2;0;1
+749;Thiago Campos;Masculino;1968-09-13;56;Casado(a);Desenvolvedor;Marketing;2023-07-02;4427.91;CLT;Ensino Médio;Ativo;da Luz do Sul;DF;Não;8.5;2;6
+750;João Ribeiro;Masculino;2000-08-20;24;Viúvo(a);Designer Gráfico;Financeiro;2014-08-13;4186.29;Temporário;Superior Completo;Desligado;Viana;MG;Sim;0.6;8;3
+751;Sophia Dias;Masculino;1969-09-17;55;Solteiro(a);Desenvolvedor;Logística;2001-04-30;4890.22;Estágio;Superior Incompleto;Ativo;Moraes;RS;Sim;2.3;12;4
+752;Kevin Carvalho;Feminino;1990-01-09;35;Divorciado(a);Assistente Administrativo;Administrativo;2014-12-24;2069.32;CLT;Pós-graduação;Ativo;Melo da Serra;RJ;Sim;1.0;9;11
+753;Anthony da Luz;Masculino;1992-02-28;33;Divorciado(a);Desenvolvedor;Marketing;2018-11-11;6769.96;CLT;Ensino Médio;Ativo;Rodrigues de Minas;MG;Não;5.3;19;5
+754;Ana Beatriz Barros;Outro;1995-11-28;29;Viúvo(a);Gerente de Projetos;Administrativo;2009-11-23;10435.8;Temporário;Superior Completo;Ativo;Nogueira;PR;Não;6.6;8;2
+755;Valentina Ferreira;Masculino;1987-01-08;38;Casado(a);Gerente de Projetos;Marketing;2014-03-25;7738.9;Estágio;Pós-graduação;Ativo;Jesus da Prata;RJ;Não;9.6;8;4
+756;João Guilherme Gomes;Masculino;1989-12-21;35;Divorciado(a);Gerente de Projetos;Tecnologia da Informação;2017-02-27;10837.68;Temporário;Superior Completo;Desligado;Moura da Prata;PE;Não;6.9;13;10
+757;Isabel Gomes;Masculino;1988-03-24;37;Casado(a);Contador;Financeiro;2000-10-09;4873.35;Estágio;Superior Incompleto;Desligado;Araújo Alegre;RJ;Não;5.3;7;2
+758;Emanuelly Caldeira;Masculino;1975-01-24;50;Divorciado(a);Analista de RH;Tecnologia da Informação;2010-11-23;3990.86;CLT;Superior Completo;Desligado;Nogueira;MG;Sim;0.6;11;11
+759;Julia Vieira;Masculino;1973-01-15;52;Divorciado(a);Analista Financeiro;Tecnologia da Informação;2025-05-04;4670.5;Estágio;Superior Incompleto;Ativo;Farias da Praia;RS;Sim;7.5;3;4
+760;Sr. Luigi Farias;Feminino;1968-07-08;56;Solteiro(a);Contador;Marketing;2014-05-07;3635.21;CLT;Ensino Médio;Desligado;Cardoso Grande;GO;Sim;0.3;11;4
+761;Maria Clara da Conceição;Masculino;1970-01-26;55;Casado(a);Desenvolvedor;Recursos Humanos;2024-11-21;5707.55;Estágio;Superior Incompleto;Ativo;Moraes de Melo;CE;Sim;7.5;9;15
+762;Lorena Fogaça;Feminino;1973-01-14;52;Divorciado(a);Analista Financeiro;Administrativo;2020-11-17;4390.49;Temporário;Ensino Médio;Ativo;Melo;SP;Sim;6.0;5;5
+763;Gustavo Porto;Masculino;1994-11-10;30;Viúvo(a);Contador;Administrativo;2016-02-05;5870.6;Estágio;Superior Completo;Desligado;Moura;RS;Não;9.3;8;2
+764;Maria Sophia Souza;Outro;1970-03-12;55;Viúvo(a);Gerente de Projetos;Administrativo;2018-01-05;8059.32;CLT;Superior Incompleto;Desligado;da Rocha do Galho;MG;Sim;8.2;14;15
+765;Dr. Pietro Cunha;Feminino;1997-02-28;28;Viúvo(a);Contador;Tecnologia da Informação;2024-07-27;3636.68;Temporário;Pós-graduação;Ativo;Barros do Sul;PR;Sim;1.0;11;10
+766;Sra. Amanda Moraes;Masculino;1980-07-20;44;Casado(a);Coordenador de Marketing;Tecnologia da Informação;2002-03-22;6395.49;CLT;Superior Incompleto;Ativo;Cardoso;PR;Sim;5.5;20;1
+767;Bruno da Luz;Masculino;1969-01-29;56;Divorciado(a);Desenvolvedor;Logística;2017-09-02;5694.39;Estágio;Ensino Médio;Ativo;Peixoto do Amparo;BA;Sim;9.4;0;11
+768;Augusto Rocha;Feminino;1967-11-05;57;Viúvo(a);Estagiário de TI;Tecnologia da Informação;2022-10-31;1388.68;Estágio;Superior Completo;Ativo;da Mota;RJ;Não;4.1;16;3
+769;Gabriel Nunes;Outro;1968-04-17;57;Casado(a);Analista de RH;Logística;2014-06-27;3694.1;Estágio;Ensino Médio;Desligado;Fernandes de Gonçalves;MG;Sim;6.8;2;2
+770;Enrico Duarte;Outro;1978-02-24;47;Casado(a);Assistente Administrativo;Administrativo;2009-02-15;2257.95;PJ;Superior Completo;Desligado;Moura;MG;Não;2.9;19;13
+771;Luiz Fernando Peixoto;Masculino;1988-01-28;37;Viúvo(a);Assistente Administrativo;Tecnologia da Informação;2001-04-11;2497.91;CLT;Superior Incompleto;Desligado;da Mota da Mata;RJ;Sim;1.4;9;2
+772;Lavínia Viana;Feminino;2003-04-22;22;Solteiro(a);Analista Financeiro;Marketing;2016-08-25;3339.44;Temporário;Superior Incompleto;Ativo;Farias;PR;Não;3.5;2;5
+773;Enzo da Conceição;Outro;1978-07-08;46;Viúvo(a);Coordenador de Marketing;Financeiro;2020-02-07;7924.69;Estágio;Superior Incompleto;Ativo;Vieira;GO;Não;0.4;9;12
+774;Stella Viana;Feminino;2003-05-13;22;Casado(a);Analista Financeiro;Marketing;2015-09-23;4024.96;Temporário;Superior Completo;Ativo;Silveira de Barros;PE;Não;2.6;1;1
+775;Vitória Moreira;Outro;1973-02-18;52;Casado(a);Estagiário de TI;Recursos Humanos;2014-10-28;1292.74;CLT;Superior Completo;Desligado;Rodrigues;MG;Não;8.5;7;12
+776;Dra. Eloah Azevedo;Feminino;1999-10-27;25;Solteiro(a);Auxiliar de Logística;Financeiro;2011-05-13;1827.94;Estágio;Ensino Médio;Ativo;da Mota da Praia;MG;Sim;9.2;12;13
+777;Sr. Nicolas Castro;Masculino;2003-01-11;22;Viúvo(a);Auxiliar de Logística;Recursos Humanos;2009-08-23;1722.1;Estágio;Superior Incompleto;Desligado;Martins;RJ;Não;4.5;17;4
+778;Maria Julia Rodrigues;Feminino;1994-06-18;30;Casado(a);Assistente Administrativo;Marketing;2008-11-22;2197.74;Estágio;Ensino Médio;Desligado;Nunes das Pedras;PE;Não;2.1;6;0
+779;Ana Júlia Freitas;Outro;1986-04-23;39;Viúvo(a);Coordenador de Marketing;Marketing;2017-06-17;6724.91;CLT;Superior Incompleto;Ativo;Alves;PR;Não;0.8;14;13
+780;Luiz Gustavo Nogueira;Outro;2003-10-29;21;Casado(a);Coordenador de Marketing;Tecnologia da Informação;2016-01-05;7406.92;CLT;Pós-graduação;Desligado;Campos da Praia;PR;Sim;2.0;13;15
+781;Dra. Sofia Sales;Feminino;1985-01-16;40;Casado(a);Contador;Marketing;2024-01-26;5781.49;Estágio;Ensino Médio;Ativo;Rezende;RJ;Sim;3.2;10;0
+782;Maysa Barbosa;Masculino;2004-06-23;20;Viúvo(a);Gerente de Projetos;Financeiro;2016-12-05;11321.51;CLT;Pós-graduação;Desligado;Jesus;DF;Sim;9.9;4;14
+783;Ana Carolina Azevedo;Outro;1966-12-25;58;Solteiro(a);Analista de RH;Tecnologia da Informação;2005-12-24;3618.56;PJ;Pós-graduação;Ativo;Vieira do Sul;GO;Não;2.2;6;6
+784;Sr. Calebe Rezende;Outro;1981-07-24;43;Solteiro(a);Auxiliar de Logística;Marketing;2000-05-27;1511.33;Temporário;Ensino Médio;Desligado;Gonçalves;CE;Não;4.1;11;13
+785;Juan Moreira;Outro;1988-07-17;36;Divorciado(a);Desenvolvedor;Tecnologia da Informação;2016-01-13;5376.47;Temporário;Superior Incompleto;Ativo;Cavalcanti;DF;Não;3.8;13;9
+786;Isabella da Rosa;Outro;1985-09-20;39;Solteiro(a);Desenvolvedor;Recursos Humanos;2024-11-26;4268.91;CLT;Pós-graduação;Ativo;Barros Verde;CE;Sim;6.3;16;1
+787;Eloah Mendes;Outro;1964-08-18;60;Divorciado(a);Contador;Tecnologia da Informação;2015-10-31;4057.2;Estágio;Pós-graduação;Ativo;Cavalcanti;RS;Não;9.5;11;14
+788;Diogo Moraes;Feminino;1993-02-20;32;Viúvo(a);Analista de RH;Marketing;2020-08-05;3673.29;Temporário;Superior Completo;Desligado;Novaes da Prata;PR;Não;6.7;0;13
+789;Luna Silva;Masculino;1979-05-31;45;Solteiro(a);Analista de RH;Tecnologia da Informação;2012-01-20;3685.77;Temporário;Superior Completo;Ativo;Mendes;GO;Não;2.4;12;6
+790;Rebeca da Rosa;Outro;1991-05-03;34;Viúvo(a);Analista de RH;Logística;2016-09-16;3143.65;Estágio;Superior Incompleto;Desligado;da Paz de Fernandes;BA;Sim;4.4;3;4
+791;Lorenzo Gonçalves;Outro;1971-03-20;54;Solteiro(a);Designer Gráfico;Financeiro;2018-10-02;4233.15;Temporário;Superior Incompleto;Desligado;Rodrigues;RS;Sim;0.9;13;0
+792;Ian da Mata;Outro;1998-08-28;26;Casado(a);Analista de RH;Logística;2005-03-09;3561.36;CLT;Pós-graduação;Ativo;Fogaça;MG;Não;6.3;11;5
+793;João Lucas Costela;Masculino;1967-03-15;58;Casado(a);Coordenador de Marketing;Tecnologia da Informação;2000-08-12;6373.96;PJ;Pós-graduação;Desligado;Fernandes;SP;Não;0.8;4;0
+794;Noah Costela;Outro;1967-12-10;57;Solteiro(a);Desenvolvedor;Financeiro;2014-12-15;6781.6;CLT;Ensino Médio;Ativo;Caldeira do Norte;PR;Não;8.9;2;2
+795;Sophia Cardoso;Feminino;1987-06-21;37;Divorciado(a);Assistente Administrativo;Financeiro;2008-09-19;1870.47;CLT;Pós-graduação;Ativo;Pires Grande;CE;Sim;2.1;13;12
+796;Diego Moraes;Feminino;1996-07-30;28;Viúvo(a);Gerente de Projetos;Tecnologia da Informação;2002-12-01;8493.77;PJ;Ensino Médio;Ativo;Silva;BA;Não;4.8;19;0
+797;Ana Clara Nascimento;Masculino;1965-01-18;60;Divorciado(a);Desenvolvedor;Tecnologia da Informação;2009-01-24;5818.33;CLT;Superior Incompleto;Ativo;da Paz;BA;Sim;9.0;0;10
+798;Mariane Azevedo;Masculino;1967-01-07;58;Casado(a);Desenvolvedor;Administrativo;2021-03-15;6074.81;PJ;Superior Completo;Desligado;Nascimento;CE;Sim;9.5;11;9
+799;Lucas Teixeira;Feminino;1989-08-20;35;Viúvo(a);Contador;Logística;2007-05-31;5865.86;PJ;Superior Completo;Ativo;Caldeira;RS;Não;9.6;3;9
+800;Vitor Gabriel Oliveira;Masculino;1994-10-02;30;Casado(a);Analista Financeiro;Financeiro;2008-12-23;4765.71;Estágio;Superior Completo;Desligado;Monteiro;GO;Sim;6.1;13;6
+801;Leonardo Vieira;Outro;1988-08-15;36;Divorciado(a);Auxiliar de Logística;Administrativo;2013-04-10;2073.54;Estágio;Superior Incompleto;Ativo;Santos da Mata;DF;Não;5.9;9;11
+802;Paulo Silveira;Feminino;1974-04-02;51;Solteiro(a);Desenvolvedor;Tecnologia da Informação;2013-01-02;6427.12;Estágio;Superior Incompleto;Desligado;Aragão;RS;Sim;2.2;11;11
+803;Melissa da Luz;Masculino;1981-08-02;43;Divorciado(a);Desenvolvedor;Recursos Humanos;2014-06-07;4955.77;CLT;Superior Completo;Ativo;Vieira Alegre;CE;Não;9.0;17;2
+804;Kaique Aragão;Feminino;1976-04-07;49;Divorciado(a);Designer Gráfico;Tecnologia da Informação;2003-01-15;3696.35;CLT;Superior Completo;Ativo;Alves do Sul;GO;Não;6.8;13;10
+805;Alexandre Martins;Feminino;1990-10-27;34;Casado(a);Assistente Administrativo;Recursos Humanos;2000-10-21;2361.91;Estágio;Ensino Médio;Desligado;Pereira de Minas;PE;Sim;1.2;5;10
+806;João Miguel Gomes;Outro;1993-12-31;31;Viúvo(a);Assistente Administrativo;Logística;2009-01-30;1814.89;CLT;Ensino Médio;Desligado;Gonçalves;PR;Sim;8.4;12;1
+807;Vitória Monteiro;Outro;2000-07-23;24;Solteiro(a);Auxiliar de Logística;Administrativo;2010-09-19;1511.39;Estágio;Ensino Médio;Desligado;Dias dos Dourados;PR;Não;3.2;11;12
+808;Sra. Maria Luiza Mendes;Masculino;2005-05-08;20;Divorciado(a);Analista Financeiro;Logística;2002-01-02;3094.15;Temporário;Pós-graduação;Desligado;Cunha da Prata;RJ;Não;9.4;3;0
+809;Larissa Sales;Masculino;1988-05-29;36;Solteiro(a);Analista de RH;Tecnologia da Informação;2018-07-16;2657.7;Temporário;Pós-graduação;Ativo;Almeida do Norte;MG;Sim;1.9;11;0
+810;Maysa Silva;Outro;1967-01-12;58;Solteiro(a);Coordenador de Marketing;Recursos Humanos;2010-09-01;4887.81;Temporário;Ensino Médio;Desligado;Duarte;BA;Não;2.7;5;4
+811;Milena da Cunha;Outro;2002-11-03;22;Viúvo(a);Desenvolvedor;Tecnologia da Informação;2012-02-06;4958.0;PJ;Pós-graduação;Desligado;Viana;RJ;Sim;5.8;15;8
+812;Mirella Castro;Feminino;1972-07-29;52;Viúvo(a);Assistente Administrativo;Recursos Humanos;2010-11-10;1984.67;Temporário;Ensino Médio;Desligado;Fernandes;DF;Sim;6.6;6;2
+813;Bianca Alves;Masculino;1990-10-31;34;Viúvo(a);Analista de RH;Tecnologia da Informação;2012-05-27;2519.69;PJ;Pós-graduação;Desligado;da Paz;RS;Não;1.0;6;10
+814;Vinicius da Rocha;Feminino;2002-06-21;22;Viúvo(a);Gerente de Projetos;Logística;2008-08-01;7528.3;PJ;Superior Incompleto;Desligado;Costela do Amparo;PE;Não;8.7;16;6
+815;Daniela Costa;Feminino;1979-03-27;46;Casado(a);Desenvolvedor;Marketing;2024-02-08;5269.28;Temporário;Ensino Médio;Ativo;da Mata Paulista;CE;Sim;7.5;7;0
+816;Bryan Araújo;Feminino;1975-07-24;49;Casado(a);Coordenador de Marketing;Recursos Humanos;2010-03-30;6166.84;Estágio;Superior Completo;Desligado;Melo;RJ;Sim;3.5;6;4
+817;Caio Cunha;Feminino;1982-02-01;43;Viúvo(a);Estagiário de TI;Marketing;2023-08-29;1231.89;Temporário;Superior Completo;Ativo;Porto;SP;Não;7.3;13;6
+818;Sra. Maitê Ferreira;Feminino;1968-05-31;56;Casado(a);Contador;Tecnologia da Informação;2003-02-14;4985.12;Estágio;Pós-graduação;Ativo;da Paz da Mata;SP;Sim;9.6;7;3
+819;Matheus Vieira;Masculino;1972-10-13;52;Solteiro(a);Designer Gráfico;Marketing;2012-07-22;3205.9;CLT;Superior Completo;Ativo;Carvalho;GO;Não;3.9;3;7
+820;Calebe Moreira;Outro;2002-09-06;22;Divorciado(a);Analista Financeiro;Tecnologia da Informação;2025-01-28;3342.06;PJ;Superior Completo;Desligado;Cavalcanti;GO;Não;7.3;3;5
+821;Mirella Ferreira;Outro;1994-03-06;31;Viúvo(a);Coordenador de Marketing;Administrativo;2008-08-05;5335.17;Temporário;Ensino Médio;Ativo;Cunha da Mata;MG;Não;9.0;4;0
+822;Kamilly Campos;Outro;2004-06-04;20;Viúvo(a);Contador;Marketing;2020-07-07;3552.07;Temporário;Ensino Médio;Ativo;da Mata;SP;Não;9.7;18;0
+823;Fernanda Lima;Feminino;1967-10-07;57;Casado(a);Analista Financeiro;Recursos Humanos;2001-06-08;3090.35;CLT;Superior Completo;Ativo;Sales de Souza;DF;Sim;7.5;3;3
+824;Dra. Letícia Ramos;Feminino;2005-02-04;20;Divorciado(a);Analista Financeiro;Financeiro;2008-08-15;4469.63;Temporário;Pós-graduação;Desligado;Gonçalves;BA;Não;0.1;11;9
+825;Yago Rezende;Outro;1989-07-09;35;Divorciado(a);Estagiário de TI;Administrativo;2006-04-03;1714.17;Estágio;Ensino Médio;Desligado;Cavalcanti do Galho;DF;Sim;1.5;13;7
+826;Diego Pereira;Outro;1993-09-30;31;Casado(a);Auxiliar de Logística;Financeiro;2011-04-29;1521.63;Estágio;Superior Completo;Ativo;Melo;RJ;Sim;9.2;12;3
+827;Lorena da Conceição;Feminino;1969-01-08;56;Viúvo(a);Estagiário de TI;Tecnologia da Informação;2004-05-11;1359.19;Temporário;Superior Completo;Desligado;da Costa;GO;Não;9.5;8;9
+828;Dra. Alícia Lima;Masculino;1994-02-27;31;Solteiro(a);Designer Gráfico;Logística;2004-11-20;3993.12;CLT;Pós-graduação;Desligado;Freitas;GO;Não;2.9;0;15
+829;Maria Luiza Jesus;Outro;1968-04-15;57;Casado(a);Analista Financeiro;Administrativo;2008-05-08;3300.46;Temporário;Superior Incompleto;Desligado;Carvalho de Barros;CE;Não;0.6;9;0
+830;Dr. Gustavo Henrique Lima;Feminino;1983-12-30;41;Solteiro(a);Assistente Administrativo;Marketing;2003-02-08;2377.83;CLT;Ensino Médio;Desligado;Costela;PR;Sim;4.3;0;1
+831;Marcos Vinicius Gonçalves;Feminino;1997-12-23;27;Casado(a);Auxiliar de Logística;Marketing;2022-12-30;2049.68;PJ;Ensino Médio;Desligado;Novaes;MG;Sim;4.3;2;9
+832;Nicole Vieira;Masculino;1994-10-15;30;Solteiro(a);Analista Financeiro;Marketing;2006-12-12;3497.46;Estágio;Pós-graduação;Desligado;Martins do Oeste;RJ;Não;9.2;19;9
+833;Pietra Silva;Masculino;1988-06-05;36;Viúvo(a);Auxiliar de Logística;Logística;2002-12-25;1597.42;PJ;Superior Completo;Ativo;Cardoso Verde;PE;Sim;3.0;2;9
+834;Sra. Melissa Aragão;Outro;1983-01-04;42;Viúvo(a);Estagiário de TI;Tecnologia da Informação;2008-06-16;1425.58;Estágio;Ensino Médio;Ativo;Correia de Porto;DF;Não;6.9;16;11
+835;Guilherme da Mota;Feminino;1973-10-13;51;Divorciado(a);Contador;Financeiro;2025-03-27;4551.26;Estágio;Pós-graduação;Ativo;Barros da Mata;DF;Sim;9.6;13;2
+836;Cauê Nunes;Masculino;1973-01-15;52;Divorciado(a);Assistente Administrativo;Logística;2005-09-03;2158.54;PJ;Superior Completo;Ativo;Araújo;PE;Sim;4.0;0;14
+837;Juliana Correia;Outro;1989-12-24;35;Viúvo(a);Analista de RH;Recursos Humanos;2010-03-24;2582.04;CLT;Superior Completo;Ativo;Nogueira da Mata;PR;Não;6.9;1;3
+838;Renan Pinto;Outro;1974-12-26;50;Solteiro(a);Assistente Administrativo;Logística;2008-12-18;1900.91;Estágio;Superior Incompleto;Ativo;Castro;MG;Não;6.3;0;15
+839;Luana Melo;Outro;1982-11-24;42;Casado(a);Desenvolvedor;Recursos Humanos;2002-01-04;4000.11;CLT;Ensino Médio;Ativo;Silva;RS;Sim;4.7;16;14
+840;Guilherme Melo;Feminino;1976-06-19;48;Solteiro(a);Desenvolvedor;Marketing;2020-10-16;5213.67;PJ;Superior Incompleto;Desligado;Pinto Alegre;GO;Não;8.6;19;3
+841;Sr. Ryan Barbosa;Feminino;1993-01-20;32;Casado(a);Analista de RH;Tecnologia da Informação;2008-10-31;2712.53;PJ;Superior Incompleto;Ativo;Campos;CE;Não;2.9;3;15
+842;Clarice Farias;Feminino;1999-05-11;26;Divorciado(a);Contador;Financeiro;2023-08-24;5244.13;CLT;Pós-graduação;Desligado;Porto do Norte;PE;Sim;0.3;14;3
+843;Bernardo Souza;Outro;1988-09-01;36;Viúvo(a);Analista de RH;Logística;2013-06-21;2954.14;Estágio;Ensino Médio;Desligado;Gomes;MG;Não;8.8;14;8
+844;Mariane Lopes;Masculino;1968-09-19;56;Casado(a);Auxiliar de Logística;Logística;2013-10-14;2099.09;PJ;Superior Completo;Desligado;da Luz de Rodrigues;DF;Sim;1.7;4;11
+845;Sr. Benício Monteiro;Outro;1992-07-27;32;Divorciado(a);Analista Financeiro;Administrativo;2017-07-06;4717.33;PJ;Superior Completo;Desligado;Fogaça de Melo;PE;Sim;9.2;20;15
+846;Dra. Sarah Lima;Feminino;1990-05-26;34;Viúvo(a);Designer Gráfico;Administrativo;2019-02-09;3106.64;Temporário;Superior Incompleto;Desligado;Costa do Amparo;GO;Não;5.8;12;2
+847;Dr. Francisco Duarte;Masculino;1971-06-23;53;Solteiro(a);Gerente de Projetos;Tecnologia da Informação;2008-02-14;7482.7;CLT;Pós-graduação;Desligado;Mendes;BA;Sim;9.8;7;3
+848;Bruna Pires;Masculino;2003-02-13;22;Viúvo(a);Contador;Recursos Humanos;2014-12-07;3654.82;Temporário;Ensino Médio;Ativo;Duarte;RJ;Não;7.6;19;0
+849;Nicole Fogaça;Masculino;2000-05-14;25;Divorciado(a);Desenvolvedor;Administrativo;2005-06-11;5348.53;PJ;Superior Incompleto;Ativo;Silveira de da Paz;PR;Não;4.4;9;7
+850;Breno Lima;Masculino;1984-10-20;40;Casado(a);Contador;Logística;2015-06-07;5521.68;PJ;Ensino Médio;Ativo;da Paz;RJ;Sim;0.3;4;0
+851;Ana Sophia Castro;Feminino;1979-06-13;45;Viúvo(a);Designer Gráfico;Logística;2011-04-02;4269.63;Temporário;Superior Incompleto;Desligado;da Costa de Correia;RS;Sim;5.7;15;11
+852;André Duarte;Feminino;1997-11-29;27;Casado(a);Desenvolvedor;Financeiro;2023-09-30;5282.54;Estágio;Ensino Médio;Ativo;Rocha de Goiás;MG;Não;1.0;15;7
+853;Emanuella Moura;Masculino;1993-03-03;32;Divorciado(a);Analista de RH;Tecnologia da Informação;2020-01-12;3731.99;Temporário;Superior Completo;Desligado;Cavalcanti de Nunes;BA;Sim;8.7;5;9
+854;Vitor Hugo Souza;Masculino;1997-02-13;28;Casado(a);Estagiário de TI;Logística;2021-03-16;1500.03;Estágio;Ensino Médio;Ativo;Almeida de Pires;GO;Não;9.4;8;0
+855;Davi Luiz Silva;Masculino;1987-10-04;37;Divorciado(a);Contador;Marketing;2001-01-24;4001.28;CLT;Superior Incompleto;Ativo;Mendes de da Mota;DF;Não;9.2;1;7
+856;Mariana da Mata;Feminino;1981-08-26;43;Solteiro(a);Designer Gráfico;Logística;2024-04-22;3995.25;CLT;Superior Completo;Ativo;Pires do Galho;PE;Sim;8.9;15;4
+857;Guilherme Moura;Feminino;1997-03-17;28;Solteiro(a);Desenvolvedor;Recursos Humanos;2018-08-12;5489.79;PJ;Superior Completo;Desligado;da Cunha do Galho;CE;Não;7.8;7;0
+858;Clara Ribeiro;Masculino;1995-03-07;30;Solteiro(a);Assistente Administrativo;Logística;2009-11-20;2225.7;Estágio;Ensino Médio;Desligado;Monteiro;SP;Não;7.7;4;13
+859;Srta. Maria Luiza Alves;Outro;1971-05-17;54;Viúvo(a);Estagiário de TI;Tecnologia da Informação;2017-07-24;1269.35;CLT;Superior Completo;Desligado;Azevedo;RS;Não;4.4;1;7
+860;Cecília Oliveira;Masculino;1971-03-21;54;Solteiro(a);Designer Gráfico;Recursos Humanos;2005-06-30;3186.11;CLT;Ensino Médio;Ativo;Gonçalves da Praia;SP;Sim;0.6;14;5
+861;Ryan Nunes;Feminino;1986-03-21;39;Solteiro(a);Auxiliar de Logística;Marketing;2011-05-11;1921.69;PJ;Superior Completo;Ativo;das Neves;GO;Não;4.8;3;2
+862;Lucas Teixeira;Masculino;2002-12-29;22;Divorciado(a);Estagiário de TI;Tecnologia da Informação;2017-05-04;1496.96;Temporário;Superior Incompleto;Desligado;Fernandes;PR;Não;7.8;9;7
+863;Pietra Cardoso;Outro;1973-05-20;52;Divorciado(a);Auxiliar de Logística;Administrativo;2005-07-03;1878.99;CLT;Ensino Médio;Desligado;da Cruz;PE;Não;2.8;6;4
+864;Srta. Maysa Pires;Outro;2005-01-17;20;Casado(a);Coordenador de Marketing;Administrativo;2015-10-03;6435.38;CLT;Superior Completo;Ativo;Dias da Mata;SP;Sim;7.0;20;14
+865;Vitor da Mota;Masculino;1967-08-28;57;Solteiro(a);Analista Financeiro;Recursos Humanos;2016-09-22;3540.6;Estágio;Superior Completo;Ativo;da Conceição;SP;Não;8.5;12;15
+866;Esther da Conceição;Masculino;1989-11-09;35;Viúvo(a);Contador;Financeiro;2006-08-17;3611.04;PJ;Pós-graduação;Ativo;da Costa;PE;Sim;6.6;1;11
+867;Lucas Costela;Masculino;1989-10-31;35;Divorciado(a);Coordenador de Marketing;Logística;2009-05-25;5257.9;CLT;Superior Completo;Desligado;Caldeira;PE;Sim;8.1;17;12
+868;Nina Moura;Outro;1988-02-27;37;Divorciado(a);Estagiário de TI;Financeiro;2008-11-23;1454.3;Temporário;Superior Incompleto;Desligado;Pereira;CE;Sim;1.3;0;8
+869;Felipe Lopes;Outro;1987-01-25;38;Divorciado(a);Desenvolvedor;Tecnologia da Informação;2024-10-15;6314.02;Temporário;Superior Completo;Desligado;Duarte do Sul;SP;Não;3.6;8;0
+870;Amanda Cardoso;Masculino;1970-12-17;54;Divorciado(a);Designer Gráfico;Administrativo;2013-05-25;3345.68;Temporário;Superior Incompleto;Desligado;Campos;CE;Sim;4.4;14;1
+871;Sr. Luiz Gustavo Campos;Feminino;1998-12-13;26;Viúvo(a);Estagiário de TI;Tecnologia da Informação;2017-10-17;1445.17;CLT;Superior Completo;Desligado;Oliveira;RJ;Não;1.8;8;8
+872;Juan Vieira;Feminino;1995-02-09;30;Casado(a);Assistente Administrativo;Administrativo;2021-03-19;1922.15;CLT;Superior Incompleto;Ativo;da Cruz;SP;Sim;6.8;14;10
+873;Vicente da Mota;Masculino;2002-09-07;22;Casado(a);Analista de RH;Administrativo;2005-08-20;3987.96;Temporário;Ensino Médio;Desligado;Silveira;DF;Sim;6.0;11;3
+874;Noah Rezende;Masculino;1992-05-11;33;Viúvo(a);Desenvolvedor;Logística;2021-12-27;4232.35;PJ;Superior Completo;Desligado;Silva;PE;Sim;6.4;9;4
+875;Luiz Felipe Silveira;Masculino;1993-04-25;32;Divorciado(a);Designer Gráfico;Marketing;2004-09-25;3369.48;Estágio;Superior Completo;Desligado;Almeida;PR;Sim;1.6;1;9
+876;Luana Nunes;Masculino;1996-12-04;28;Solteiro(a);Desenvolvedor;Logística;2016-08-21;4634.44;Temporário;Superior Completo;Ativo;Cavalcanti Alegre;PE;Sim;6.6;4;12
+877;Sabrina Cunha;Outro;1967-03-04;58;Solteiro(a);Desenvolvedor;Tecnologia da Informação;2008-08-16;5696.21;Estágio;Ensino Médio;Ativo;Cardoso do Norte;GO;Não;6.6;16;14
+878;Lara Cardoso;Feminino;1965-10-18;59;Divorciado(a);Assistente Administrativo;Logística;2016-01-05;2005.15;PJ;Superior Completo;Ativo;Caldeira da Serra;BA;Sim;4.6;3;7
+879;Heloísa Nunes;Feminino;1995-12-28;29;Viúvo(a);Auxiliar de Logística;Recursos Humanos;2022-06-14;1746.39;CLT;Superior Completo;Desligado;Lima;GO;Sim;4.5;13;7
+880;Pedro Miguel Oliveira;Outro;1999-08-18;25;Casado(a);Estagiário de TI;Tecnologia da Informação;2001-10-31;1665.87;Estágio;Superior Incompleto;Desligado;Ribeiro de Goiás;PR;Não;3.1;2;13
+881;Sr. Lorenzo Farias;Feminino;1988-01-01;37;Casado(a);Designer Gráfico;Financeiro;2018-03-30;3875.47;PJ;Superior Incompleto;Desligado;Cavalcanti do Galho;SP;Sim;1.2;8;15
+882;Srta. Melissa Moura;Outro;1976-10-04;48;Solteiro(a);Gerente de Projetos;Recursos Humanos;2016-07-14;11169.29;CLT;Superior Incompleto;Ativo;Carvalho;MG;Não;9.0;11;4
+883;Rebeca Dias;Feminino;1977-06-11;47;Casado(a);Coordenador de Marketing;Recursos Humanos;2000-10-10;5678.83;Temporário;Ensino Médio;Ativo;da Rocha;RJ;Não;9.5;13;14
+884;Sr. Yago Carvalho;Outro;1997-08-31;27;Viúvo(a);Coordenador de Marketing;Financeiro;2005-10-05;6950.4;PJ;Ensino Médio;Ativo;Lopes;SP;Não;6.7;14;12
+885;Marcela Mendes;Feminino;1975-05-19;50;Viúvo(a);Gerente de Projetos;Logística;2009-07-20;10612.67;Temporário;Ensino Médio;Ativo;da Luz;PR;Não;3.4;18;13
+886;Augusto Mendes;Feminino;1966-07-13;58;Divorciado(a);Contador;Marketing;2024-10-24;5393.25;PJ;Ensino Médio;Ativo;Costela do Oeste;PE;Não;5.8;19;10
+887;Ana Beatriz Nascimento;Masculino;1990-10-30;34;Divorciado(a);Coordenador de Marketing;Tecnologia da Informação;2003-05-26;4914.93;Temporário;Pós-graduação;Desligado;Peixoto do Galho;RS;Sim;2.9;8;3
+888;Yuri Correia;Masculino;1979-08-22;45;Divorciado(a);Gerente de Projetos;Recursos Humanos;2002-02-10;8034.22;PJ;Ensino Médio;Ativo;Moura;DF;Sim;0.1;0;11
+889;Helena da Rosa;Masculino;1989-07-17;35;Divorciado(a);Designer Gráfico;Financeiro;2011-08-12;4044.55;PJ;Pós-graduação;Desligado;Cavalcanti;RJ;Sim;4.4;13;15
+890;Fernanda Novaes;Feminino;1982-01-27;43;Solteiro(a);Gerente de Projetos;Marketing;2020-07-05;10658.17;CLT;Superior Completo;Ativo;Freitas do Amparo;RS;Sim;3.3;16;10
+891;Isabelly da Conceição;Feminino;1999-07-28;25;Viúvo(a);Estagiário de TI;Administrativo;2005-10-16;1666.23;Temporário;Ensino Médio;Desligado;Rezende;RJ;Não;1.9;17;1
+892;Sofia Fernandes;Outro;1989-03-29;36;Solteiro(a);Assistente Administrativo;Tecnologia da Informação;2014-09-30;2210.44;PJ;Superior Incompleto;Desligado;Moraes do Campo;CE;Sim;4.8;5;15
+893;Sophie da Cruz;Feminino;2000-08-17;24;Casado(a);Assistente Administrativo;Administrativo;2010-08-19;2413.1;PJ;Ensino Médio;Desligado;Campos;RJ;Não;5.6;6;5
+894;Luiza Mendes;Masculino;1984-04-08;41;Viúvo(a);Coordenador de Marketing;Logística;2016-02-17;5831.02;PJ;Superior Completo;Desligado;Alves;DF;Sim;8.8;7;9
+895;Juliana Dias;Outro;1994-04-10;31;Viúvo(a);Analista Financeiro;Administrativo;2024-10-12;3784.42;Temporário;Pós-graduação;Desligado;Castro;RJ;Sim;1.1;9;13
+896;Raquel da Rocha;Feminino;1990-04-27;35;Divorciado(a);Assistente Administrativo;Administrativo;2013-12-16;2097.41;PJ;Pós-graduação;Desligado;Lima;RJ;Não;7.0;4;15
+897;Gabriel da Conceição;Feminino;1965-03-30;60;Viúvo(a);Assistente Administrativo;Recursos Humanos;2008-03-24;2003.65;PJ;Pós-graduação;Ativo;Peixoto;DF;Não;2.6;10;13
+898;Nicolas da Paz;Feminino;1982-12-10;42;Viúvo(a);Contador;Financeiro;2021-10-30;4151.75;CLT;Superior Completo;Desligado;Cunha do Sul;RS;Não;6.4;1;9
+899;Gustavo Henrique Costa;Feminino;1976-12-06;48;Viúvo(a);Assistente Administrativo;Logística;2024-03-08;2412.94;PJ;Ensino Médio;Desligado;Pinto;MG;Sim;9.5;0;12
+900;Sr. Diego Rodrigues;Masculino;1999-12-05;25;Divorciado(a);Auxiliar de Logística;Logística;2015-10-17;1544.43;CLT;Superior Incompleto;Desligado;Moreira;DF;Sim;9.9;17;12
+901;Letícia Viana;Outro;1984-09-18;40;Casado(a);Coordenador de Marketing;Tecnologia da Informação;2007-01-07;7687.29;Temporário;Pós-graduação;Ativo;Rocha;DF;Sim;9.4;1;0
+902;Noah Costela;Outro;1994-10-12;30;Solteiro(a);Estagiário de TI;Financeiro;2008-06-28;1674.81;CLT;Superior Incompleto;Desligado;Dias das Flores;PR;Sim;2.3;7;1
+903;Ana Carolina Correia;Feminino;1994-07-25;30;Solteiro(a);Contador;Administrativo;2021-08-31;4501.88;Temporário;Ensino Médio;Ativo;Pires Alegre;RJ;Não;0.2;17;4
+904;João Felipe Fernandes;Masculino;1977-03-02;48;Viúvo(a);Assistente Administrativo;Logística;2022-06-06;2401.51;Temporário;Pós-graduação;Ativo;da Mata de Carvalho;PR;Não;4.6;3;8
+905;Clarice Aragão;Outro;1989-11-12;35;Viúvo(a);Contador;Marketing;2022-10-27;4573.84;PJ;Pós-graduação;Desligado;Pinto da Serra;CE;Não;9.1;17;7
+906;Murilo Pinto;Feminino;2001-09-15;23;Solteiro(a);Analista Financeiro;Administrativo;2014-02-07;3787.29;Temporário;Ensino Médio;Desligado;Fernandes;RS;Sim;4.0;7;14
+907;Marina Dias;Feminino;1967-02-23;58;Viúvo(a);Designer Gráfico;Recursos Humanos;2006-01-15;3892.79;Temporário;Superior Incompleto;Ativo;Lima de Minas;RJ;Sim;2.1;15;7
+908;Gustavo Freitas;Masculino;1998-07-04;26;Casado(a);Contador;Logística;2007-11-18;5595.18;PJ;Ensino Médio;Desligado;Castro;PR;Não;3.1;10;4
+909;Dr. Daniel Cavalcanti;Masculino;2003-03-20;22;Divorciado(a);Designer Gráfico;Logística;2023-11-11;3491.11;CLT;Superior Completo;Ativo;Teixeira;DF;Não;5.5;10;7
+910;Isaac Araújo;Feminino;1975-05-15;50;Viúvo(a);Analista Financeiro;Logística;2021-07-12;4109.61;CLT;Ensino Médio;Desligado;Cardoso da Prata;RJ;Não;1.3;0;5
+911;Eloah Cardoso;Outro;1993-10-16;31;Solteiro(a);Gerente de Projetos;Tecnologia da Informação;2013-02-19;9188.01;CLT;Ensino Médio;Desligado;Sales;CE;Sim;6.3;16;15
+912;Sra. Kamilly Rocha;Masculino;1993-10-06;31;Viúvo(a);Contador;Recursos Humanos;2004-03-18;4241.88;Estágio;Superior Completo;Desligado;Aragão de Cardoso;DF;Não;6.2;11;5
+913;Lorena da Conceição;Masculino;1987-09-30;37;Divorciado(a);Estagiário de TI;Administrativo;2012-07-15;1322.68;Temporário;Superior Completo;Desligado;Carvalho das Pedras;CE;Sim;9.4;4;5
+914;Maria Fernanda Alves;Outro;1985-01-11;40;Viúvo(a);Analista de RH;Marketing;2004-05-02;3124.45;PJ;Pós-graduação;Ativo;Rocha de Almeida;SP;Não;7.0;6;3
+915;Vicente da Rocha;Outro;2003-08-29;21;Viúvo(a);Auxiliar de Logística;Recursos Humanos;2017-10-04;1542.78;Estágio;Superior Incompleto;Ativo;Martins de Dias;BA;Sim;3.4;0;6
+916;Dra. Carolina Fogaça;Feminino;1989-09-02;35;Divorciado(a);Contador;Logística;2007-12-01;5323.31;Temporário;Pós-graduação;Desligado;Jesus;DF;Sim;0.8;4;3
+917;Sr. Joaquim Campos;Outro;1987-11-19;37;Casado(a);Coordenador de Marketing;Tecnologia da Informação;2018-11-13;5420.28;CLT;Superior Incompleto;Desligado;Rocha;BA;Não;9.7;19;15
+918;Beatriz Rocha;Masculino;1991-10-30;33;Casado(a);Analista de RH;Tecnologia da Informação;2015-09-12;3983.63;CLT;Superior Incompleto;Ativo;Cardoso;MG;Não;8.7;10;2
+919;Alana Pereira;Masculino;1971-12-10;53;Casado(a);Estagiário de TI;Financeiro;2024-07-19;1455.24;Estágio;Superior Completo;Desligado;Azevedo;DF;Sim;2.4;12;12
+920;Otávio Souza;Feminino;1990-11-14;34;Viúvo(a);Auxiliar de Logística;Marketing;2008-07-28;2087.05;Temporário;Ensino Médio;Ativo;da Conceição de Minas;MG;Não;7.1;13;14
+921;Nathan Nunes;Feminino;1972-03-10;53;Divorciado(a);Desenvolvedor;Logística;2022-04-25;6699.29;Temporário;Superior Incompleto;Ativo;Souza das Pedras;BA;Não;7.7;11;13
+922;Francisco Silva;Masculino;1966-07-05;58;Casado(a);Contador;Marketing;2015-12-22;3947.51;CLT;Superior Incompleto;Desligado;da Cunha;BA;Sim;0.1;9;10
+923;Miguel Fernandes;Masculino;1984-12-01;40;Divorciado(a);Coordenador de Marketing;Logística;2015-12-10;7725.47;Temporário;Ensino Médio;Desligado;Cavalcanti;CE;Não;0.4;8;8
+924;Srta. Joana Ramos;Outro;1979-06-24;45;Solteiro(a);Designer Gráfico;Recursos Humanos;2000-11-26;4267.42;Estágio;Pós-graduação;Desligado;Almeida de Goiás;MG;Não;7.5;20;3
+925;Yuri Nascimento;Masculino;1986-06-04;38;Divorciado(a);Analista de RH;Logística;2020-08-13;3841.4;PJ;Superior Incompleto;Ativo;Ramos;RJ;Não;8.3;3;1
+926;Thales Sales;Feminino;2000-02-26;25;Solteiro(a);Auxiliar de Logística;Recursos Humanos;2008-02-25;2100.52;Temporário;Superior Incompleto;Ativo;Viana;BA;Não;9.0;5;11
+927;Manuela Rodrigues;Outro;1981-02-26;44;Solteiro(a);Contador;Financeiro;2003-06-22;5594.29;CLT;Ensino Médio;Ativo;Silveira;DF;Sim;7.3;2;5
+928;Heitor Campos;Feminino;1972-01-01;53;Solteiro(a);Coordenador de Marketing;Logística;2009-06-08;5195.39;Estágio;Superior Incompleto;Ativo;Fogaça;PR;Não;5.6;3;10
+929;João Pedro Freitas;Feminino;1993-07-05;31;Solteiro(a);Designer Gráfico;Financeiro;2016-11-27;2949.88;CLT;Superior Incompleto;Ativo;Fogaça Paulista;MG;Não;5.9;0;5
+930;João Gomes;Masculino;1983-04-21;42;Casado(a);Auxiliar de Logística;Financeiro;2015-09-28;1556.89;PJ;Superior Completo;Ativo;da Cruz do Oeste;MG;Não;0.5;9;5
+931;João Vitor Aragão;Feminino;1968-10-15;56;Casado(a);Designer Gráfico;Marketing;2006-03-13;3503.77;PJ;Superior Completo;Ativo;Nunes;MG;Não;2.6;14;8
+932;Dr. Vitor Hugo Novaes;Masculino;2003-07-10;21;Viúvo(a);Auxiliar de Logística;Logística;2024-03-24;1754.53;Estágio;Superior Incompleto;Ativo;Monteiro;GO;Não;1.6;18;6
+933;Yuri Almeida;Outro;1986-01-18;39;Viúvo(a);Auxiliar de Logística;Administrativo;2022-05-16;2067.64;Temporário;Superior Incompleto;Desligado;Barros;DF;Não;0.9;6;8
+934;Daniel da Costa;Masculino;1973-08-26;51;Viúvo(a);Coordenador de Marketing;Recursos Humanos;2016-09-16;7726.72;PJ;Pós-graduação;Ativo;da Mota de Farias;CE;Não;3.7;12;1
+935;Otávio Rodrigues;Feminino;2000-05-14;25;Solteiro(a);Auxiliar de Logística;Recursos Humanos;2017-11-13;1611.13;Estágio;Superior Completo;Desligado;Jesus do Campo;RJ;Sim;9.1;9;5
+936;Sra. Ana Barros;Feminino;2001-10-03;23;Casado(a);Analista de RH;Financeiro;2016-03-27;3713.83;Estágio;Pós-graduação;Desligado;Vieira das Flores;CE;Sim;2.5;11;10
+937;Yuri Dias;Feminino;1979-04-28;46;Viúvo(a);Coordenador de Marketing;Recursos Humanos;2022-12-08;7897.68;PJ;Ensino Médio;Desligado;Carvalho de Minas;PE;Não;9.5;12;0
+938;Raul Cavalcanti;Masculino;1974-08-20;50;Casado(a);Coordenador de Marketing;Logística;2008-09-19;7878.32;PJ;Superior Incompleto;Ativo;Nunes de Dias;BA;Sim;9.7;9;4
+939;Emanuella Pires;Feminino;1988-12-08;36;Viúvo(a);Contador;Tecnologia da Informação;2010-12-10;4651.47;PJ;Superior Incompleto;Ativo;Souza do Norte;PR;Não;0.8;7;6
+940;Maria Fernanda Costa;Feminino;1994-08-26;30;Solteiro(a);Assistente Administrativo;Tecnologia da Informação;2024-02-13;2279.3;Temporário;Ensino Médio;Desligado;Carvalho de da Mata;MG;Não;1.0;17;12
+941;Vicente Ferreira;Outro;1967-02-23;58;Casado(a);Analista Financeiro;Administrativo;2000-11-13;3752.58;Estágio;Superior Incompleto;Ativo;Pires Verde;PE;Sim;3.2;4;12
+942;Clarice da Rosa;Feminino;1986-10-02;38;Divorciado(a);Contador;Logística;2018-08-20;4484.63;CLT;Superior Completo;Desligado;Jesus Grande;GO;Sim;2.2;19;5
+943;Sophie Castro;Masculino;1968-12-18;56;Divorciado(a);Auxiliar de Logística;Marketing;2013-05-24;1851.02;CLT;Pós-graduação;Ativo;Pinto;RS;Sim;5.0;1;6
+944;Lorenzo Nogueira;Feminino;1996-08-10;28;Viúvo(a);Desenvolvedor;Marketing;2010-10-15;5152.2;PJ;Pós-graduação;Ativo;Oliveira do Amparo;PR;Não;3.9;15;1
+945;Isadora Cardoso;Feminino;1993-07-02;31;Viúvo(a);Gerente de Projetos;Tecnologia da Informação;2005-12-27;8991.08;CLT;Pós-graduação;Ativo;Rocha do Sul;BA;Sim;6.6;12;0
+946;Mariane Barros;Masculino;1965-07-21;59;Divorciado(a);Gerente de Projetos;Logística;2007-08-27;9534.85;Estágio;Ensino Médio;Desligado;Alves de das Neves;PE;Não;7.7;9;13
+947;Marcelo Dias;Feminino;2000-05-04;25;Solteiro(a);Designer Gráfico;Financeiro;2014-04-08;3653.5;Estágio;Superior Completo;Desligado;Peixoto da Praia;RJ;Sim;9.8;17;12
+948;Anthony Vieira;Outro;1981-11-03;43;Solteiro(a);Gerente de Projetos;Recursos Humanos;2000-09-09;8685.58;Temporário;Superior Incompleto;Desligado;Silva de Duarte;PE;Sim;4.6;1;3
+949;Srta. Maria Campos;Feminino;1965-01-12;60;Viúvo(a);Auxiliar de Logística;Recursos Humanos;2000-05-20;2122.42;Temporário;Superior Completo;Desligado;Azevedo;BA;Não;7.7;0;8
+950;Maria Eduarda Costela;Masculino;2004-08-07;20;Divorciado(a);Auxiliar de Logística;Financeiro;2000-11-28;1512.26;Temporário;Superior Completo;Ativo;Rezende da Serra;GO;Sim;3.6;1;12
+951;Eloah Pereira;Masculino;1979-10-24;45;Casado(a);Desenvolvedor;Logística;2022-07-12;4283.72;PJ;Pós-graduação;Desligado;Mendes do Oeste;PR;Não;9.7;19;7
+952;Sra. Emilly Barros;Outro;1973-10-21;51;Viúvo(a);Analista de RH;Recursos Humanos;2011-02-14;2989.88;CLT;Superior Incompleto;Ativo;Cardoso Grande;PE;Sim;3.4;20;9
+953;Raquel da Mota;Feminino;2003-07-04;21;Viúvo(a);Analista de RH;Tecnologia da Informação;2008-03-27;3925.54;Temporário;Ensino Médio;Desligado;da Rosa;RJ;Sim;5.7;9;7
+954;Rafaela Dias;Outro;2000-09-29;24;Solteiro(a);Auxiliar de Logística;Logística;2012-02-23;1831.04;Estágio;Superior Completo;Ativo;Rezende;PR;Sim;6.0;5;9
+955;Sra. Luiza Costela;Feminino;1983-01-24;42;Solteiro(a);Contador;Tecnologia da Informação;2012-09-09;3546.8;Estágio;Superior Incompleto;Desligado;Pinto;PR;Não;6.0;20;10
+956;Bryan Monteiro;Masculino;1985-05-09;40;Casado(a);Assistente Administrativo;Recursos Humanos;2022-12-29;2296.31;PJ;Ensino Médio;Desligado;Azevedo;GO;Não;5.9;20;10
+957;Gustavo Henrique Ribeiro;Outro;1979-08-18;45;Viúvo(a);Analista Financeiro;Logística;2022-11-20;3025.13;Temporário;Superior Completo;Desligado;Viana do Galho;CE;Sim;4.6;15;6
+958;Srta. Maria Vitória Rocha;Outro;1969-07-05;55;Casado(a);Contador;Marketing;2005-12-02;4507.35;CLT;Pós-graduação;Desligado;Peixoto;RJ;Sim;7.5;16;11
+959;Milena Fogaça;Feminino;1978-03-18;47;Divorciado(a);Auxiliar de Logística;Financeiro;2006-03-24;1972.15;CLT;Superior Incompleto;Ativo;Duarte;GO;Não;5.6;13;0
+960;Pedro Miguel da Luz;Feminino;1971-01-31;54;Viúvo(a);Assistente Administrativo;Financeiro;2017-02-06;2444.82;PJ;Pós-graduação;Ativo;Silveira do Norte;RJ;Não;2.2;3;9
+961;Dra. Yasmin Cunha;Masculino;1989-01-18;36;Casado(a);Contador;Logística;2024-05-10;4521.29;PJ;Pós-graduação;Desligado;Duarte;BA;Não;6.3;20;10
+962;Danilo Teixeira;Outro;1994-08-23;30;Viúvo(a);Assistente Administrativo;Financeiro;2021-07-09;2146.38;Estágio;Superior Completo;Desligado;Novaes das Flores;MG;Sim;4.0;0;10
+963;Joana da Rocha;Feminino;1966-10-28;58;Casado(a);Desenvolvedor;Financeiro;2018-12-22;5740.47;Estágio;Pós-graduação;Desligado;Aragão de Fernandes;RS;Sim;6.2;4;2
+964;Dr. Levi da Rocha;Outro;2002-08-08;22;Viúvo(a);Analista de RH;Marketing;2016-04-11;3414.72;PJ;Pós-graduação;Ativo;Gonçalves;BA;Sim;7.4;20;12
+965;Heitor Ramos;Outro;1967-12-01;57;Casado(a);Gerente de Projetos;Financeiro;2009-06-18;8845.32;PJ;Superior Incompleto;Desligado;Moreira do Norte;RS;Não;1.3;2;0
+966;Dra. Maria Eduarda Mendes;Masculino;2003-10-14;21;Viúvo(a);Analista Financeiro;Tecnologia da Informação;2011-06-02;4367.34;Estágio;Superior Incompleto;Ativo;Sales Verde;CE;Sim;8.0;10;5
+967;Thiago da Rosa;Masculino;1976-02-12;49;Viúvo(a);Desenvolvedor;Recursos Humanos;2005-01-30;6245.83;Estágio;Pós-graduação;Desligado;Gonçalves de Goiás;RJ;Não;9.6;17;3
+968;Bruna Gomes;Outro;1972-06-07;52;Solteiro(a);Analista Financeiro;Financeiro;2007-10-27;4655.51;CLT;Superior Completo;Desligado;Ramos;SP;Não;4.0;16;14
+969;Yago Cardoso;Feminino;2001-10-03;23;Solteiro(a);Desenvolvedor;Tecnologia da Informação;2014-06-02;6541.21;CLT;Superior Incompleto;Desligado;Barbosa;PE;Não;1.4;7;15
+970;Otávio Vieira;Masculino;2002-06-27;22;Divorciado(a);Desenvolvedor;Marketing;2004-01-16;5926.11;CLT;Pós-graduação;Desligado;Castro do Sul;RS;Não;3.4;14;10
+971;Ian Freitas;Feminino;2001-01-12;24;Divorciado(a);Designer Gráfico;Marketing;2025-04-29;3810.53;PJ;Superior Incompleto;Desligado;Silva da Praia;SP;Sim;8.8;18;11
+972;Gustavo Azevedo;Outro;1986-09-17;38;Divorciado(a);Coordenador de Marketing;Administrativo;2008-05-05;5054.06;Temporário;Pós-graduação;Desligado;Castro;PR;Sim;7.4;4;4
+973;Clarice Nascimento;Outro;1997-03-06;28;Divorciado(a);Contador;Marketing;2014-06-04;5091.91;CLT;Superior Incompleto;Desligado;Cunha da Mata;MG;Sim;2.6;16;12
+974;Murilo da Conceição;Feminino;1996-10-04;28;Casado(a);Auxiliar de Logística;Administrativo;2017-09-18;1609.11;Temporário;Superior Completo;Desligado;Nunes Paulista;CE;Sim;8.7;15;5
+975;Lorena Teixeira;Feminino;2001-12-08;23;Viúvo(a);Analista de RH;Administrativo;2018-08-01;3920.42;Temporário;Superior Incompleto;Desligado;Aragão;RS;Sim;1.5;19;3
+976;Dr. Pietro Mendes;Outro;1995-03-11;30;Casado(a);Auxiliar de Logística;Financeiro;2015-07-14;1821.53;CLT;Superior Incompleto;Ativo;Mendes da Mata;BA;Sim;4.0;3;10
+977;Murilo Rezende;Outro;1998-03-21;27;Solteiro(a);Coordenador de Marketing;Logística;2007-02-14;7865.8;CLT;Ensino Médio;Desligado;Araújo;GO;Sim;2.4;5;7
+978;Sarah Castro;Masculino;1991-01-16;34;Viúvo(a);Gerente de Projetos;Recursos Humanos;2020-11-13;11896.89;Temporário;Superior Completo;Ativo;Nascimento;RS;Sim;9.1;4;9
+979;Anthony Farias;Masculino;1971-05-22;54;Casado(a);Assistente Administrativo;Tecnologia da Informação;2015-06-24;2209.97;Estágio;Pós-graduação;Ativo;Barros;DF;Sim;3.2;20;2
+980;Dr. Henrique Lima;Masculino;1965-12-21;59;Viúvo(a);Desenvolvedor;Financeiro;2010-07-18;4250.16;PJ;Ensino Médio;Ativo;da Mata;GO;Não;3.0;0;13
+981;Alice Cavalcanti;Masculino;2000-05-10;25;Viúvo(a);Assistente Administrativo;Logística;2024-03-09;2364.04;Estágio;Ensino Médio;Desligado;Araújo do Campo;PE;Não;4.9;5;10
+982;Luiz Miguel da Cruz;Outro;1977-11-20;47;Viúvo(a);Estagiário de TI;Marketing;2014-01-03;1770.86;Temporário;Superior Completo;Ativo;Rezende da Mata;BA;Não;6.8;16;9
+983;Gabrielly Caldeira;Outro;1975-09-07;49;Viúvo(a);Desenvolvedor;Tecnologia da Informação;2008-02-08;5462.74;Temporário;Pós-graduação;Desligado;Farias;MG;Sim;0.7;13;9
+984;Sophie Barbosa;Masculino;1973-05-13;52;Viúvo(a);Auxiliar de Logística;Administrativo;2022-01-20;1980.87;PJ;Superior Incompleto;Ativo;Viana do Amparo;RS;Sim;3.1;9;10
+985;Esther Rocha;Outro;2003-11-26;21;Viúvo(a);Desenvolvedor;Administrativo;2014-04-11;4900.18;PJ;Superior Incompleto;Desligado;Campos das Pedras;MG;Sim;7.7;5;5
+986;Yago da Luz;Outro;1995-08-17;29;Casado(a);Auxiliar de Logística;Logística;2001-10-31;2186.81;Estágio;Superior Completo;Ativo;Cavalcanti da Prata;PR;Não;9.3;9;11
+987;Fernanda Ribeiro;Masculino;1992-06-18;32;Divorciado(a);Auxiliar de Logística;Administrativo;2011-07-01;1747.75;Temporário;Pós-graduação;Desligado;Moreira Alegre;PE;Não;7.6;0;12
+988;Bruno Alves;Masculino;1997-08-22;27;Viúvo(a);Auxiliar de Logística;Administrativo;2008-09-11;2063.76;Estágio;Superior Completo;Ativo;da Cunha do Galho;RS;Sim;6.6;8;9
+989;Kamilly das Neves;Feminino;1981-02-18;44;Solteiro(a);Auxiliar de Logística;Financeiro;2023-01-15;2053.64;Temporário;Superior Incompleto;Ativo;Cunha;GO;Não;8.6;3;2
+990;Maria Vitória Moura;Masculino;1999-02-04;26;Casado(a);Auxiliar de Logística;Administrativo;2018-10-31;1835.78;Estágio;Ensino Médio;Desligado;Pereira;CE;Sim;2.8;19;12
+991;Milena Cavalcanti;Masculino;2003-05-07;22;Solteiro(a);Analista de RH;Administrativo;2006-03-27;3014.04;Temporário;Pós-graduação;Desligado;Correia Paulista;RJ;Não;1.3;2;10
+992;João Felipe Azevedo;Outro;1980-03-27;45;Viúvo(a);Gerente de Projetos;Tecnologia da Informação;2014-04-23;9949.04;PJ;Ensino Médio;Desligado;Aragão;RS;Não;5.7;8;9
+993;Júlia da Mata;Outro;1969-11-16;55;Solteiro(a);Gerente de Projetos;Recursos Humanos;2012-04-22;11353.63;Temporário;Superior Completo;Desligado;Barros da Praia;RS;Sim;3.2;7;14
+994;Bárbara Araújo;Feminino;2000-08-04;24;Divorciado(a);Assistente Administrativo;Administrativo;2002-05-07;2480.01;Temporário;Superior Completo;Ativo;Pires;MG;Sim;6.4;13;12
+995;Diego Alves;Feminino;1996-01-08;29;Solteiro(a);Estagiário de TI;Recursos Humanos;2012-05-22;1747.79;Temporário;Ensino Médio;Desligado;Alves de Silveira;SP;Não;7.9;15;9
+996;Bryan Campos;Outro;1966-12-29;58;Divorciado(a);Desenvolvedor;Administrativo;2025-03-17;4226.66;CLT;Ensino Médio;Ativo;Teixeira;DF;Sim;5.7;14;6
+997;Yago Gonçalves;Masculino;1974-05-12;51;Viúvo(a);Coordenador de Marketing;Financeiro;2014-09-13;6079.51;PJ;Superior Completo;Ativo;Nogueira de Silveira;MG;Não;4.5;13;0
+998;Joana Dias;Feminino;1975-08-14;49;Divorciado(a);Analista de RH;Logística;2009-08-11;3742.33;CLT;Ensino Médio;Ativo;Gonçalves Verde;BA;Não;1.5;7;10
+999;Dra. Lorena Duarte;Outro;1973-07-04;51;Viúvo(a);Assistente Administrativo;Logística;2012-07-28;2447.75;PJ;Superior Incompleto;Ativo;da Rocha;RS;Não;1.8;0;1
+1000;Dr. Rafael da Conceição;Masculino;1968-09-30;56;Divorciado(a);Desenvolvedor;Marketing;2006-09-21;6611.67;PJ;Superior Incompleto;Ativo;Pereira;PR;Sim;4.2;8;7
