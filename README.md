@@ -23,7 +23,7 @@ Cada projeto estará organizado em sua própria pasta contendo:
 |--------|-----------|
 | [Gestão de Faturamento e Logística](https://github.com/stephaniesouza25/PowerBI/tree/main/Log%C3%ADstica) | Dashboard completo com análise de faturamento, entregas, motoristas e devoluções. Desenvolvido em parceria com a Empowerdata. |
 | [Análise de RH](https://github.com/stephaniesouza25/PowerBI/tree/main/Dashboard_RH) | Dashboard para análise de RH com indicadores essenciais como: contratações, demissões, turnover, distribuição por cidade e gênero. Desenvolvido em parceria com a Hashtag Treinamentos.  |
-| [Análise Venda de Frutas](https://github.com/stephaniesouza25/PowerBI/tree/main/Vendas_Frutas) | Dashboard para análise de uma banca de frutas na feira 
+| [Análise Venda de Frutas](https://github.com/stephaniesouza25/PowerBI/tree/main/Vendas_Frutas) | Dashboard para análise de uma banca de frutas na feira fornecendo insights sobre as frutas mais vendidas, o lucro semanal, o comportamento de pagamento e o desempenho dos vendedores.
 
 ---
 
