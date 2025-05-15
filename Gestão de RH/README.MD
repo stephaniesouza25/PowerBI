@@ -47,7 +47,7 @@ Este projeto tem como objetivo analisar os principais indicadores relacionados a
 ### ✨ Objetivo
 Demonstrar a capacidade de construir dashboards interativos e informativos que auxiliam na tomada de decisão estratégica com base em dados de Recursos Humanos.
 
-### ![Telas](https://github.com/stephaniesouza25/analiseRH/blob/main/Tela%20Inicial.png)
+### ![Telas](https://github.com/stephaniesouza25/PowerBI/blob/main/Gest%C3%A3o%20de%20RH/Dashboard%20Gest%C3%A3o%20de%20RH.png)
 
 
 ```
