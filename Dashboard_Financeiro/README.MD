@@ -2,8 +2,6 @@
 
 Este projeto foi desenvolvido em parceria com a **Hashtag Treinamentos**, com o objetivo de apresentar uma **análise financeira consolidada**, destacando indicadores-chave como **receita, despesas, lucro e margem**.
 
-![Dashboard Financeiro](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/caminho-da-imagem.png)
-
 ---
 
 ## 📊 Visão Geral
@@ -59,4 +57,4 @@ Foi criado durante minha jornada de aprendizado com a **Hashtag Treinamentos** c
 ---
 
 ## Resultado
-![Dashboard Financeiro]()
+![Dashboard Financeiro](https://github.com/stephaniesouza25/PowerBI/blob/main/Dashboard_Financeiro/Imagens/Dashboard%20Financeiro.png)
