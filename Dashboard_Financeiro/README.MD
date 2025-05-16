@@ -57,4 +57,5 @@ Foi criado durante minha jornada de aprendizado com a **Hashtag Treinamentos** c
 ---
 
 ## Resultado
-![Dashboard Financeiro](https://github.com/stephaniesouza25/PowerBI/blob/main/Dashboard_Financeiro/Imagens/Dashboard%20Financeiro.png)
+![Dashboard Financeiro](https://raw.githubusercontent.com/stephaniesouza25/PowerBI/main/Dashboard_Financeiro/Imagens/Dashboard%20Financeiro.png)
+
