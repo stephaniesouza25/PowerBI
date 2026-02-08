@@ -26,6 +26,7 @@ Cada projeto estará organizado em sua própria pasta contendo:
 | [Análise Venda de Frutas](https://github.com/stephaniesouza25/PowerBI/tree/main/Vendas_Frutas) | Dashboard para análise de uma banca de frutas na feira fornecendo insights sobre as frutas mais vendidas, o lucro semanal, o comportamento de pagamento e o desempenho dos vendedores.
 | [Análise de Produção](https://github.com/stephaniesouza25/PowerBI/tree/main/An%C3%A1lise%20de%20Produ%C3%A7%C3%A3o). | Dashboard para a produção de uma fábrica ao longo do tempo, monitorando indicadores-chave como: quantidade produzida, eficiência de produção, taxa de retrabalho, evolução diária e por turnos.
 | [Análise de Gestão de RH](https://github.com/stephaniesouza25/PowerBI/tree/main/Gest%C3%A3o%20de%20RH). | Dashboard para a gestão de RH a análise abrange aspectos gerais, desempenho, engajamento e tendências de gestão.
+| [Análise Alimentos Saudáveis vs Ultraprocessados](https://github.com/stephaniesouza25/PowerBI/tree/main/An%C3%A1lise%20Cesta%20B%C3%A1sica). | Dashboard interativo comparando alimentos in natura vs ultraprocessados através de indicadores nutricionais e econômicos.
 ---
 
 ## 🛠️ Tecnologias Utilizadas
