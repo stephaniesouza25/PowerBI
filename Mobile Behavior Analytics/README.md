@@ -32,6 +32,9 @@ Para garantir a integridade das análises e o visual *clean* do dashboard, reali
 * **Criação de Colunas Condicionais:** Implementação da lógica de `User Behavior Class` para segmentar usuários em categorias baseando-se no volume de dados e tempo de tela.
 * **Tratamento de Medidas (DAX):** * Criação de medidas de Média para suavizar as comparações.
     * Cálculo de KPIs dinâmicos sensíveis aos filtros de Sistema Operacional.
+ 
+## Resultado
+![Display celular](https://github.com/stephaniesouza25/PowerBI/blob/main/Mobile%20Behavior%20Analytics/Layout%20An%C3%A1lise.png)
 
 ## 📂 Como Visualizar este Projeto
 1. Faça o download do arquivo `.pbix` presente neste repositório.
